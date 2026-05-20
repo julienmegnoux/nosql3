@@ -1,1 +1,4228 @@
-[]
+[
+  {
+    "_id": "573a1395f29313caabce1607",
+    "plot": "The outrageous Baron Munchausen tells of his many adventures, from meeting the Man in the Moon to defeating a Turkish army all by himself.",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "runtime": 83,
+    "cast": [
+      "Milos Kopeckè",
+      "Rudolf Jelènek",
+      "Jana Brejchovè",
+      "Karel Hèger"
+    ],
+    "num_mflix_comments": 0,
+    "title": "The Outrageous Baron Munchausen",
+    "fullplot": "The stories of Baron Mènchhausen were enriched by Karel Zeman with a character of a modern astronaut Tommy and compare two different worlds - the world of a rococo cavalier whose fantasy does not have any limits and the world of a young man of the present time. The astronaut (Rudolf Jelènek) finds on the moon the famous dreamer Baron Mènchhausen (Milos Kopeckè), who takes him back to earth and a variety of exaggerated adventures. Amusing variation on the old stories, using live action against deliberately artificial backgrounds.",
+    "languages": [
+      "Czech"
+    ],
+    "released": "1962-09-21T00:00:00.000Z",
+    "directors": [
+      "Karel Zeman"
+    ],
+    "writers": [
+      "Jirè Brdecka (dialogue)",
+      "Gottfried August Bèrger (book)",
+      "Josef Kainar (dialogue)",
+      "Rudolph Erich Raspe (stories)",
+      "Karel Zeman (screenplay)"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 0,
+      "text": "1 win."
+    },
+    "lastupdated": "2015-07-02 00:16:12.613000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 7.8,
+      "votes": 817,
+      "id": 54665
+    },
+    "countries": [
+      "Czechoslovakia"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.1,
+        "numReviews": 309,
+        "meter": 90
+      },
+      "lastUpdated": "2015-08-25T18:35:16.000Z"
+    }
+  },
+  {
+    "_id": "573a1395f29313caabce16a3",
+    "plot": "Two young scientists are exploring new fields of nuclear physics. Dmitry Gusev and Ilya Kulikov are good friends, but rivals in love. Dmitry marries Lyolya and they live happily together. ...",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": 111,
+    "cast": [
+      "Aleksey Batalov",
+      "Innokentiy Smoktunovskiy",
+      "Tatyana Lavrova",
+      "Nikolai Plotnikov"
+    ],
+    "num_mflix_comments": 1,
+    "title": "Nine Days of One Year",
+    "fullplot": "Two young scientists are exploring new fields of nuclear physics. Dmitry Gusev and Ilya Kulikov are good friends, but rivals in love. Dmitry marries Lyolya and they live happily together. Luck has it that he makes an important discovery. Unfortunately he exposes himself to radioactivity during the experiments. As a result he falls seriously ill. However Dmitry has a strong spirit. His will to live, the deep passion for his work and his strong love for mankind makes it possible for him to recover.",
+    "languages": [
+      "Russian"
+    ],
+    "released": "1962-03-05T00:00:00.000Z",
+    "directors": [
+      "Mikhail Romm"
+    ],
+    "writers": [
+      "Daniil Khrabrovitsky",
+      "Mikhail Romm"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 0,
+      "text": "1 win."
+    },
+    "lastupdated": "2015-07-26 00:46:22.523000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 7.7,
+      "votes": 533,
+      "id": 54803
+    },
+    "countries": [
+      "Soviet Union"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.2,
+        "numReviews": 102,
+        "meter": 93
+      },
+      "production": "Criterion Collection",
+      "lastUpdated": "2015-08-23T18:46:12.000Z"
+    }
+  },
+  {
+    "_id": "573a1395f29313caabce1798",
+    "plot": "Battle on Kozara known as the 'third offensive' is the hardest and most tragic battle led by the Yugoslav Partisans in World War II. In June of 1942 Germans and their collaborators decide ...",
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "runtime": 124,
+    "cast": [
+      "Bert Sotlar",
+      "Velimir 'Bata' Zivojinovic",
+      "Milena Dravic",
+      "Olivera Markovic"
+    ],
+    "title": "Kozara",
+    "fullplot": "Battle on Kozara known as the 'third offensive' is the hardest and most tragic battle led by the Yugoslav Partisans in World War II. In June of 1942 Germans and their collaborators decide to get rid of partisans and their stronghold in the woods of Mount Kozara in Northern Bosnia. They encircle the mountain and begin the mop up operation. Out gunned and outnumbered the partisans must not only take care of themselves but try to protect thousands of refugees too.",
+    "languages": [
+      "Serbo-Croatian"
+    ],
+    "released": "1962-04-13T00:00:00.000Z",
+    "directors": [
+      "Veljko Bulajic"
+    ],
+    "writers": [
+      "Stevan Bulajic",
+      "Veljko Bulajic",
+      "Ratko Djurovic",
+      "Skender Kulenovic",
+      "Berislav Orlovic",
+      "Vladimir Spindler"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 0,
+      "text": "1 win."
+    },
+    "lastupdated": "2015-09-05 00:33:58.597000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 7.1,
+      "votes": 333,
+      "id": 55059
+    },
+    "countries": [
+      "Yugoslavia"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.6,
+        "numReviews": 2777,
+        "meter": 70
+      },
+      "dvd": "2004-10-12T00:00:00.000Z",
+      "critic": {
+        "rating": 6.8,
+        "numReviews": 10,
+        "meter": 90
+      },
+      "lastUpdated": "2015-09-15T17:04:38.000Z",
+      "rotten": 1,
+      "production": "Paramount Pictures",
+      "fresh": 9
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": "573a1395f29313caabce1a24",
+    "plot": "Ralph and Annabell Willart are a feuding couple who are constantly bickering over their worthless, good-for nothing son Berry-Berry. When Berry-Berry begins yet another meaningless love ...",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": 111,
+    "rated": "APPROVED",
+    "cast": [
+      "Eva Marie Saint",
+      "Warren Beatty",
+      "Karl Malden",
+      "Angela Lansbury"
+    ],
+    "num_mflix_comments": 1,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmIyZGIxNDQtY2IxYS00MzZjLWFlMzUtYWM0NDZmNzBlZTkwXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_SX677_AL_.jpg",
+    "title": "All Fall Down",
+    "fullplot": "Ralph and Annabell Willart are a feuding couple who are constantly bickering over their worthless, good-for nothing son Berry-Berry. When Berry-Berry begins yet another meaningless love affair, this time with an older woman named Echo O'Brien, he really gets his parents at each others' throats.",
+    "languages": [
+      "English"
+    ],
+    "released": "1962-04-11T00:00:00.000Z",
+    "directors": [
+      "John Frankenheimer"
+    ],
+    "writers": [
+      "William Inge (screenplay)",
+      "James Leo Herlihy (novel)"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 1,
+      "text": "1 win & 1 nomination."
+    },
+    "lastupdated": "2015-08-23 01:17:31.863000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 6.9,
+      "votes": 1212,
+      "id": 55738
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.3,
+        "numReviews": 200,
+        "meter": 49
+      },
+      "dvd": "1992-06-24T00:00:00.000Z",
+      "production": "MGM",
+      "lastUpdated": "2015-08-20T18:18:09.000Z"
+    }
+  },
+  {
+    "_id": "573a1395f29313caabce1a3d",
+    "plot": "Galindo works in a bank. One day he convinces the other employees in the bank to plan a hold-up in the bank they are working. They prepare everything carefully. However, real robbers come ...",
+    "genres": [
+      "Comedy"
+    ],
+    "runtime": 92,
+    "title": "Atraco a las tres",
+    "countries": [
+      "Spain"
+    ],
+    "fullplot": "Galindo works in a bank. One day he convinces the other employees in the bank to plan a hold-up in the bank they are working. They prepare everything carefully. However, real robbers come just before the fake ones.",
+    "languages": [
+      "Spanish"
+    ],
+    "cast": [
+      "Josè Luis Lèpez Vèzquez",
+      "Cassen",
+      "Gracita Morales",
+      "Katia Loritz"
+    ],
+    "directors": [
+      "Josè Marèa Forquè"
+    ],
+    "writers": [
+      "Vicente Coello (screenplay)",
+      "Vicente Coello (story)",
+      "Pedro Masè",
+      "Rafael J. Salvia"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 0,
+      "text": "1 win."
+    },
+    "lastupdated": "2015-08-06 00:30:32.477000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 7.4,
+      "votes": 651,
+      "id": 55763
+    },
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.8,
+        "numReviews": 67,
+        "meter": 100
+      },
+      "lastUpdated": "2015-08-14T18:43:48.000Z"
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": "573a1395f29313caabce1a5f",
+    "plot": "Billy is an innocent, naive seaman in the British Navy in 1797. When the ship's sadistic master-at-arms is murdered, Billy is accused and tried.",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "History"
+    ],
+    "runtime": 123,
+    "rated": "APPROVED",
+    "cast": [
+      "Robert Ryan",
+      "Peter Ustinov",
+      "Melvyn Douglas",
+      "Paul Rogers"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzFiZDMyZjEtZTM1Zi00ZGM2LWEyNDYtYzFmY2E0ZGUyNTZiL2ltYWdlXkEyXkFqcGdeQXVyNjQzNDI3NzY@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Billy Budd",
+    "fullplot": "H.M.S. Avenger is headed into battle against the French fleet during the Napoleonic Wars, and the dark shadow of two recent mutinies in the English fleet concern Captain Vere. He relies on his cruel and often sadistic Master-at-Arms John Claggert to maintain what he believes to be tenuous order and discipline aboard the ship. When a new seaman, Billy Budd, is pressed into service from a passing merchantman, his innocent, happy-go-lucky attitude quickly endears him to both his messmates as well as the ship's officers. However, his charismatic naivete seems to bother Claggert, whose perverse depravity makes him resent Billy's good-natured purity, especially after the teenager's promotion to fore-top captain. The mean-spirited Claggert unfairly plots to put him on report and ultimately perjures himself when he accuses Billy of conspiring to mutiny.",
+    "languages": [
+      "English"
+    ],
+    "released": "1962-11-12T00:00:00.000Z",
+    "directors": [
+      "Peter Ustinov"
+    ],
+    "writers": [
+      "Louis O. Coxe (based upon the play: \"Billy Budd\")",
+      "Robert H. Chapman (based upon the play: \"Billy Budd\")",
+      "Herman Melville (from the novel: \"Billy Budd Foretopman\")",
+      "Peter Ustinov (screenplay)",
+      "DeWitt Bodeen (screenplay)"
+    ],
+    "awards": {
+      "wins": 2,
+      "nominations": 7,
+      "text": "Nominated for 1 Oscar. Another 1 win & 7 nominations."
+    },
+    "lastupdated": "2015-08-22 00:36:16.233000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 7.8,
+      "votes": 2751,
+      "id": 55796
+    },
+    "countries": [
+      "UK"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4,
+        "numReviews": 429,
+        "meter": 87
+      },
+      "dvd": "2007-03-06T00:00:00.000Z",
+      "critic": {
+        "rating": 7.3,
+        "numReviews": 7,
+        "meter": 100
+      },
+      "lastUpdated": "2015-08-31T18:02:37.000Z",
+      "rotten": 0,
+      "production": "Allied Artists Pictures",
+      "fresh": 7
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": "573a1395f29313caabce1a6a",
+    "plot": "A Debt-ridden circus is saved by an well-meaning but inept publicity man Pop Wonder.",
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "runtime": 123,
+    "rated": "G",
+    "cast": [
+      "Doris Day",
+      "Stephen Boyd",
+      "Jimmy Durante",
+      "Martha Raye"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQxNzgwNjU3OF5BMl5BanBnXkFtZTgwNzAzMDIxMTE@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Billy Rose's Jumbo",
+    "fullplot": "It's the early 1900's. The Wonder Circus is a traveling circus owned and operated by Anthony Wonder - who performs as a clown - and his daughter Kitty Wonder - who performs as an aerialist and trick rider. Although Kitty loves her Pop as she and all the other circus performers call her father, she hates his gambling addiction which is placing the circus deep in debt. They and their employees treat the circus like one big family, especially Lulu the fortune teller who wants to be Mrs. Wonder, but the employees may only be so loyal if they aren't getting paid. As such, many of the performers leave or threaten to leave to join the Wonder Circus' main competitor, the Noble Circus owned by the power and money hungry John Noble. Although Pop and Kitty don't want anyone to leave their employ, the only act that they will never let go is Jumbo, their trained elephant, who Noble had tried to buy in the past. As many performers leave, into their midst comes circus Jack-of-all-trades Sam Rawlins. Kitty is reluctant to hire Sam because she wants loyal people working for them instead of someone like Sam who she sees as a \"sunshiner\", a career circus employee who moves from gig to gig. Pop has no such reservation and hires him. Despite still being somewhat suspicious of Sam's motivations since she figures he could get more money working for Noble with his vast array of circus skills, Kitty starts to fall in love with Sam, and he with her, despite his attempts to feign disinterest. Indeed, Sam is hiding a secret about himself and his reason for being with the show. That secret may jeopardize his standing with the Wonders if they ever found out - even if Sam begins to have second thoughts about his reasons for joining them - and jeopardize the entire Wonder Circus itself which includes Jumbo's life.",
+    "languages": [
+      "English"
+    ],
+    "released": "1962-12-21T00:00:00.000Z",
+    "directors": [
+      "Charles Walters"
+    ],
+    "writers": [
+      "Ben Hecht (book)",
+      "Charles MacArthur (book)",
+      "Sidney Sheldon (screenplay)"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 9,
+      "text": "Nominated for 1 Oscar. Another 8 nominations."
+    },
+    "lastupdated": "2015-09-16 12:00:56.510000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 6.3,
+      "votes": 923,
+      "id": 55797
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.2,
+        "numReviews": 2030,
+        "meter": 58
+      },
+      "dvd": "2005-04-26T00:00:00.000Z",
+      "production": "MGM Home Entertainment",
+      "lastUpdated": "2015-09-01T19:14:20.000Z"
+    }
+  },
+  {
+    "_id": "573a1395f29313caabce1a6b",
+    "plot": "A surly convicted murderer held in permanent isolation redeems himself when he becomes a renowned bird expert.",
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "runtime": 147,
+    "cast": [
+      "Burt Lancaster",
+      "Karl Malden",
+      "Thelma Ritter",
+      "Neville Brand"
+    ],
+    "num_mflix_comments": 1,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc4NDc3MjIyMV5BMl5BanBnXkFtZTcwMTEyNDcyNA@@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Birdman of Alcatraz",
+    "fullplot": "In 1912, the notorious and violent prisoner Robert Franklin Stroud is transferred to the Leavenworth Prison convicted for murdering a man. When a guard cancels the visit of his mother, Elizabeth Stroud, due to a violation of the internal rules, he stabs and kills the guard and goes to trial three times. He is sentenced to be executed by the gallows, but his mother appeals to President Woodrow Wilson who commutes his sentence to life imprisonment. However, the warden, Harvey Shoemaker, decides to keep Stroud in solitary for the rest of his life. One day, Stroud finds a sparrow that has fallen from the nest in the yard and he raises the bird until it is strong enough to fly. Stroud finds a motivation for his life raising and caring for birds and becomes an expert in birds. He marries Stella Johnson and together they run a business, providing medicine developed by Stroud. But a few years after, Stroud is transferred to Alcatraz and has to leave his birds behind.",
+    "languages": [
+      "English"
+    ],
+    "released": "1962-07-03T00:00:00.000Z",
+    "directors": [
+      "John Frankenheimer",
+      "Charles Crichton"
+    ],
+    "writers": [
+      "Guy Trosper (screenplay)",
+      "Thomas E. Gaddis (book)"
+    ],
+    "awards": {
+      "wins": 11,
+      "nominations": 5,
+      "text": "Nominated for 4 Oscars. Another 7 wins & 5 nominations."
+    },
+    "lastupdated": "2015-09-17 04:40:24.513000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 7.8,
+      "votes": 11447,
+      "id": 55798
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.7,
+        "numReviews": 7730,
+        "meter": 85
+      },
+      "dvd": "2001-03-06T00:00:00.000Z",
+      "critic": {
+        "rating": 7,
+        "numReviews": 17,
+        "meter": 82
+      },
+      "lastUpdated": "2015-09-11T17:55:52.000Z",
+      "rotten": 3,
+      "production": "MGM Home Entertainment",
+      "fresh": 14
+    }
+  },
+  {
+    "_id": "573a1395f29313caabce1a74",
+    "plot": "Jane's car breaks down and she makes her way to a nearby estate, owned by a mysterious man named Caligari. Soon she finds that she has become a virtual prisoner, and none of the strange ...",
+    "genres": [
+      "Thriller"
+    ],
+    "runtime": 106,
+    "rated": "APPROVED",
+    "cast": [
+      "Glynis Johns",
+      "Dan O'Herlihy",
+      "Richard Davalos",
+      "Lawrence Dobkin"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTA5ODI0NzcyOTNeQTJeQWpwZ15BbWU3MDI0NTYwMzE@._V1_SY1000_SX677_AL_.jpg",
+    "title": "The Cabinet of Caligari",
+    "fullplot": "Jane's car breaks down and she makes her way to a nearby estate, owned by a mysterious man named Caligari. Soon she finds that she has become a virtual prisoner, and none of the strange inhabitants of the estate are willing or capable of helping her escape. Caligari reveals himself as a passive pervert, showing her filthy pictures, spying on her, and trying to make her talk about intimate details of her life. She attempts to free herself by the only means at her disposal.",
+    "languages": [
+      "English"
+    ],
+    "released": "1962-06-27T00:00:00.000Z",
+    "directors": [
+      "Roger Kay"
+    ],
+    "writers": [
+      "Robert Bloch"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 0,
+      "text": "1 win."
+    },
+    "lastupdated": "2015-08-14 00:32:37.567000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 5.8,
+      "votes": 542,
+      "id": 55819
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 2.7,
+        "numReviews": 99,
+        "meter": 21
+      },
+      "dvd": "2005-09-06T00:00:00.000Z",
+      "lastUpdated": "2015-06-23T18:25:02.000Z"
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": "573a1395f29313caabce1a81",
+    "plot": "This film captures the criminal behavior of two young Copacabana thugs (the \"cafajestes\"). The two plan a blackmail coup against a rich old man, using nude pictures of a lady on a deserted ...",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "runtime": 100,
+    "cast": [
+      "Per Aabel",
+      "Norma Bengell",
+      "Hugo Carvana",
+      "Lucy de Carvalho"
+    ],
+    "num_mflix_comments": 1,
+    "title": "The Hustlers",
+    "fullplot": "This film captures the criminal behavior of two young Copacabana thugs (the \"cafajestes\"). The two plan a blackmail coup against a rich old man, using nude pictures of a lady on a deserted beach. But things don't always happen as planned.",
+    "languages": [
+      "Portuguese"
+    ],
+    "released": "1962-03-24T00:00:00.000Z",
+    "directors": [
+      "Ruy Guerra"
+    ],
+    "writers": [
+      "Ruy Guerra",
+      "Miguel Torres"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 1,
+      "text": "1 nomination."
+    },
+    "lastupdated": "2015-07-02 00:38:42.613000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 7.2,
+      "votes": 280,
+      "id": 55821
+    },
+    "countries": [
+      "Brazil"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.7,
+        "numReviews": 9,
+        "meter": 100
+      },
+      "lastUpdated": "2015-09-01T19:18:45.000Z"
+    }
+  },
+  {
+    "_id": "573a1395f29313caabce1a90",
+    "plot": "An upper-class corporal from Paris is captured by the Germans when they invade France in 1940. Assisted and accompanied by characters as diverse as a morose dairy farmer, a waiter, a myopic...",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "runtime": 90,
+    "cast": [
+      "Jean-Pierre Cassel",
+      "Claude Brasseur",
+      "O.E. Hasse",
+      "Claude Rich"
+    ],
+    "num_mflix_comments": 2,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDA4ZmM1NjEtNzFmYy00ODNiLWIxYWYtNjdjOTg0YzljMDY4XkEyXkFqcGdeQXVyNTM4MjgzNzc@._V1_SY1000_SX677_AL_.jpg",
+    "title": "The Elusive Corporal",
+    "fullplot": "An upper-class corporal from Paris is captured by the Germans when they invade France in 1940. Assisted and accompanied by characters as diverse as a morose dairy farmer, a waiter, a myopic intellectual, a working-class Parisian, and a German dental assistant, the corporal tries to escape from prison camps, sometimes making it a few yards, sometimes reaching the French border.",
+    "languages": [
+      "French",
+      "German"
+    ],
+    "released": "1962-05-23T00:00:00.000Z",
+    "directors": [
+      "Jean Renoir"
+    ],
+    "writers": [
+      "Guy Lefranc (adaptation)",
+      "Jacques Perret (novel)",
+      "Jean Renoir (adaptation)"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 2,
+      "text": "Nominated for 1 BAFTA Film Award. Another 1 nomination."
+    },
+    "lastupdated": "2015-07-01 04:52:20.960000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 7.1,
+      "votes": 500,
+      "id": 55827
+    },
+    "countries": [
+      "France"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.7,
+        "numReviews": 279,
+        "meter": 87
+      },
+      "dvd": "1991-03-11T00:00:00.000Z",
+      "critic": {
+        "rating": 7.3,
+        "numReviews": 8,
+        "meter": 100
+      },
+      "lastUpdated": "2015-06-18T18:58:19.000Z",
+      "rotten": 0,
+      "fresh": 8
+    }
+  },
+  {
+    "_id": "573a1395f29313caabce1ac7",
+    "plot": "The emotional story of a young man in a mental institution for teens who begins to understand his psychosis in the environment of others with mental and emotional problems. He finds ...",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": 95,
+    "cast": [
+      "Keir Dullea",
+      "Janet Margolin",
+      "Howard Da Silva",
+      "Neva Patterson"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmY4ZjJhOWQtMjQ2NC00NmI0LWIxMDEtZDgyMTAyN2ViNWJiXkEyXkFqcGdeQXVyMzU4Nzk4MDI@._V1_SY1000_SX677_AL_.jpg",
+    "title": "David and Lisa",
+    "fullplot": "The emotional story of a young man in a mental institution for teens who begins to understand his psychosis in the environment of others with mental and emotional problems. He finds intimacy with Lisa, a young woman suffering from dissociative identity disorder.",
+    "languages": [
+      "English"
+    ],
+    "released": "1963-11-29T00:00:00.000Z",
+    "directors": [
+      "Frank Perry"
+    ],
+    "writers": [
+      "Eleanor Perry (screenplay)",
+      "Theodore Isaac Rubin (book)"
+    ],
+    "awards": {
+      "wins": 6,
+      "nominations": 4,
+      "text": "Nominated for 2 Oscars. Another 4 wins & 4 nominations."
+    },
+    "lastupdated": "2015-08-19 00:31:57.547000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 7.5,
+      "votes": 1565,
+      "id": 55892
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.8,
+        "numReviews": 1018,
+        "meter": 80
+      },
+      "dvd": "1999-06-29T00:00:00.000Z",
+      "critic": {
+        "rating": 7.1,
+        "numReviews": 10,
+        "meter": 80
+      },
+      "lastUpdated": "2015-08-31T18:02:07.000Z",
+      "rotten": 2,
+      "production": "Continental",
+      "fresh": 8
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": "573a1395f29313caabce1aeb",
+    "plot": "A resourceful British government agent seeks answers in a case involving the disappearance of a colleague and the disruption of the American space program.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "runtime": 110,
+    "rated": "APPROVED",
+    "cast": [
+      "Sean Connery",
+      "Ursula Andress",
+      "Joseph Wiseman",
+      "Jack Lord"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk4YzdjOTgtNjM4NS00YjljLThhM2QtYTI3OTQ0OGVhNTMxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Dr. No",
+    "fullplot": "James Bond (007) is Britain's top agent and is on an exciting mission, to solve the mysterious murder of a fellow agent. The task sends him to Jamaica, where he joins forces with Quarrel and a loyal CIA agent, Felix Leiter. While dodging tarantulas, \"fire breathing dragons\" and a trio of assassins, known as the three blind mice. Bond meets up with the beautiful Honey Ryder and goes face to face with the evil Dr. No.",
+    "languages": [
+      "English",
+      "French"
+    ],
+    "released": "1963-05-08T00:00:00.000Z",
+    "directors": [
+      "Terence Young"
+    ],
+    "writers": [
+      "Richard Maibaum (screenplay)",
+      "Johanna Harwood (screenplay)",
+      "Berkely Mather (screenplay)",
+      "Ian Fleming (novel)"
+    ],
+    "awards": {
+      "wins": 3,
+      "nominations": 2,
+      "text": "Won 1 Golden Globe. Another 2 wins & 2 nominations."
+    },
+    "lastupdated": "2015-09-05 00:42:01.370000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 7.3,
+      "votes": 106351,
+      "id": 55928
+    },
+    "countries": [
+      "UK"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.6,
+        "numReviews": 110022,
+        "meter": 82
+      },
+      "dvd": "2002-10-22T00:00:00.000Z",
+      "critic": {
+        "rating": 7.8,
+        "numReviews": 51,
+        "meter": 96
+      },
+      "lastUpdated": "2015-09-16T18:21:02.000Z",
+      "consensus": "Featuring plenty of the humor, action, and escapist thrills the series would become known for, Dr. No kicks off the Bond franchise in style.",
+      "rotten": 2,
+      "production": "United Artists",
+      "fresh": 49
+    }
+  },
+  {
+    "_id": "573a1395f29313caabce1af6",
+    "plot": "Living in exile after the death of their father, the grown children of a murdered and usurped king converge to exact eye-for-an-eye revenge.",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": 110,
+    "cast": [
+      "Irene Papas",
+      "Giannis Fertis",
+      "Aleka Katselli",
+      "Theano Ioannidou"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ5NjMxNDQxM15BMl5BanBnXkFtZTcwNDEzMDQyMQ@@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Electra",
+    "fullplot": "A powerful rendering of the tragedy of Elektra by Euripides, second in a trilogy. The film begins with a summary treatment without dialogue of the action of the preceding play, The Agamemnon, in which the wicked Queen Clytemnestra and her lover Aesgisthes murder her husband Agamemnon upon his return from the Trojan War.",
+    "languages": [
+      "Greek"
+    ],
+    "released": "1962-10-24T00:00:00.000Z",
+    "directors": [
+      "Mihalis Kakogiannis"
+    ],
+    "writers": [
+      "Euripides (play)",
+      "Mihalis Kakogiannis"
+    ],
+    "awards": {
+      "wins": 12,
+      "nominations": 1,
+      "text": "Nominated for 1 Oscar. Another 11 wins & 1 nomination."
+    },
+    "lastupdated": "2015-09-01 01:18:03.630000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 7.6,
+      "votes": 840,
+      "id": 55950
+    },
+    "countries": [
+      "Greece"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.5,
+        "numReviews": 1437,
+        "meter": 71
+      },
+      "dvd": "2002-03-05T00:00:00.000Z",
+      "production": "Finos Film",
+      "lastUpdated": "2015-08-17T18:33:26.000Z"
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": "573a1395f29313caabce1b3c",
+    "plot": "When he finds out his boss is retiring to Arizona, a sailor has to find a way to buy the Westwind, a boat that he and his father built. He is also caught between two women: insensitive club singer Robin and sweet Laurel.",
+    "genres": [
+      "Musical",
+      "Comedy"
+    ],
+    "runtime": 106,
+    "rated": "PG",
+    "cast": [
+      "Elvis Presley",
+      "Stella Stevens",
+      "Jeremy Slate",
+      "Laurel Goodwin"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWI3ODMwNTMtZjQ5MS00Y2E4LTkwZDEtZDMzOTE1NzZkNmM4XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Girls! Girls! Girls!",
+    "fullplot": "Elvis plays Ross Carpenter, a fishing guide/sailor who loves his life out on the sea. When he finds out his boss is retiring to Arizona, he has to find a way to buy the Westwind, a boat that he and his father built. He is also caught between two women: insensitive club singer Robin and sweet Laurel.",
+    "languages": [
+      "English"
+    ],
+    "released": "1962-11-21T00:00:00.000Z",
+    "directors": [
+      "Norman Taurog"
+    ],
+    "writers": [
+      "Allan Weiss (story)",
+      "Edward Anhalt (screenplay)",
+      "Allan Weiss (screenplay)"
+    ],
+    "awards": {
+      "wins": 3,
+      "nominations": 0,
+      "text": "Nominated for 1 Golden Globe. Another 2 wins."
+    },
+    "lastupdated": "2015-09-15 05:14:04.397000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 5.5,
+      "votes": 1806,
+      "id": 56023
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "website": "http://www.girlsthefilm.com",
+      "viewer": {
+        "rating": 3.3,
+        "numReviews": 7935,
+        "meter": 51
+      },
+      "dvd": "2003-01-07T00:00:00.000Z",
+      "critic": {
+        "rating": 4.9,
+        "numReviews": 5,
+        "meter": 40
+      },
+      "lastUpdated": "2015-08-07T18:42:39.000Z",
+      "rotten": 3,
+      "production": "Paramount Pictures",
+      "fresh": 2
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": "573a1395f29313caabce1b4b",
+    "plot": "Jackie Gleason plays a mute janitor who befriends Nicole, the little daughter of a prostitute.",
+    "genres": [
+      "Comedy"
+    ],
+    "runtime": 104,
+    "cast": [
+      "Jackie Gleason",
+      "Katherine Kath",
+      "Gabrielle Dorziat",
+      "Jean Lefebvre"
+    ],
+    "num_mflix_comments": 1,
+    "title": "Gigot",
+    "fullplot": "A poignant comedy about a mute who befriends Nicole, the little daughter of a prostitute. Gleason shows his considerable talents as an actor without uttering a sound as he plays the bumbling, kind-hearted janitor, Gigot. Gleason wrote the original story and music for this film.",
+    "languages": [
+      "English"
+    ],
+    "released": "1962-11-01T00:00:00.000Z",
+    "directors": [
+      "Gene Kelly"
+    ],
+    "writers": [
+      "Jackie Gleason (original story)",
+      "John Patrick (screenplay)"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 2,
+      "text": "Nominated for 1 Oscar. Another 1 nomination."
+    },
+    "lastupdated": "2015-09-17 04:49:05.077000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 7.4,
+      "votes": 896,
+      "id": 56017
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4,
+        "numReviews": 419,
+        "meter": 90
+      },
+      "lastUpdated": "2015-08-19T19:00:33.000Z"
+    }
+  },
+  {
+    "_id": "573a1395f29313caabce1b4d",
+    "plot": "This pseudo-biographical movie depicts 5 years from 1885 on in the life of the Viennan psychologist Freud (1856-1939). At this time, most of his colleagues refuse to cure hysteric patients,...",
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "runtime": 140,
+    "cast": [
+      "Montgomery Clift",
+      "Susannah York",
+      "Larry Parks",
+      "Susan Kohner"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmYxZDQzYTMtYmZhMi00ZjgwLTkxZDctNWE4OTc5MDc2ZmFlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Freud",
+    "fullplot": "This pseudo-biographical movie depicts 5 years from 1885 on in the life of the Viennan psychologist Freud (1856-1939). At this time, most of his colleagues refuse to cure hysteric patients, because they believe they're just simulating to gain attention. But Freud learns to use hypnosis to find out the reasons for the psychosis. His main patient is a young woman who refuses to drink water and is plagued by always the same nightmare.",
+    "languages": [
+      "English"
+    ],
+    "released": "1962-12-12T00:00:00.000Z",
+    "directors": [
+      "John Huston"
+    ],
+    "writers": [
+      "Charles Kaufman (screenplay)",
+      "Charles Kaufman (story)",
+      "Wolfgang Reinhardt"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 9,
+      "text": "Nominated for 2 Oscars. Another 7 nominations."
+    },
+    "lastupdated": "2015-08-25 01:09:06.837000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 7.2,
+      "votes": 1568,
+      "id": 55998
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.6,
+        "numReviews": 625,
+        "meter": 72
+      },
+      "production": "Universal Pictures",
+      "lastUpdated": "2015-07-20T18:44:32.000Z"
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": "573a1395f29313caabce1b5e",
+    "plot": "Based on the Broadway hit about the life and times of burlesque dancer Gypsy Rose Lee and her aggressive stage mother, Mama Rose.",
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ],
+    "runtime": 143,
+    "rated": "APPROVED",
+    "cast": [
+      "Rosalind Russell",
+      "Natalie Wood",
+      "Karl Malden",
+      "Paul Wallace"
+    ],
+    "num_mflix_comments": 1,
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2FiYWQzOGItZjBlNS00ZjMyLWEwZjAtYzMwYTlmNGI1MzZlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Gypsy",
+    "fullplot": "Mama Rose lives to see her daughter June succeed on Broadway by way of vaudeville. When June marries and leaves, Rose turns her hope and attention to her elder, less obviously talented, daughter Louise. However, having her headlining as a stripper at Minsky's Burlesque is not what she initially has in mind.",
+    "languages": [
+      "English"
+    ],
+    "released": "1962-11-01T00:00:00.000Z",
+    "directors": [
+      "Mervyn LeRoy"
+    ],
+    "writers": [
+      "Arthur Laurents (based upon the stage play: book by)",
+      "Gypsy Rose Lee (from the memoirs of)",
+      "Leonard Spigelgass (screenplay)"
+    ],
+    "awards": {
+      "wins": 7,
+      "nominations": 6,
+      "text": "Nominated for 3 Oscars. Another 4 wins & 6 nominations."
+    },
+    "lastupdated": "2015-09-13 00:22:29.570000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 7.2,
+      "votes": 3895,
+      "id": 56048
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.6,
+        "numReviews": 6329,
+        "meter": 76
+      },
+      "dvd": "2000-05-02T00:00:00.000Z",
+      "critic": {
+        "rating": 6.3,
+        "numReviews": 13,
+        "meter": 69
+      },
+      "lastUpdated": "2015-09-01T19:13:24.000Z",
+      "rotten": 4,
+      "production": "Warner Home Video",
+      "fresh": 9
+    }
+  },
+  {
+    "_id": "573a1395f29313caabce1b5f",
+    "plot": "A group of men trap wild animals in Africa and sell them to zoos. Will the arrival of a female wildlife photographer change their ways ?",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "runtime": 157,
+    "rated": "APPROVED",
+    "cast": [
+      "John Wayne",
+      "Hardy Krèger",
+      "Elsa Martinelli",
+      "Red Buttons"
+    ],
+    "num_mflix_comments": 1,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGY4NmIzMzUtZjA0OC00NzkwLWE3YmMtMWVjZTgwNTljYjI4XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Hatari!",
+    "fullplot": "John Wayne and his ensemble cast cavort over the African landscape filling orders from zoos for wild animals. Bruce Cabot plays \"the Indian\", a womanizing sharpshooter who is gored by a rhino in the opening scenes of the film. This becomes a running theme through the movie; their bad luck in catching rhinos, and provides the climactic ending chase. While Bruce is in the hospital, Elsa Martinelli shows up as a woman photographer from a Swiss zoo, and John wants to send her packing. She strongarms the Duke into letting her stay by promising that her zoo will buy most of their animals this season if she's allowed to go along on the hunts and take photos. Hardy Kruger, Gerard Blain, Michelle Girardon and Valentin de Vargas round out the group. They traipse over the African landscape capturing animals; Elsa also has a running gag where she collects baby elephants as the movie goes along. In the end she's acquired three of them.",
+    "languages": [
+      "English",
+      "Swahili"
+    ],
+    "released": "1962-06-19T00:00:00.000Z",
+    "directors": [
+      "Howard Hawks"
+    ],
+    "writers": [
+      "Leigh Brackett (screenplay)",
+      "Harry Kurnitz (story)"
+    ],
+    "awards": {
+      "wins": 2,
+      "nominations": 0,
+      "text": "Nominated for 1 Oscar. Another 1 win."
+    },
+    "lastupdated": "2015-09-07 00:42:07.803000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 7.3,
+      "votes": 8419,
+      "id": 56059
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.7,
+        "numReviews": 8599,
+        "meter": 77
+      },
+      "dvd": "2001-07-24T00:00:00.000Z",
+      "critic": {
+        "rating": 6.6,
+        "numReviews": 22,
+        "meter": 68
+      },
+      "lastUpdated": "2015-08-26T18:01:30.000Z",
+      "rotten": 7,
+      "production": "Howard Hawks",
+      "fresh": 15
+    }
+  },
+  {
+    "_id": "573a1395f29313caabce1b78",
+    "plot": "A family saga covering several decades of Westward expansion in the nineteenth century--including the Gold Rush, the Civil War, and the building of the railroads.",
+    "genres": [
+      "Western"
+    ],
+    "runtime": 164,
+    "rated": "APPROVED",
+    "cast": [
+      "Carroll Baker",
+      "Lee J. Cobb",
+      "Henry Fonda",
+      "Carolyn Jones"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTk2NDk1NjY0MV5BMl5BanBnXkFtZTgwMzkzNTcxMTE@._V1_SY1000_SX677_AL_.jpg",
+    "title": "How the West Was Won",
+    "fullplot": "Sprawling epic which follows the Prescotts, an emigrant family through four generations, from the Erie Canal in the 1830's to their settled home in the West a half a century later. On the way they encounter river pirates, and escape with the help of fur trapper Linus Rawlings, who subsequently marries one of their daughters, Eve. The parents are drowned on a foundering raft, and the other daughter Lilith becomes a riverboat singer and catches the eye of a genteel adventurer Cleve Van Valen. They cross the plains together in a wagon train and make and lose a fortune in California; meanwhile Linus has turned farmer and, comes the Civil War, joins the Union Army and is killed at the Battle of Shiloh. One of his sons Zeb also joins the army and stays after the war as a cavalry officer and is sent to Colorado to help guard the pioneering railroad against the Indians, whose land they are crossing. By this time Lilith is the elderly lady of the family, having survived long enough to see the dream of settlement realized, but not, mercifully, the aerial shots of the Los Angeles freeway traffic with which the film ends.",
+    "languages": [
+      "English",
+      "Arapaho"
+    ],
+    "released": "1963-02-20T00:00:00.000Z",
+    "directors": [
+      "John Ford",
+      "Henry Hathaway",
+      "George Marshall",
+      "Richard Thorpe"
+    ],
+    "writers": [
+      "James R. Webb"
+    ],
+    "awards": {
+      "wins": 10,
+      "nominations": 5,
+      "text": "Won 3 Oscars. Another 7 wins & 5 nominations."
+    },
+    "lastupdated": "2015-08-21 00:04:49.673000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 7.1,
+      "votes": 13259,
+      "id": 56085
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.6,
+        "numReviews": 9556,
+        "meter": 74
+      },
+      "dvd": "2006-09-30T00:00:00.000Z",
+      "critic": {
+        "rating": 7.2,
+        "numReviews": 15,
+        "meter": 100
+      },
+      "lastUpdated": "2015-09-12T18:50:56.000Z",
+      "rotten": 0,
+      "production": "Warner Home Video",
+      "fresh": 15
+    }
+  },
+  {
+    "_id": "573a1395f29313caabce1b80",
+    "plot": "Richard Basehart stars as one of the most influential and one of the most reviled men in history in this probing psychological study of a man who nearly gained dominance over the entire ...",
+    "genres": [
+      "Biography",
+      "Drama",
+      "War"
+    ],
+    "runtime": 107,
+    "cast": [
+      "Richard Basehart",
+      "Cordula Trantow",
+      "Maria Emo",
+      "Martin Kosleck"
+    ],
+    "num_mflix_comments": 1,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM3Mzc4NDg2NV5BMl5BanBnXkFtZTcwMDAzMTgyMQ@@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Hitler",
+    "fullplot": "Richard Basehart stars as one of the most influential and one of the most reviled men in history in this probing psychological study of a man who nearly gained dominance over the entire western world--at the cost of millions of lives--Hitler.",
+    "languages": [
+      "English"
+    ],
+    "released": "1962-03-21T00:00:00.000Z",
+    "directors": [
+      "Stuart Heisler"
+    ],
+    "writers": [
+      "Sam Neuman",
+      "E. Charles Straus"
+    ],
+    "awards": {
+      "wins": 2,
+      "nominations": 0,
+      "text": "Nominated for 1 Golden Globe. Another 1 win."
+    },
+    "lastupdated": "2015-09-17 04:48:57.547000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 5.7,
+      "votes": 223,
+      "id": 56072
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 0,
+        "numReviews": 0
+      },
+      "lastUpdated": "2015-05-18T19:45:09.000Z"
+    }
+  },
+  {
+    "_id": "573a1395f29313caabce1b8b",
+    "plot": "Rich socialite Chantal marries Eugene, a photographer, and everything seems blissful until her envious friend attempts to break them up. In desperation, she turns to her mother, but the advice she receives may do more harm than good.",
+    "genres": [
+      "Comedy"
+    ],
+    "runtime": 102,
+    "cast": [
+      "Sandra Dee",
+      "Bobby Darin",
+      "Micheline Presle",
+      "John Lund"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc5NDE3Nzc1Ml5BMl5BanBnXkFtZTcwNzI5ODUyMQ@@._V1_SY1000_SX677_AL_.jpg",
+    "title": "If a Man Answers",
+    "fullplot": "Rich socialite, Sandra Dee meets and marries photographer Bobby Darin and attempts to \"train\" him to be the perfect husband. Look for a very young Stephanie Powers as the devious friend .",
+    "languages": [
+      "English",
+      "French"
+    ],
+    "released": "1962-10-10T00:00:00.000Z",
+    "directors": [
+      "Henry Levin"
+    ],
+    "writers": [
+      "Richard Morris (screenplay)",
+      "Winifred Wolfe (novel)"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 3,
+      "text": "Nominated for 2 Golden Globes. Another 1 nomination."
+    },
+    "lastupdated": "2015-08-08 00:19:54.583000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 7,
+      "votes": 722,
+      "id": 56093
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.9,
+        "numReviews": 1283,
+        "meter": 87
+      },
+      "dvd": "2004-08-03T00:00:00.000Z",
+      "lastUpdated": "2015-04-23T19:36:57.000Z"
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": "573a1395f29313caabce1b8d",
+    "plot": "In 19th century England young Mary Grant and her brother Robert Grant embark on a dangerous quest to find their missing father,sea captain Grant,who vanished somewhere along the Chilean coast.",
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "runtime": 98,
+    "rated": "APPROVED",
+    "cast": [
+      "Maurice Chevalier",
+      "Hayley Mills",
+      "George Sanders",
+      "Wilfrid Hyde-White"
+    ],
+    "num_mflix_comments": 1,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDc1OTllMTUtMWJjMC00MjExLWJhNGMtOTU4NmE5YmM4YzgzXkEyXkFqcGdeQXVyMjU5OTg5NDc@._V1_SY1000_SX677_AL_.jpg",
+    "title": "In Search of the Castaways",
+    "fullplot": "An earthquake, a flash flood, an avalanche, a volcano, alligators, jaguars, mutineers, and a man-eating Maoris dog the steps of a shipping company owner, a scientist, and the two children of a lost sea captain as they circle the earth along the 37th parallel per instructions in a bottled note the scientist has recovered from a shark's stomach. Only certain facts are discern from the stained note, especially the words \"37 parallel.\" Teen-age Mary Grant (Hayley Mills), her younger brother , Robert Keith Hamshere, and the scientist, French Professor Jacques Paganel (Maurice Chevalier), trick their way aboard the grand yacht, \"Persevero,\" during a bon-voyage party to see the owner of the shipping company, Lord Edward Glenarvan (Wilfrid Hyde-White),the epitome of British aloofness. With the urging of his own son, John (Michael Anderson Jr.'), Glenarvan's luxurious side-wheeler sets sail for the coastal town of Concepcion, Chile in the search for the missing Captain Grant.",
+    "languages": [
+      "English",
+      "French"
+    ],
+    "released": "1962-12-21T00:00:00.000Z",
+    "directors": [
+      "Robert Stevenson"
+    ],
+    "writers": [
+      "Lowell S. Hawley (screenplay)"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 1,
+      "text": "1 win & 1 nomination."
+    },
+    "lastupdated": "2015-08-30 00:46:59.773000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 6.7,
+      "votes": 1805,
+      "id": 56095
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.5,
+        "numReviews": 4578,
+        "meter": 66
+      },
+      "dvd": "2005-05-03T00:00:00.000Z",
+      "lastUpdated": "2015-08-24T19:01:45.000Z"
+    }
+  },
+  {
+    "_id": "573a1395f29313caabce1bb0",
+    "plot": "After his girlfriend's pregnancy forces him to marry her, a young man must adjust to his new life and contend with his domineering mother-in-law.",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "runtime": 112,
+    "cast": [
+      "Alan Bates",
+      "June Ritchie",
+      "Thora Hird",
+      "Bert Palmer"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmRkODk0MTUtNmM5Yy00MWFhLWI1NjItMzMzNjZmZTgwYTEwXkEyXkFqcGdeQXVyMjQ3NzUxOTM@._V1_SY1000_SX677_AL_.jpg",
+    "title": "A Kind of Loving",
+    "fullplot": "A young man, inching his way up from working-class traditions via a white-collar job, finds himself trapped by the frightening reality of his girlfriend's pregnancy and is forced into marrying her and moving in with his mother-in-law due to a housing shortage in their Northern England town.",
+    "languages": [
+      "German",
+      "English"
+    ],
+    "released": "1962-10-01T00:00:00.000Z",
+    "directors": [
+      "John Schlesinger"
+    ],
+    "writers": [
+      "Willis Hall (screenplay)",
+      "Keith Waterhouse (screenplay)",
+      "Stan Barstow (novel)"
+    ],
+    "awards": {
+      "wins": 5,
+      "nominations": 0,
+      "text": "Nominated for 4 BAFTA Film Awards. Another 1 win."
+    },
+    "lastupdated": "2015-09-10 17:17:35.977000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 7.4,
+      "votes": 909,
+      "id": 56141
+    },
+    "countries": [
+      "UK"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.1,
+        "numReviews": 401,
+        "meter": 92
+      },
+      "dvd": "1986-08-20T00:00:00.000Z",
+      "critic": {
+        "rating": 7,
+        "numReviews": 10,
+        "meter": 100
+      },
+      "lastUpdated": "2015-08-06T19:45:04.000Z",
+      "rotten": 0,
+      "production": "Governor Films Inc.",
+      "fresh": 10
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": "573a1395f29313caabce1bc0",
+    "plot": "On his deathbed, a wealthy businessman announces that his fortune is to be split equally among his three illegitimate children, whose whereabouts are unknown to his family and colleagues. A...",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": 107,
+    "cast": [
+      "Keiko Kishi",
+      "Tatsuya Nakadai",
+      "Sè Yamamura",
+      "Seiji Miyaguchi"
+    ],
+    "num_mflix_comments": 0,
+    "title": "The Inheritance",
+    "fullplot": "On his deathbed, a wealthy businessman announces that his fortune is to be split equally among his three illegitimate children, whose whereabouts are unknown to his family and colleagues. A bevy of lawyers and associates then begin machinations to procure the money for themselves, enlisting the aid of impostors and blackmail. Yet all are outwitted by the cunning of the man's secretary (Keiko Kishi), in this entertaining condemnation of unchecked greed.",
+    "languages": [
+      "Japanese"
+    ],
+    "released": "1964-02-24T00:00:00.000Z",
+    "directors": [
+      "Masaki Kobayashi"
+    ],
+    "writers": [
+      "Kèichi Inagaki",
+      "Norio Nanjo (novel)"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 0,
+      "text": "1 win."
+    },
+    "lastupdated": "2015-09-16 09:44:43.003000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 7.4,
+      "votes": 221,
+      "id": 56135
+    },
+    "countries": [
+      "Japan"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.4,
+        "numReviews": 5107,
+        "meter": 59
+      },
+      "dvd": "2005-12-06T00:00:00.000Z",
+      "production": "MGM Home Entertainment",
+      "lastUpdated": "2015-08-31T18:02:43.000Z"
+    }
+  },
+  {
+    "_id": "573a1395f29313caabce1bd0",
+    "fullplot": "An inordinately complex man who has been labeled everything from hero, to charlatan, to sadist, Thomas Edward Lawrence blazed his way to glory in the Arabian desert, then sought anonymity as a common soldier under an assumed name. The story opens with the death of Lawrence in a motorcycle accident in Dorset at the age of 46, then flashbacks to recount his adventures: as a young intelligence officer in Cairo in 1916, he is given leave to investigate the progress of the Arab revolt against the Turks in World War I. In the desert, he organizes a guerrilla army and--for two years--leads the Arabs in harassing the Turks with desert raids, train-wrecking and camel attacks. Eventually, he leads his army northward and helps a British General destroy the power of the Ottoman Empire.",
+    "imdb": {
+      "rating": 8.4,
+      "votes": 172014,
+      "id": 56172
+    },
+    "year": 1962,
+    "plot": "Follows a brilliant, flamboyant and controversial British military figure and his conflicted loyalties during wartime service.",
+    "genres": [
+      "Adventure",
+      "Biography",
+      "Drama"
+    ],
+    "rated": "PG",
+    "metacritic": 100,
+    "title": "Lawrence of Arabia",
+    "lastupdated": "2015-09-01 00:26:29.863000000",
+    "languages": [
+      "English",
+      "Arabic",
+      "Turkish"
+    ],
+    "writers": [
+      "T.E. Lawrence (writings)",
+      "Robert Bolt (screenplay)",
+      "Michael Wilson (screenplay)"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.2,
+        "numReviews": 72216,
+        "meter": 93
+      },
+      "dvd": "2001-04-03T00:00:00.000Z",
+      "critic": {
+        "rating": 9,
+        "numReviews": 71,
+        "meter": 99
+      },
+      "lastUpdated": "2015-09-13T18:06:40.000Z",
+      "consensus": "The epic of all epics, Lawrence of Arabia cements director David Lean's status in the filmmaking pantheon with nearly four hours of grand scope, brilliant performances, and beautiful cinematography.",
+      "rotten": 1,
+      "production": "Columbia Pictures",
+      "fresh": 70
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SY1000_SX677_AL_.jpg",
+    "num_mflix_comments": 0,
+    "released": "1962-12-10T00:00:00.000Z",
+    "awards": {
+      "wins": 28,
+      "nominations": 14,
+      "text": "Won 7 Oscars. Another 21 wins & 14 nominations."
+    },
+    "countries": [
+      "UK"
+    ],
+    "cast": [
+      "Peter O'Toole",
+      "Alec Guinness",
+      "Anthony Quinn",
+      "Jack Hawkins"
+    ],
+    "directors": [
+      "David Lean"
+    ],
+    "runtime": 216
+  },
+  {
+    "_id": "573a1395f29313caabce1bdd",
+    "genres": [
+      "Animation",
+      "Short"
+    ],
+    "runtime": 6,
+    "title": "Lines: Horizontal",
+    "countries": [
+      "Canada"
+    ],
+    "lastupdated": "2015-07-02 00:46:22.270000000",
+    "released": "2007-09-01T00:00:00.000Z",
+    "directors": [
+      "Evelyn Lambart",
+      "Norman McLaren"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 0,
+      "text": "1 win."
+    },
+    "year": 1962,
+    "imdb": {
+      "rating": 6.7,
+      "votes": 212,
+      "id": 56185
+    },
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.7,
+        "numReviews": 39,
+        "meter": 40
+      },
+      "production": "20th Century-Fox Film Corporation",
+      "lastUpdated": "2015-08-26T18:56:52.000Z"
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": "573a1395f29313caabce1be7",
+    "plot": "A fiercely independent cowboy arranges to have himself locked up in jail in order to then escape with an old friend who has been sentenced to the penitentiary.",
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "runtime": 107,
+    "rated": "APPROVED",
+    "cast": [
+      "Kirk Douglas",
+      "Gena Rowlands",
+      "Walter Matthau",
+      "Michael Kane"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTViZDU5MDktNjRjYS00Zjk1LThkNmUtMzgwYmRjMmVkZjU3XkEyXkFqcGdeQXVyNTEwNDMwNA@@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Lonely Are the Brave",
+    "fullplot": "In order to free his best friend Bondi, Jack Burns lets himself be imprisoned only to find out that Bondi does not want to escape. Thus Burns breaks out on his own and is afterwards being chased by sheriff Johnson with helicopters and jeeps.",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "released": "1962-06-14T00:00:00.000Z",
+    "directors": [
+      "David Miller"
+    ],
+    "writers": [
+      "Dalton Trumbo (screenplay)",
+      "Edward Abbey (novel)"
+    ],
+    "awards": {
+      "wins": 3,
+      "nominations": 0,
+      "text": "Nominated for 1 BAFTA Film Award. Another 2 wins."
+    },
+    "lastupdated": "2015-09-07 01:08:08.380000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 7.7,
+      "votes": 5360,
+      "id": 56195
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.9,
+        "numReviews": 1040,
+        "meter": 85
+      },
+      "dvd": "2009-07-07T00:00:00.000Z",
+      "critic": {
+        "rating": 8.4,
+        "numReviews": 10,
+        "meter": 90
+      },
+      "lastUpdated": "2015-07-30T18:32:22.000Z",
+      "rotten": 1,
+      "production": "Universal Studios",
+      "fresh": 9
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": "573a1395f29313caabce1bf0",
+    "plot": "A rebellious youth, sentenced to a boy's reformatory for robbing a bakery, rises through the ranks of the institution through his prowess as a long distance runner. During his solitary runs...",
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "runtime": 104,
+    "cast": [
+      "Michael Redgrave",
+      "Tom Courtenay",
+      "Avis Bunnage",
+      "Alec McCowen"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTAyYzRhMzctY2JlNC00YzE5LWI0NDgtMmNkN2NjYTVkNWI3XkEyXkFqcGdeQXVyMjgyNjk3MzE@._V1_SY1000_SX677_AL_.jpg",
+    "title": "The Loneliness of the Long Distance Runner",
+    "fullplot": "A rebellious youth, sentenced to a boy's reformatory for robbing a bakery, rises through the ranks of the institution through his prowess as a long distance runner. During his solitary runs, reveries of his life and times before his incarceration lead him to re-evaluate his privileged status as the Governor's prize runner.",
+    "languages": [
+      "English"
+    ],
+    "released": "1962-10-08T00:00:00.000Z",
+    "directors": [
+      "Tony Richardson"
+    ],
+    "writers": [
+      "Alan Sillitoe (screenplay)",
+      "Alan Sillitoe (short story)"
+    ],
+    "awards": {
+      "wins": 2,
+      "nominations": 1,
+      "text": "Won 1 BAFTA Film Award. Another 1 win & 1 nomination."
+    },
+    "lastupdated": "2015-09-04 00:12:44.913000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 7.7,
+      "votes": 5224,
+      "id": 56194
+    },
+    "countries": [
+      "UK"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.9,
+        "numReviews": 2368,
+        "meter": 88
+      },
+      "dvd": "2007-02-13T00:00:00.000Z",
+      "critic": {
+        "rating": 7.2,
+        "numReviews": 19,
+        "meter": 74
+      },
+      "lastUpdated": "2015-08-05T19:47:19.000Z",
+      "consensus": "Dry and full of angst, this British New Wave classic features potent social commentary and a star making performance by Tom Courtenay as a textbook example of the \"angry young man.\"",
+      "rotten": 5,
+      "production": "Continental",
+      "fresh": 14
+    }
+  },
+  {
+    "_id": "573a1395f29313caabce1bf3",
+    "plot": "The events of D-Day, told on a grand scale from both the Allied and German points of view.",
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "runtime": 178,
+    "rated": "G",
+    "cast": [
+      "Eddie Albert",
+      "Paul Anka",
+      "Arletty",
+      "Jean-Louis Barrault"
+    ],
+    "num_mflix_comments": 1,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTM1ZjQ2YTktNDM2MS00NGY2LTkzNzItZTU4ODg1ODNkMWYxL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_SX677_AL_.jpg",
+    "title": "The Longest Day",
+    "fullplot": "Tells the story of the D-Day invasion of Normandy in WWII. There are dozens of characters, some seen only briefly, who together weave the story of five separate invasion points that made up the operation.",
+    "languages": [
+      "English",
+      "German",
+      "French"
+    ],
+    "released": "1962-10-04T00:00:00.000Z",
+    "directors": [
+      "Ken Annakin",
+      "Andrew Marton",
+      "Bernhard Wicki",
+      "Gerd Oswald",
+      "Darryl F. Zanuck"
+    ],
+    "writers": [
+      "Cornelius Ryan (screenplay)",
+      "Cornelius Ryan (book)",
+      "Romain Gary (additional episodes written by)",
+      "James Jones (additional episodes written by)",
+      "David Pursall (additional episodes written by)",
+      "Jack Seddon (additional episodes written by)"
+    ],
+    "awards": {
+      "wins": 8,
+      "nominations": 6,
+      "text": "Won 2 Oscars. Another 6 wins & 6 nominations."
+    },
+    "lastupdated": "2015-09-14 23:58:18.013000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 7.8,
+      "votes": 40848,
+      "id": 56197
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.9,
+        "numReviews": 42527,
+        "meter": 90
+      },
+      "dvd": "1999-11-02T00:00:00.000Z",
+      "critic": {
+        "rating": 7.5,
+        "numReviews": 13,
+        "meter": 92
+      },
+      "lastUpdated": "2015-09-15T18:19:39.000Z",
+      "rotten": 1,
+      "production": "Twentieth Century Fox Home Entertainment",
+      "fresh": 12
+    }
+  },
+  {
+    "_id": "573a1395f29313caabce1bfc",
+    "plot": "A senator, who became famous for killing a notorious outlaw, returns for the funeral of an old friend and tells the truth about his deed.",
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "runtime": 123,
+    "rated": "APPROVED",
+    "cast": [
+      "John Wayne",
+      "James Stewart",
+      "Vera Miles",
+      "Lee Marvin"
+    ],
+    "num_mflix_comments": 1,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGEyNzhkYzktMGMyZS00YzRiLWJlYjktZjJkOTU5ZDY0ZGI4XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SY1000_SX677_AL_.jpg",
+    "title": "The Man Who Shot Liberty Valance",
+    "fullplot": "When Senator Ransom Stoddard returns home to Shinbone for the funeral of Tom Doniphon, he recounts to a local newspaper editor the story behind it all. He had come to town many years before, a lawyer by profession. The stage was robbed on its way in by the local ruffian, Liberty Valance, and Stoddard has nothing to his name left save a few law books. He gets a job in the kitchen at the Ericson's restaurant and there meets his future wife, Hallie. The territory is vying for Statehood and Stoddard is selected as a representative over Valance, who continues terrorizing the town. When he destroys the local newspaper office and attacks the editor, Stoddard calls him out, though the conclusion is not quite as straightforward as legend would have it.",
+    "languages": [
+      "English"
+    ],
+    "released": "1962-04-22T00:00:00.000Z",
+    "directors": [
+      "John Ford"
+    ],
+    "writers": [
+      "James Warner Bellah (screenplay)",
+      "Willis Goldbeck (screenplay)",
+      "Dorothy M. Johnson (based on the story by)"
+    ],
+    "awards": {
+      "wins": 5,
+      "nominations": 2,
+      "text": "Nominated for 1 Oscar. Another 4 wins & 2 nominations."
+    },
+    "lastupdated": "2015-09-15 05:38:36.063000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 8.1,
+      "votes": 49712,
+      "id": 56217
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4,
+        "numReviews": 23138,
+        "meter": 93
+      },
+      "dvd": "2001-06-05T00:00:00.000Z",
+      "critic": {
+        "rating": 8.6,
+        "numReviews": 41,
+        "meter": 93
+      },
+      "lastUpdated": "2015-08-22T18:43:36.000Z",
+      "rotten": 3,
+      "production": "Paramount Home Video",
+      "fresh": 38
+    }
+  },
+  {
+    "_id": "573a1395f29313caabce1c07",
+    "plot": "Author Eugene O'Neill gives an autobiographical account of his explosive homelife, fused by a drug-addicted mother, a father who wallows in drink after realizing he is no longer a famous ...",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": 174,
+    "cast": [
+      "Katharine Hepburn",
+      "Ralph Richardson",
+      "Jason Robards",
+      "Dean Stockwell"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BODNiMjdmYzYtYjQwOC00NWE5LTk5NzktZDUwM2UwNDY4MmM4XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Long Day's Journey Into Night",
+    "fullplot": "Author Eugene O'Neill gives an autobiographical account of his explosive homelife, fused by a drug-addicted mother, a father who wallows in drink after realizing he is no longer a famous actor and an older brother who is emotionally unstable and a misfit. The family is reflected by the youngest son, who is a sensitive and aspiring writer.",
+    "languages": [
+      "English"
+    ],
+    "released": "1963-11-27T00:00:00.000Z",
+    "directors": [
+      "Sidney Lumet"
+    ],
+    "writers": [
+      "Eugene O'Neill (play)"
+    ],
+    "awards": {
+      "wins": 6,
+      "nominations": 4,
+      "text": "Nominated for 1 Oscar. Another 5 wins & 4 nominations."
+    },
+    "lastupdated": "2015-08-23 00:35:54.890000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 7.8,
+      "votes": 3262,
+      "id": 56196
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.9,
+        "numReviews": 3001,
+        "meter": 86
+      },
+      "dvd": "2012-10-30T00:00:00.000Z",
+      "critic": {
+        "rating": 8.2,
+        "numReviews": 15,
+        "meter": 93
+      },
+      "lastUpdated": "2015-08-08T19:42:56.000Z",
+      "rotten": 1,
+      "production": "Republic Pictures Home Video",
+      "fresh": 14
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": "573a1395f29313caabce1c0a",
+    "fullplot": "Major Ben Marco is an intelligence officer in the U.S. Army. He served valiantly as a captain in the Korean war and his Sergeant, Raymond Shaw, even won the Medal of Honor. Marco has a major problem however: he has a recurring nightmare, one where two members of his squad are killed by Shaw. He's put on indefinite sick leave and visits Shaw in New York. Shaw for his part has established himself well, despite the misgivings of his domineering mother, Mrs. Eleanor Shaw Iselin. She is a red-baiter, accusing anyone who disagrees with her right-wing reactionary views of being a Communist. Raymond hates her, not only for how she's treated him but equally because of his step-father, the ineffectual U.S. Senator John Iselin, who is intent on seeking higher office. When Marco learns that others in his Korean War unit have nightmares similar to his own, he realizes that something happened to all of them in Korea and that Raymond Shaw is the focal point.",
+    "imdb": {
+      "rating": 8,
+      "votes": 59152,
+      "id": 56218
+    },
+    "year": 1962,
+    "plot": "A former Korean War POW is brainwashed by Communists into becoming a political assassin. But another former prisoner may know how to save him.",
+    "genres": [
+      "Thriller"
+    ],
+    "rated": "APPROVED",
+    "metacritic": 94,
+    "title": "The Manchurian Candidate",
+    "lastupdated": "2015-09-15 03:34:07.567000000",
+    "languages": [
+      "English"
+    ],
+    "writers": [
+      "Richard Condon (based upon a novel by)",
+      "George Axelrod (screenplay)"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "website": "http://www.mgm.com/title_title.php?title_star=MANCHURI",
+      "viewer": {
+        "rating": 3.9,
+        "numReviews": 30563,
+        "meter": 90
+      },
+      "dvd": "2001-05-15T00:00:00.000Z",
+      "critic": {
+        "rating": 8.6,
+        "numReviews": 51,
+        "meter": 98
+      },
+      "lastUpdated": "2015-08-31T18:48:21.000Z",
+      "consensus": "A classic blend of satire and political thriller that was uncomfortably prescient in its own time, The Manchurian Candidate remains distressingly relevant today.",
+      "rotten": 1,
+      "production": "MGM/UA Classics",
+      "fresh": 50
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTY0ZTA1ZjUtN2MyNi00ZGRmLWExYmMtOTkyNzI1NGQ2Y2RlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_SX677_AL_.jpg",
+    "num_mflix_comments": 1,
+    "released": "1962-10-24T00:00:00.000Z",
+    "awards": {
+      "wins": 9,
+      "nominations": 4,
+      "text": "Nominated for 2 Oscars. Another 7 wins & 4 nominations."
+    },
+    "countries": [
+      "USA"
+    ],
+    "cast": [
+      "Frank Sinatra",
+      "Laurence Harvey",
+      "Janet Leigh",
+      "Angela Lansbury"
+    ],
+    "directors": [
+      "John Frankenheimer"
+    ],
+    "runtime": 126
+  },
+  {
+    "_id": "573a1395f29313caabce1c2a",
+    "plot": "Mr. Hobbs wants to spend a quiet holiday at the beach, but his wife has invited all their family to stay with them.",
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "runtime": 116,
+    "rated": "APPROVED",
+    "cast": [
+      "James Stewart",
+      "Maureen O'Hara",
+      "Fabian",
+      "Lauri Peters"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzA0MGJhY2EtYWQ2Ny00NjZhLWE3MzktMzg1MTIwYjE0ZTBjXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Mr. Hobbs Takes a Vacation",
+    "fullplot": "St. Louis based banker Roger Hobbs is writing a letter to his wife, Peggy Hobbs, about his true feelings concerning their just returned from month long vacation, the letter to be opened only after his death, whenever that may be. Mr. Hobbs wanted the vacation to be a romantic getaway for two, but Peggy insisted that it be a family vacation to a central California beach-side house, given to them for the month by friends. The vacation included all their offspring, and their offspring's respective families where applicable. Hobbs hated the idea as he felt he didn't know his offspring - and their spouses even less - and that they, in turn, no longer needed him. They include: daughter Susan Carver, who, with her husband, Stan Carver, have a permissive parenting style as per the latest child psychology books; daughter Janie Grant, whose husband, college professor, Byron Grant, has an academic view of everything in life; fourteen year old daughter, Katey Hobbs, who is self conscious around boys if only because of her new braces, that self consciousness which boys see as standoffishness; and preteen son Danny Hobbs, whose sole focus in life is watching television. The house ended up being a rat trap which exasperated their cook Brenda the most. But beyond that issue, Mr. Hobbs ended up learning the true nature of his relationship to his offspring and to Peggy. In the process, he had to endure the extended visit by an odd couple named the Turners, and learned that some problems can be solved purely by yelling \"hey Joe\" into an unknown group of boys.",
+    "languages": [
+      "English"
+    ],
+    "released": "1962-06-15T00:00:00.000Z",
+    "directors": [
+      "Henry Koster"
+    ],
+    "writers": [
+      "Nunnally Johnson (screenplay)",
+      "Edward Streeter (novel)"
+    ],
+    "awards": {
+      "wins": 4,
+      "nominations": 3,
+      "text": "Nominated for 1 Golden Globe. Another 3 wins & 3 nominations."
+    },
+    "lastupdated": "2015-08-29 00:13:38.063000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 6.9,
+      "votes": 3460,
+      "id": 56255
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.6,
+        "numReviews": 3147,
+        "meter": 71
+      },
+      "dvd": "2005-09-06T00:00:00.000Z",
+      "critic": {
+        "rating": 6,
+        "numReviews": 15,
+        "meter": 80
+      },
+      "lastUpdated": "2015-08-29T19:37:01.000Z",
+      "rotten": 3,
+      "production": "20th Century Fox",
+      "fresh": 12
+    }
+  },
+  {
+    "_id": "573a1395f29313caabce1c31",
+    "plot": "The story of Anne Sullivan's struggle to teach the blind and deaf Helen Keller how to communicate.",
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "runtime": 106,
+    "rated": "APPROVED",
+    "cast": [
+      "Anne Bancroft",
+      "Victor Jory",
+      "Inga Swenson",
+      "Andrew Prine"
+    ],
+    "num_mflix_comments": 1,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQzODc4MTE1MF5BMl5BanBnXkFtZTcwMjYyODI1NA@@._V1_SY1000_SX677_AL_.jpg",
+    "title": "The Miracle Worker",
+    "fullplot": "Young Helen Keller, blind, deaf, and mute since infancy, is in danger of being sent to an institution. Her inability to communicate has left her frustrated and violent. In desperation, her parents seek help from the Perkins Institute, which sends them a \"half-blind Yankee schoolgirl\" named Annie Sullivan to tutor their daughter. Through persistence and love, and sheer stubbornness, Annie breaks through Helen's walls of silence and darkness and teaches her to communicate.",
+    "languages": [
+      "English",
+      "American Sign Language"
+    ],
+    "released": "1962-07-28T00:00:00.000Z",
+    "directors": [
+      "Arthur Penn"
+    ],
+    "writers": [
+      "William Gibson (screenplay)",
+      "William Gibson (based upon the stage play by)"
+    ],
+    "awards": {
+      "wins": 12,
+      "nominations": 9,
+      "text": "Won 2 Oscars. Another 10 wins & 9 nominations."
+    },
+    "lastupdated": "2015-08-29 00:26:26.170000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 8.1,
+      "votes": 11376,
+      "id": 56241
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.8,
+        "numReviews": 8681,
+        "meter": 88
+      },
+      "dvd": "2001-03-06T00:00:00.000Z",
+      "critic": {
+        "rating": 8,
+        "numReviews": 20,
+        "meter": 100
+      },
+      "lastUpdated": "2015-08-24T18:51:22.000Z",
+      "rotten": 0,
+      "production": "MGM Home Entertainment",
+      "fresh": 20
+    }
+  },
+  {
+    "_id": "573a1395f29313caabce1c32",
+    "plot": "Harold Hill poses as a boys' band leader to con naive Iowa townsfolk.",
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "runtime": 151,
+    "rated": "APPROVED",
+    "cast": [
+      "Robert Preston",
+      "Shirley Jones",
+      "Buddy Hackett",
+      "Hermione Gingold"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU4YWE5NzMtZmFlYS00MjQwLTk0YzctZjJhMGZmZGYwNTA3XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_SX677_AL_.jpg",
+    "title": "The Music Man",
+    "fullplot": "Confidence man Harold Hill arrives at staid River City intending to cheat the community with his standard scam of offering to equip and train a boy's marching band, then skip town with the money since he has no music skill anyway. Things go awry when he falls for a librarian he tries to divert from exposing him while he inadvertently enriches the town with a love of music.",
+    "languages": [
+      "English"
+    ],
+    "released": "1962-06-19T00:00:00.000Z",
+    "directors": [
+      "Morton DaCosta"
+    ],
+    "writers": [
+      "Meredith Willson (based on: \"The Music Man\")",
+      "Franklin Lacey (written in collaboration with)",
+      "Marion Hargrove (screenplay)"
+    ],
+    "awards": {
+      "wins": 7,
+      "nominations": 11,
+      "text": "Won 1 Oscar. Another 6 wins & 11 nominations."
+    },
+    "lastupdated": "2015-09-02 00:49:20.977000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 7.7,
+      "votes": 12517,
+      "id": 56262
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.5,
+        "numReviews": 30398,
+        "meter": 85
+      },
+      "dvd": "1999-02-23T00:00:00.000Z",
+      "critic": {
+        "rating": 8.1,
+        "numReviews": 17,
+        "meter": 94
+      },
+      "lastUpdated": "2015-08-24T18:51:10.000Z",
+      "rotten": 1,
+      "production": "Warner Bros. Pictures",
+      "fresh": 16
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": "573a1395f29313caabce1c42",
+    "plot": "A skeptical college professor discovers that his wife has been practicing magic for years. Like the learned, rational fellow he is, he forces her to destroy all her magical charms and ...",
+    "genres": [
+      "Horror"
+    ],
+    "runtime": 90,
+    "cast": [
+      "Peter Wyngarde",
+      "Janet Blair",
+      "Margaret Johnston",
+      "Anthony Nicholls"
+    ],
+    "num_mflix_comments": 1,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTRhZjc2YjUtN2Y5Zi00YTFjLWE0MTEtM2M0ZjM5YjQyZGJmXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Burn, Witch, Burn",
+    "fullplot": "A skeptical college professor discovers that his wife has been practicing magic for years. Like the learned, rational fellow he is, he forces her to destroy all her magical charms and protective devices, and stop that foolishness. He isn't put off by her insistence that his professional rivals are working magic against him, and her protections are necessary to his career and life.",
+    "languages": [
+      "English"
+    ],
+    "released": "1962-04-25T00:00:00.000Z",
+    "directors": [
+      "Sidney Hayers"
+    ],
+    "writers": [
+      "Fritz Leiber Jr. (novel)",
+      "Charles Beaumont (screenplay)",
+      "Richard Matheson (screenplay)"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 1,
+      "text": "1 nomination."
+    },
+    "lastupdated": "2015-08-23 00:52:40.923000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 7,
+      "votes": 1667,
+      "id": 56279
+    },
+    "countries": [
+      "UK"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.6,
+        "numReviews": 359,
+        "meter": 70
+      },
+      "dvd": "2000-12-05T00:00:00.000Z",
+      "critic": {
+        "rating": 6.4,
+        "numReviews": 11,
+        "meter": 73
+      },
+      "lastUpdated": "2015-08-16T18:44:03.000Z",
+      "rotten": 3,
+      "fresh": 8
+    }
+  },
+  {
+    "_id": "573a1395f29313caabce1c4b",
+    "plot": "During the Civil War, a Southern civilian is about to be hanged for attempting to sabotage a railway bridge. When the execution takes place from the bridge, the rope breaks and he begins his escape toward home.",
+    "genres": [
+      "Short",
+      "Adventure",
+      "Drama"
+    ],
+    "runtime": 28,
+    "cast": [
+      "Roger Jacquet",
+      "Anne Cornaly",
+      "Anker Larsen",
+      "Stèphane Fey"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcxMTkzNTc5NF5BMl5BanBnXkFtZTgwODQyMDkwMzE@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Occurrence at Owl Creek Bridge",
+    "fullplot": "A Civil War civilian is to be executed by hanging, but when the plank is kicked away, instead of breaking his neck, he manages to miraculously escape unscathed or did he?",
+    "languages": [
+      "English"
+    ],
+    "released": "1962-05-01T00:00:00.000Z",
+    "directors": [
+      "Robert Enrico"
+    ],
+    "writers": [
+      "Ambrose Bierce (from a story by)",
+      "Robert Enrico (adapted by)"
+    ],
+    "awards": {
+      "wins": 2,
+      "nominations": 0,
+      "text": "Won 1 Oscar. Another 1 win."
+    },
+    "lastupdated": "2015-08-26 00:00:28.353000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 8.2,
+      "votes": 2912,
+      "id": 56300
+    },
+    "countries": [
+      "France"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.2,
+        "numReviews": 55
+      },
+      "lastUpdated": "2015-08-15T18:39:21.000Z"
+    }
+  },
+  {
+    "_id": "573a1395f29313caabce1c4c",
+    "plot": "An American junior diplomat in London rents a house from, and falls in love with, a woman suspected of murder.",
+    "genres": [
+      "Comedy",
+      "Mystery"
+    ],
+    "runtime": 123,
+    "cast": [
+      "Kim Novak",
+      "Jack Lemmon",
+      "Fred Astaire",
+      "Lionel Jeffries"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDQwZGI3M2MtZjc2NS00ZDk5LWJhMDMtNmFmZmM5MDg5ZDc2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNDQzMDg4Nzk@._V1_SY1000_SX677_AL_.jpg",
+    "title": "The Notorious Landlady",
+    "fullplot": "When William Gridley arrives from the US in London, he rents part of Carly Hardwicke's house from her and promptly begins to fall in love. Gridley doesn't know that many people think she killed her husband but his boss, the American ambassador, knows and doesn't take this \"lapse of judgement\" lightly. Since Carly is also American, Gridley saves his job by introducing her to the ambassador, who is promptly smitten and promises to help her. So when a Scotland Yard detective arrives, wanting to get to the truth one way or another, they say they'll help him. And then the comedic complications really begin.",
+    "languages": [
+      "English"
+    ],
+    "released": "1962-04-01T00:00:00.000Z",
+    "directors": [
+      "Richard Quine"
+    ],
+    "writers": [
+      "Larry Gelbart (screenplay)",
+      "Blake Edwards (screenplay)",
+      "Margery Sharp (story)"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 1,
+      "text": "1 nomination."
+    },
+    "lastupdated": "2015-09-07 00:23:33.187000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 6.8,
+      "votes": 1149,
+      "id": 56289
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.5,
+        "numReviews": 407,
+        "meter": 57
+      },
+      "dvd": "2009-06-09T00:00:00.000Z",
+      "production": "Columbia Pictures Corporation",
+      "lastUpdated": "2015-08-20T18:17:10.000Z"
+    }
+  },
+  {
+    "_id": "573a1395f29313caabce1c5e",
+    "plot": "John Lewis is bored by his librarian's job and henpecked at home. Then Liz, wife of a local counciller, sets her sights on him. But this is risky stuff in a Welsh valleys town - if he and ...",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "runtime": 106,
+    "cast": [
+      "Peter Sellers",
+      "Mai Zetterling",
+      "Virginia Maskell",
+      "Kenneth Griffith"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTBhMGY1MjctZGVjMC00YWU5LWEwODEtY2MyNjZjZjBiOGU0XkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Only Two Can Play",
+    "fullplot": "John Lewis is bored by his librarian's job and henpecked at home. Then Liz, wife of a local counciller, sets her sights on him. But this is risky stuff in a Welsh valleys town - if he and Liz ever manage to consummate their affair, that is.",
+    "languages": [
+      "English"
+    ],
+    "released": "1962-03-20T00:00:00.000Z",
+    "directors": [
+      "Sidney Gilliat"
+    ],
+    "writers": [
+      "Bryan Forbes (screenplay)",
+      "Kingsley Amis (novel)"
+    ],
+    "awards": {
+      "wins": 5,
+      "nominations": 0,
+      "text": "Nominated for 4 BAFTA Film Awards. Another 1 win."
+    },
+    "lastupdated": "2015-08-21 00:11:27.580000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 6.8,
+      "votes": 684,
+      "id": 56308
+    },
+    "countries": [
+      "UK"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.3,
+        "numReviews": 161,
+        "meter": 68
+      },
+      "production": "Kingsley International",
+      "lastUpdated": "2015-09-03T19:44:53.000Z"
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": "573a1395f29313caabce1c6c",
+    "plot": "A simple yet devout Christian makes a vow to Saint Barbara after she saves his donkey, but everyone he meets seems determined to misunderstand his intentions. Will he be able to keep his promise in the end?",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": 98,
+    "cast": [
+      "Leonardo Villar",
+      "Glèria Menezes",
+      "Dionèsio Azevedo",
+      "Geraldo Del Rey"
+    ],
+    "num_mflix_comments": 1,
+    "title": "The Given Word",
+    "fullplot": "Zè-do-Burro has only one worldly possession, his donkey, that he named Nicolas and considers to have a sole like himself, a law abiding Christian just a trifle naive. During a tempest, Nicolas is seriously wounded, and Zè-do-Burro, out of despair, makes a promise: to carry a cross as large as Christ's, to the altar of Saint Barbara - the nearest being in the city of Bahia. He vows to do so in a Candomblè session, dedicated to the goddess Yansan - that in the popular belief corresponds to that Christian saint. Nicolas fully recovers from his illness, and Zè-do-Burro produces a large cross with his own hands and tools, and then carries it on foot to Bahia, accompanied by his wife, Rosa. He has to stay by the church's closed door, and the only person who comes to meet them is Bonitèo, the local pimp, who offers to take Rosa to a pension while Zè-do-Burro keeps his promise of staying by the cross. Next morning, the priest is surprised but satisfied with the faith shown by Zè-do-Burro - until the detail that the promise had been done in a Candomblè session comes up in conversation. Then, Olavo the priest berates Zè-do-Burro for his impiety, and forbade him entrance to the church. The local zealots back him up. A crowd is gathering for the procession and feast in honor of Saint Barbara, including Rosa, who is soon attacked by Marly, the local whore, out of jealousy of her having stayed the night in the company of the handsome gigolo. The women's fight causes a disturbance of the peace. The black people perform a Capoeira fight in her honor, in front of the church. A scandals' reporter adds to the confusion with his insinuation that Zè-do-Burro may be a communist agitator, or a blessed man. The police is called by the zealots, because Zè-do-Burro tried to force the door to the church using the cross as a battering-ram. The police officers order Zè-do-Burro to go away from the church, but he faces up to them. There's a brawl, a shot is heard, the people escape this way and that, and Zè-do-Burro lies dead by his cross. It's then that the black people take Zè-do-Burro's body, put it on the cross, and carry him inside the church to the altar of his favorite saint - unopposed.",
+    "languages": [
+      "Portuguese"
+    ],
+    "released": "1962-06-01T00:00:00.000Z",
+    "directors": [
+      "Anselmo Duarte"
+    ],
+    "writers": [
+      "Anselmo Duarte (screenplay)",
+      "Dias Gomes (based on a play by)",
+      "Dias Gomes (adaptation)"
+    ],
+    "awards": {
+      "wins": 5,
+      "nominations": 0,
+      "text": "Nominated for 1 Oscar. Another 4 wins."
+    },
+    "lastupdated": "2015-08-29 01:06:42.827000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 8.2,
+      "votes": 1505,
+      "id": 56322
+    },
+    "countries": [
+      "Brazil"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.4,
+        "numReviews": 566,
+        "meter": 93
+      },
+      "lastUpdated": "2015-08-25T19:25:41.000Z"
+    }
+  },
+  {
+    "_id": "573a1395f29313caabce1c73",
+    "plot": "On December 23rd, Korean War veteran George Haverstick and nurse Isabel Crane - who George lovingly refers to as \"Little Bit\" - get married in a civil ceremony. They met when George was ...",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "runtime": 112,
+    "cast": [
+      "Anthony Franciosa",
+      "Jane Fonda",
+      "Jim Hutton",
+      "Lois Nettleton"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDVlNTRjODgtMGZjNC00NGFhLThhZTAtNTU2NzAyNGYwMWI4XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Period of Adjustment",
+    "fullplot": "On December 23rd, Korean War veteran George Haverstick and nurse Isabel Crane - who George lovingly refers to as \"Little Bit\" - get married in a civil ceremony. They met when George was admitted to Belvedere General Hospital in St. Louis for a nervous shake, with Isabel being his night nurse. They got married immediately following his release, which occurred despite the doctors never discovering the reason for his affliction. They plan on honeymooning in Miami, and stopping in suburban High Point, Tennessee along the way to visit with who George considers his best friend, fellow Korean War vet Ralph Bates, and Ralph's wife of six years, Dorothea Bates. By the time they arrive on the Bates' doorstep on Christmas Eve, George and Isabel are hardly speaking to each other when they aren't yelling at each other as each had a preconceived notion of their role in the marriage incompatible with the other, and a romanticized view of how the other should behave. Ralph's marriage is currently in no better shape. Dottie has just left him, taking their infant son Junior with her. Although he never stated such to her, Ralph married insecure Dottie despite not loving her because her wealthy father, for who he worked, promised him the family business as an inheritance. Ralph and Dottie's current problem is primarily because Ralph could no longer stand her parent's pretentious and overbearing ways, both professionally and personally. Although Ralph, George and Isabel seem blind to the source of and solution to their own marital problems, each seems to have a clearer view of what ails the other couple and how best to fix their marriage.",
+    "languages": [
+      "English"
+    ],
+    "released": "1962-10-31T00:00:00.000Z",
+    "directors": [
+      "George Roy Hill"
+    ],
+    "writers": [
+      "Isobel Lennart (screenplay)",
+      "Tennessee Williams (play)"
+    ],
+    "awards": {
+      "wins": 2,
+      "nominations": 3,
+      "text": "Nominated for 1 Oscar. Another 1 win & 3 nominations."
+    },
+    "lastupdated": "2015-09-02 00:03:58.943000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 6.5,
+      "votes": 704,
+      "id": 56341
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.3,
+        "numReviews": 222,
+        "meter": 50
+      },
+      "dvd": "1992-11-18T00:00:00.000Z",
+      "critic": {
+        "rating": 5.9,
+        "numReviews": 6,
+        "meter": 67
+      },
+      "lastUpdated": "2015-09-03T18:44:40.000Z",
+      "rotten": 2,
+      "production": "MGM",
+      "fresh": 4
+    }
+  },
+  {
+    "_id": "573a1395f29313caabce1c82",
+    "plot": "A group of mischievous Finnish boys experience the ups and downs of life during World War 2.",
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "runtime": 106,
+    "cast": [
+      "Pentti Tarkiainen",
+      "Vesa-Matti Loiri",
+      "Uti Saurio",
+      "Hannu Vironmèki"
+    ],
+    "title": "The Boys",
+    "fullplot": "A group of mischievous Finnish boys experience the ups and downs of life during World War 2.",
+    "languages": [
+      "Finnish",
+      "German"
+    ],
+    "released": "1962-11-30T00:00:00.000Z",
+    "directors": [
+      "Mikko Niskanen"
+    ],
+    "writers": [
+      "Mikko Niskanen",
+      "Paavo Rintala (novel)"
+    ],
+    "awards": {
+      "wins": 3,
+      "nominations": 0,
+      "text": "3 wins."
+    },
+    "lastupdated": "2015-08-15 00:43:49.473000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 7.3,
+      "votes": 633,
+      "id": 56356
+    },
+    "countries": [
+      "Finland"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 0,
+        "numReviews": 0
+      },
+      "lastUpdated": "2015-08-04T19:06:58.000Z"
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": "573a1395f29313caabce1c83",
+    "plot": "The powerful Greek shipowner and constructor Thanos proposes to marry Phaedra during the baptism of a ship with her name. Phaedra, who is the daughter of Thanos'greatest competitor, is a ...",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": 115,
+    "cast": [
+      "Melina Mercouri",
+      "Anthony Perkins",
+      "Raf Vallone",
+      "Elizabeth Ercy"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE0NDY2MTc5N15BMl5BanBnXkFtZTcwNDgxMTM4NA@@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Phaedra",
+    "fullplot": "The powerful Greek shipowner and constructor Thanos proposes to marry Phaedra during the baptism of a ship with her name. Phaedra, who is the daughter of Thanos'greatest competitor, is a bored woman and has a son from her first marriage. Thanos gives an expensive ring to Phaedra and soon he learns that his estranged son from his first marriage, Alexis, has left the University of Economics in London to dedicate to paint. Thanos asks Phaedra to travel to London to bring Alexis to meet him in Greece. When Phaedra meets Alexis, she falls in love with her stepson and seduces him. Their doomed love affair leads the family to a tragedy.",
+    "languages": [
+      "English",
+      "Greek"
+    ],
+    "released": "1962-09-01T00:00:00.000Z",
+    "directors": [
+      "Jules Dassin"
+    ],
+    "writers": [
+      "Margarita Lymberaki (screenplay)",
+      "Jules Dassin",
+      "Margarita Lymberaki (original scenario)"
+    ],
+    "awards": {
+      "wins": 2,
+      "nominations": 3,
+      "text": "Nominated for 1 Oscar. Another 1 win & 3 nominations."
+    },
+    "lastupdated": "2015-08-26 00:05:19.900000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 7.2,
+      "votes": 860,
+      "id": 56346
+    },
+    "countries": [
+      "France",
+      "Greece",
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3,
+        "numReviews": 108,
+        "meter": 31
+      },
+      "production": "Lopert Pictures Corporation",
+      "lastUpdated": "2015-08-05T19:39:59.000Z"
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": "573a1395f29313caabce1cb1",
+    "plot": "Mountain Rivera, a punchy has-been managed by the unprincipled Maish, is mauled in a fight and forced to quit boxing. Can his devoted cutman and a sympathetic social worker help him find a ...",
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "runtime": 95,
+    "cast": [
+      "Anthony Quinn",
+      "Jackie Gleason",
+      "Mickey Rooney",
+      "Julie Harris"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTVmOTM3MGItNmJiYy00MDQzLWFkN2QtNmY0NjlmZTgwZGM3XkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Requiem for a Heavyweight",
+    "fullplot": "Mountain Rivera, a punchy has-been managed by the unprincipled Maish, is mauled in a fight and forced to quit boxing. Can his devoted cutman and a sympathetic social worker help him find a life outside the ring, or will Maish find a way to exploit him one more time?",
+    "languages": [
+      "English"
+    ],
+    "released": "1962-11-16T00:00:00.000Z",
+    "directors": [
+      "Ralph Nelson"
+    ],
+    "writers": [
+      "Rod Serling (teleplay)",
+      "Rod Serling"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 2,
+      "text": "1 win & 2 nominations."
+    },
+    "lastupdated": "2015-08-23 01:05:48.427000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 7.9,
+      "votes": 2838,
+      "id": 56406
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.9,
+        "numReviews": 1191,
+        "meter": 89
+      },
+      "dvd": "2002-05-14T00:00:00.000Z",
+      "critic": {
+        "rating": 7.6,
+        "numReviews": 10,
+        "meter": 90
+      },
+      "lastUpdated": "2015-09-10T19:15:36.000Z",
+      "rotten": 1,
+      "production": "Sony Pictures Entertainment",
+      "fresh": 9
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": "573a1395f29313caabce1cb5",
+    "plot": "\"Les quatre vèritès\" aka \"The Four Truths\" is a movie anthology that consists of four segments, all loosely parodying fables from the 17th-century French poet Jean de la Fontaine. The US cut usually features only 3 segments.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "runtime": 76,
+    "cast": [
+      "Leslie Caron",
+      "Charles Aznavour",
+      "Raymond Bussières",
+      "Michel Serrault"
+    ],
+    "num_mflix_comments": 1,
+    "title": "Three Fables of Love",
+    "fullplot": "\"Les quatre vèritès\" aka \"The Four Truths\" is a movie anthology that consists of four segments, all loosely parodying fables from the 17th-century French poet Jean de la Fontaine. The US cut usually features only 3 segments. The first segment \"Death and the Woodcutter\" about a common organ grinder (street performer who plays mechanical musical instrument called street organ on the street for a living) who is driven to the edge of sanity by bureaucracy was cut from the US release for its serious tone. The second story \"The Crow and the Fox\" is about a jealous husband who keeps his wife under lock and key since he lives in a town full of single men. Their neighbor is determined however to service the missus. The third story \"The Tortoise and the Hare\" follows a jealous wife who decides to win her adulterous husband back. The final tale \"Two Pigeons\" is about a young man and woman who accidentally lock themselves up in a flat and end up falling for each other.",
+    "languages": [
+      "French",
+      "Spanish"
+    ],
+    "released": "1962-12-21T00:00:00.000Z",
+    "directors": [
+      "Alessandro Blasetti",
+      "Hervè Bromberger",
+      "Renè Clair",
+      "Luis Garcèa Berlanga"
+    ],
+    "writers": [
+      "Rafael Azcona",
+      "Alessandro Blasetti",
+      "Hervè Bromberger (screenplay)",
+      "Hervè Bromberger (story)",
+      "Suso Cecchi D'Amico",
+      "Renè Clair",
+      "Frèdèric Grendel (screenplay)",
+      "Frèdèric Grendel (story)",
+      "Jean de La Fontaine (novel)"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 0,
+      "text": "1 win."
+    },
+    "lastupdated": "2015-08-11 00:35:48.733000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 5.9,
+      "votes": 51,
+      "id": 56388
+    },
+    "countries": [
+      "France",
+      "Italy",
+      "Spain"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4,
+        "numReviews": 58,
+        "meter": 83
+      },
+      "lastUpdated": "2015-08-15T18:34:43.000Z"
+    }
+  },
+  {
+    "_id": "573a1395f29313caabce1cb6",
+    "plot": "The film shows the history of the Neapolitan popular revolt against the invading Germans, during the second world war. During the four days in Naples the revolt turns over in just few hours...",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "runtime": 124,
+    "cast": [
+      "Regina Bianchi",
+      "Aldo Giuffrè",
+      "Lea Massari",
+      "Jean Sorel"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWQwMjI4YTAtMzRhNS00NzYzLWFiOWUtYzQyYWI1YjlmYzlmXkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_SY1000_SX677_AL_.jpg",
+    "title": "The Four Days of Naples",
+    "fullplot": "The film shows the history of the Neapolitan popular revolt against the invading Germans, during the second world war. During the four days in Naples the revolt turns over in just few hours. Neapolitans slinged on rifles and guns, and they armed themselves with stones, house-objects, gasoline-bottles and everything, anonymous and silent. Gennarino Capuozzo, a ten year old child killed on a barricade while he was fighting against the invasors, is remembered by people as a hero.",
+    "languages": [
+      "Italian"
+    ],
+    "released": "1962-11-16T00:00:00.000Z",
+    "directors": [
+      "Nanni Loy"
+    ],
+    "writers": [
+      "Carlo Bernari",
+      "Pasquale Festa Campanile",
+      "Massimo Franciosa",
+      "Nanni Loy",
+      "Vasco Pratolini"
+    ],
+    "awards": {
+      "wins": 10,
+      "nominations": 6,
+      "text": "Nominated for 2 Oscars. Another 8 wins & 6 nominations."
+    },
+    "lastupdated": "2015-08-18 00:59:05.860000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 7.7,
+      "votes": 464,
+      "id": 56389
+    },
+    "countries": [
+      "Italy"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4,
+        "numReviews": 58,
+        "meter": 83
+      },
+      "lastUpdated": "2015-08-15T18:34:43.000Z"
+    }
+  },
+  {
+    "_id": "573a1395f29313caabce1cb7",
+    "plot": "An ex-union soldier is hired to transport gold from a mining community through dangerous territory. But what he doesn't realize is that his partner and old friend is plotting to double-cross him.",
+    "genres": [
+      "Western"
+    ],
+    "runtime": 94,
+    "rated": "APPROVED",
+    "cast": [
+      "Randolph Scott",
+      "Joel McCrea",
+      "Mariette Hartley",
+      "Ron Starr"
+    ],
+    "num_mflix_comments": 1,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjJkMjE1ZDYtYWY0ZS00MGNhLTgzODktMGZhYzRlYzVhMGFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Ride the High Country",
+    "fullplot": "Aging ex-marshal Steve Judd is hired by a bank to transport a gold shipment through dangerous territory. He hires an old partner, Gil Westrum, and his young protege Heck to assist him. Steve doesn't know, however, that Gil and Heck plan to steal the gold, with or without Steve's help. On the trail, the three get involved in a young woman's desire to escape first from her father, then from her fiance and his dangerously psychotic brothers.",
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "released": "1962-07-28T00:00:00.000Z",
+    "directors": [
+      "Sam Peckinpah"
+    ],
+    "writers": [
+      "N.B. Stone Jr."
+    ],
+    "awards": {
+      "wins": 3,
+      "nominations": 1,
+      "text": "Nominated for 1 BAFTA Film Award. Another 2 wins & 1 nomination."
+    },
+    "lastupdated": "2015-09-11 00:22:57.030000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 7.6,
+      "votes": 8920,
+      "id": 56412
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.8,
+        "numReviews": 3993,
+        "meter": 84
+      },
+      "dvd": "2006-01-10T00:00:00.000Z",
+      "critic": {
+        "rating": 8.2,
+        "numReviews": 14,
+        "meter": 93
+      },
+      "lastUpdated": "2015-09-15T18:04:20.000Z",
+      "rotten": 1,
+      "production": "MGM Home Entertainment",
+      "fresh": 13
+    }
+  },
+  {
+    "_id": "573a1395f29313caabce1ce5",
+    "plot": "A lowly servant, Bhootnath gets close to the wife of his employer, and narrates her story through his eyes and perspective.",
+    "genres": [
+      "Drama",
+      "Musical"
+    ],
+    "runtime": 152,
+    "cast": [
+      "Meena Kumari",
+      "Guru Dutt",
+      "Rehman",
+      "Waheeda Rehman"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA2NDQxOTE4M15BMl5BanBnXkFtZTcwOTAyNzEzMQ@@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Sahib Bibi Aur Ghulam",
+    "fullplot": "A Zamindar neglects his wife and prefers the company of alcohol and dancing girls. The decadence of the Bangali Zamindar milieu and the raising bourgeoisie in the late 19th century, seen through the eyes of a young upward mobile rustic seeking fortune in Calcutta, and fascinated by the lady of the house...",
+    "languages": [
+      "Hindi",
+      "Urdu"
+    ],
+    "released": "1963-06-01T00:00:00.000Z",
+    "directors": [
+      "Abrar Alvi"
+    ],
+    "writers": [
+      "Abrar Alvi (dialogue)",
+      "Bimal Mitra (novel)"
+    ],
+    "awards": {
+      "wins": 4,
+      "nominations": 5,
+      "text": "4 wins & 5 nominations."
+    },
+    "lastupdated": "2015-08-20 00:04:40.173000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 8.1,
+      "votes": 870,
+      "id": 56436
+    },
+    "countries": [
+      "India"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.2,
+        "numReviews": 155,
+        "meter": 90
+      },
+      "dvd": "1999-07-13T00:00:00.000Z",
+      "lastUpdated": "2015-07-18T19:12:49.000Z"
+    }
+  },
+  {
+    "_id": "573a1395f29313caabce1cf0",
+    "plot": "Mike, Chip, and Larry are three lusty, brawling U. S. Cavalry sergeants stationed in Indian Territory in 1870...",
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "runtime": 112,
+    "rated": "APPROVED",
+    "cast": [
+      "Frank Sinatra",
+      "Dean Martin",
+      "Sammy Davis Jr.",
+      "Peter Lawford"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDY4YzJmNTMtN2M0NC00YjUyLTkzZDItMmU4MGMxMTFhN2Y5XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Sergeants 3",
+    "lastupdated": "2015-08-09 01:10:15.160000000",
+    "languages": [
+      "English"
+    ],
+    "released": "1962-02-10T00:00:00.000Z",
+    "directors": [
+      "John Sturges"
+    ],
+    "writers": [
+      "W.R. Burnett"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 0,
+      "text": "1 win."
+    },
+    "year": 1962,
+    "imdb": {
+      "rating": 6.2,
+      "votes": 748,
+      "id": 56470
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 2.9,
+        "numReviews": 163,
+        "meter": 30
+      },
+      "dvd": "2008-05-13T00:00:00.000Z",
+      "lastUpdated": "2015-08-09T18:20:42.000Z"
+    }
+  },
+  {
+    "_id": "573a1395f29313caabce1cf9",
+    "plot": "A maddened German war criminal lives in a secluded house owned by his rich father who lets him think the war is still on 20 years after the fact. However, no deception can last forever.",
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "runtime": 114,
+    "cast": [
+      "Sophia Loren",
+      "Maximilian Schell",
+      "Fredric March",
+      "Robert Wagner"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWY3YWFkNmUtMzQ2MC00MDEzLWE2YjUtMzFjMjY2ZjU5YmE0XkEyXkFqcGdeQXVyNTczNDAyMDc@._V1_SY1000_SX677_AL_.jpg",
+    "title": "The Condemned of Altona",
+    "fullplot": "A maddened German war criminal lives in a secluded house owned by his rich father who lets him think the war is still on 20 years after the fact. However, no deception can last forever.",
+    "languages": [
+      "Italian",
+      "German"
+    ],
+    "released": "1963-10-30T00:00:00.000Z",
+    "directors": [
+      "Vittorio De Sica"
+    ],
+    "writers": [
+      "Abby Mann",
+      "Jean-Paul Sartre (play)",
+      "Cesare Zavattini"
+    ],
+    "awards": {
+      "wins": 2,
+      "nominations": 1,
+      "text": "2 wins & 1 nomination."
+    },
+    "lastupdated": "2015-08-13 00:48:06.067000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 7,
+      "votes": 277,
+      "id": 56468
+    },
+    "countries": [
+      "Italy",
+      "France"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.9,
+        "numReviews": 213,
+        "meter": 83
+      },
+      "lastUpdated": "2015-08-26T18:44:39.000Z"
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": "573a1395f29313caabce1d25",
+    "plot": "Iowan farmers the Frake family head for the Iowa State Fair. The parents are focused on winning the competitions for livestock and cooking. However, their restless daughter Margy and her brother Wayne meet attractive new love interests.",
+    "genres": [
+      "Musical"
+    ],
+    "runtime": 118,
+    "cast": [
+      "Pat Boone",
+      "Bobby Darin",
+      "Pamela Tiffin",
+      "Ann-Margret"
+    ],
+    "num_mflix_comments": 1,
+    "title": "State Fair",
+    "fullplot": "Iowan farmers the Frake family head for the Iowa State Fair. The parents are focused on winning the competitions for livestock and cooking. However, their restless daughter Margy and her brother Wayne meet attractive new love interests.",
+    "languages": [
+      "English"
+    ],
+    "released": "1962-03-09T00:00:00.000Z",
+    "directors": [
+      "Josè Ferrer"
+    ],
+    "writers": [
+      "Richard L. Breen (screenplay)",
+      "Oscar Hammerstein II (adaptation)",
+      "Paul Green (adaptation)",
+      "Sonya Levien (adaptation)",
+      "Philip Stong (novel)"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 2,
+      "text": "1 win & 2 nominations."
+    },
+    "lastupdated": "2015-08-03 00:20:23.960000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 6,
+      "votes": 758,
+      "id": 56526
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 2.9,
+        "numReviews": 177,
+        "meter": 38
+      },
+      "dvd": "2006-02-21T00:00:00.000Z",
+      "critic": {
+        "rating": 4.1,
+        "numReviews": 7,
+        "meter": 14
+      },
+      "lastUpdated": "2015-08-24T19:00:15.000Z",
+      "rotten": 6,
+      "production": "20th Century Fox Film Corporation",
+      "fresh": 1
+    }
+  },
+  {
+    "_id": "573a1395f29313caabce1d49",
+    "plot": "Drifter Chance Wayne returns to his hometown after many years of trying to make it in the movies. Arriving with him is a faded film star he picked up along the way, Alexandra Del Lago. ...",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": 120,
+    "rated": "APPROVED",
+    "cast": [
+      "Paul Newman",
+      "Geraldine Page",
+      "Shirley Knight",
+      "Ed Begley"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjI1NzQ0YjMtNWMzMi00YjFhLWFkYTgtMDMxZmRkYTVlNGZkXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Sweet Bird of Youth",
+    "fullplot": "Drifter Chance Wayne returns to his hometown after many years of trying to make it in the movies. Arriving with him is a faded film star he picked up along the way, Alexandra Del Lago. While trying to get her help to make a screen test, he also finds the time to meet his former girlfriend Heavenly, the daughter of the local politician Tom 'Boss' Finley, who more or less forced him to leave the town many years ago.",
+    "languages": [
+      "English"
+    ],
+    "released": "1962-05-29T00:00:00.000Z",
+    "directors": [
+      "Richard Brooks"
+    ],
+    "writers": [
+      "Tennessee Williams (play)",
+      "Richard Brooks (written for the screen by)"
+    ],
+    "awards": {
+      "wins": 4,
+      "nominations": 6,
+      "text": "Won 1 Oscar. Another 3 wins & 6 nominations."
+    },
+    "lastupdated": "2015-08-06 00:38:04.070000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 7.5,
+      "votes": 4914,
+      "id": 56541
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.7,
+        "numReviews": 1246,
+        "meter": 72
+      },
+      "dvd": "2006-05-02T00:00:00.000Z",
+      "critic": {
+        "rating": 6.7,
+        "numReviews": 16,
+        "meter": 75
+      },
+      "lastUpdated": "2015-08-26T18:10:47.000Z",
+      "rotten": 4,
+      "production": "MGM Home Entertainment",
+      "fresh": 12
+    }
+  },
+  {
+    "_id": "573a1395f29313caabce1d4d",
+    "plot": "A Psychiatrist and his life with a patient he helped to recover.",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": 142,
+    "rated": "APPROVED",
+    "cast": [
+      "Jennifer Jones",
+      "Jason Robards",
+      "Joan Fontaine",
+      "Tom Ewell"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjEyNjk1MzczNF5BMl5BanBnXkFtZTgwODI2MTkwMzE@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Tender Is the Night",
+    "fullplot": "Jason Robards is a Psychiatrist that is devoted to his work. Jennifer Jones becomes one of his patients and he helps her make a full recovery. She falls in love with him but he is reluctant to respond to her affections. She convinces him that since she's well and capable of a healthy love. She is an heiress and they have a comfortable lifestyle. He experiences various changes in his career and we see how he responds to them and how it affects his marriage and family. His sister in law is Joan Fontaine. Jill St John also has a starring role. The acting is good and the settings for the movie are in Zurich and Rome, giving us beautiful scenery.",
+    "languages": [
+      "English"
+    ],
+    "released": "1962-02-23T00:00:00.000Z",
+    "directors": [
+      "Henry King"
+    ],
+    "writers": [
+      "Ivan Moffat (screenplay)",
+      "F. Scott Fitzgerald (novel)"
+    ],
+    "awards": {
+      "wins": 2,
+      "nominations": 0,
+      "text": "Nominated for 1 Oscar. Another 1 win."
+    },
+    "lastupdated": "2015-08-02 00:15:08.043000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 6.1,
+      "votes": 431,
+      "id": 56566
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.5,
+        "numReviews": 157,
+        "meter": 55
+      },
+      "production": "20th Century Fox",
+      "lastUpdated": "2015-08-20T18:17:07.000Z"
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": "573a1395f29313caabce1d55",
+    "plot": "A rich businessman and a young woman are attracted to each other, but he only wants an affair while she wants to save her virginity for marriage.",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "runtime": 99,
+    "rated": "APPROVED",
+    "cast": [
+      "Cary Grant",
+      "Doris Day",
+      "Gig Young",
+      "Audrey Meadows"
+    ],
+    "num_mflix_comments": 1,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI4NDIwODI4NF5BMl5BanBnXkFtZTgwMDQ2NjQzMTE@._V1_SY1000_SX677_AL_.jpg",
+    "title": "That Touch of Mink",
+    "fullplot": "Cathy Timberlake is an old fashioned country girl who meets the man of her dreams, Philip Shayne, after his Rolls Royce splashes her with mud on her way to a job interview. Philip is a romantic businessman who is taken by Cathy's honest heart. There's one problem, he's not interested in marriage while Cathy has never thought of anything else.",
+    "languages": [
+      "English"
+    ],
+    "released": "1962-06-14T00:00:00.000Z",
+    "directors": [
+      "Delbert Mann"
+    ],
+    "writers": [
+      "Stanley Shapiro",
+      "Nate Monaster"
+    ],
+    "awards": {
+      "wins": 10,
+      "nominations": 1,
+      "text": "Nominated for 3 Oscars. Another 7 wins & 1 nomination."
+    },
+    "lastupdated": "2015-09-10 17:43:03.463000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 6.7,
+      "votes": 5835,
+      "id": 56575
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.7,
+        "numReviews": 7582,
+        "meter": 71
+      },
+      "dvd": "2001-09-18T00:00:00.000Z",
+      "critic": {
+        "rating": 5.6,
+        "numReviews": 9,
+        "meter": 78
+      },
+      "lastUpdated": "2015-08-22T19:20:17.000Z",
+      "rotten": 2,
+      "production": "Universal",
+      "fresh": 7
+    }
+  },
+  {
+    "_id": "573a1395f29313caabce1d6d",
+    "plot": "A \"Romeo and Juliet\" story that takes place in the late 16c. Ukraine. Taras has settled into comfortable farm life after years of adventures and swashbuckling with his cossack companions. ...",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "History"
+    ],
+    "runtime": 122,
+    "rated": "APPROVED",
+    "cast": [
+      "Tony Curtis",
+      "Yul Brynner",
+      "Christine Kaufmann",
+      "Sam Wanamaker"
+    ],
+    "num_mflix_comments": 1,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjNjMjI0YTAtMmRiZC00MzRlLTllNmItMDQ5ODJmZTE5NjFjXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Taras Bulba",
+    "fullplot": "A \"Romeo and Juliet\" story that takes place in the late 16c. Ukraine. Taras has settled into comfortable farm life after years of adventures and swashbuckling with his cossack companions. Though not wealthy, he is able to send his son Andrei away to a Polish school. At this time the Poles are overlords of Ukraine and the origin of the cossacks is struggle of the Ukrainian serfs to free themselves and their land of Polish domination. Toward this end Taras hopes that his son will be educated in the ways of the enemy. Instead, Andrei falls in love with the daughter of a Polish nobleman, setting the stage for a clash between love, family honor, and a struggle for national identity.",
+    "languages": [
+      "English",
+      "Latin"
+    ],
+    "released": "1962-12-19T00:00:00.000Z",
+    "directors": [
+      "J. Lee Thompson"
+    ],
+    "writers": [
+      "Waldo Salt (screenplay)",
+      "Karl Tunberg (screenplay)",
+      "Nikolai Gogol (novel)"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 3,
+      "text": "Nominated for 1 Oscar. Another 2 nominations."
+    },
+    "lastupdated": "2015-08-29 00:32:51.763000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 6.4,
+      "votes": 2497,
+      "id": 56556
+    },
+    "countries": [
+      "Yugoslavia",
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.6,
+        "numReviews": 945,
+        "meter": 71
+      },
+      "dvd": "2014-09-23T00:00:00.000Z",
+      "production": "United Artists",
+      "lastUpdated": "2015-07-26T18:24:20.000Z"
+    }
+  },
+  {
+    "_id": "573a1395f29313caabce1d88",
+    "countries": [
+      "Finland"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Thriller"
+    ],
+    "runtime": 95,
+    "cast": [
+      "Joel Rinne",
+      "Matti Ranin",
+      "Leo Jokela",
+      "Helge Herala"
+    ],
+    "num_mflix_comments": 0,
+    "title": "It Is Written in the Stars, Inspector Palmu",
+    "lastupdated": "2015-08-21 00:01:26.220000000",
+    "languages": [
+      "Finnish"
+    ],
+    "released": "1962-09-07T00:00:00.000Z",
+    "directors": [
+      "Matti Kassila"
+    ],
+    "writers": [
+      "Matti Kassila",
+      "Mika Waltari (novel)"
+    ],
+    "awards": {
+      "wins": 2,
+      "nominations": 0,
+      "text": "2 wins."
+    },
+    "year": 1962,
+    "imdb": {
+      "rating": 7.4,
+      "votes": 755,
+      "id": 56628
+    },
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.7,
+        "numReviews": 410,
+        "meter": 73
+      },
+      "lastUpdated": "2015-04-28T19:21:57.000Z"
+    }
+  },
+  {
+    "_id": "573a1395f29313caabce1d9c",
+    "plot": "Jerry Ryan is wandering aimlessly around New York, having given up his law career in Nebraska when his wife asked for a divorce. He meets up with Gittel Mosca, an impoverished dancer from ...",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "runtime": 119,
+    "rated": "APPROVED",
+    "cast": [
+      "Robert Mitchum",
+      "Shirley MacLaine",
+      "Edmon Ryan",
+      "Elisabeth Fraser"
+    ],
+    "num_mflix_comments": 2,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDYyODRhYmEtZDMwZS00N2QzLWJhYTktN2MwODY2MTU3YzU1XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Two for the Seesaw",
+    "fullplot": "Jerry Ryan is wandering aimlessly around New York, having given up his law career in Nebraska when his wife asked for a divorce. He meets up with Gittel Mosca, an impoverished dancer from Greenwich Village, and the two try to straighten out their lives together.",
+    "languages": [
+      "English"
+    ],
+    "released": "1962-11-24T00:00:00.000Z",
+    "directors": [
+      "Robert Wise"
+    ],
+    "writers": [
+      "William Gibson (play)",
+      "Isobel Lennart (screenplay)"
+    ],
+    "awards": {
+      "wins": 3,
+      "nominations": 1,
+      "text": "Nominated for 2 Oscars. Another 1 win & 1 nomination."
+    },
+    "lastupdated": "2015-09-05 00:42:19.307000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 6.8,
+      "votes": 1066,
+      "id": 56626
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.3,
+        "numReviews": 155,
+        "meter": 52
+      },
+      "dvd": "1992-11-01T00:00:00.000Z",
+      "critic": {
+        "rating": 5.2,
+        "numReviews": 5,
+        "meter": 60
+      },
+      "lastUpdated": "2015-08-09T18:42:16.000Z",
+      "rotten": 2,
+      "fresh": 3
+    }
+  },
+  {
+    "_id": "573a1395f29313caabce1db5",
+    "plot": "Political activist Salvatore returns to his native Sicily and stirs up trouble among the peasants, urging them to confront the Mafia and demand the right to plough their own fields. The ...",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": 92,
+    "cast": [
+      "Gian Maria Volontè",
+      "Didi Perego",
+      "Turi Ferro",
+      "Spiros Focès"
+    ],
+    "num_mflix_comments": 0,
+    "title": "Un uomo da bruciare",
+    "fullplot": "Political activist Salvatore returns to his native Sicily and stirs up trouble among the peasants, urging them to confront the Mafia and demand the right to plough their own fields. The peasants refuse to help him, and Salvatore is marked by the Mafia as a troublemaker...",
+    "languages": [
+      "Italian"
+    ],
+    "released": "1962-06-30T00:00:00.000Z",
+    "directors": [
+      "Valentino Orsini",
+      "Paolo Taviani",
+      "Vittorio Taviani"
+    ],
+    "writers": [
+      "Valentino Orsini (story)",
+      "Paolo Taviani (story)",
+      "Vittorio Taviani (story)"
+    ],
+    "awards": {
+      "wins": 4,
+      "nominations": 0,
+      "text": "4 wins."
+    },
+    "lastupdated": "2015-09-05 00:42:23.870000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 6.9,
+      "votes": 83,
+      "id": 56640
+    },
+    "countries": [
+      "Italy"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 0,
+        "numReviews": 0
+      },
+      "lastUpdated": "2015-08-20T19:08:33.000Z"
+    }
+  },
+  {
+    "_id": "573a1395f29313caabce1dc6",
+    "plot": "Eddie Carbone, a Brooklyn longshoreman is unhappily married to Beatrice and unconsciously in love with Catherine, the niece that they have raised from childhood. Into his house come two ...",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": 110,
+    "cast": [
+      "Raf Vallone",
+      "Jean Sorel",
+      "Maureen Stapleton",
+      "Carol Lawrence"
+    ],
+    "num_mflix_comments": 1,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGM2NTM3MjktMjJlNS00YjA0LTlmNmEtYTAwN2JjYjRhNmQzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Vu du pont",
+    "fullplot": "Eddie Carbone, a Brooklyn longshoreman is unhappily married to Beatrice and unconsciously in love with Catherine, the niece that they have raised from childhood. Into his house come two brothers, illegal immigrants, Marco and Rodolpho. Catherine falls in love with Rudolpho; and Eddie, tormented but unable to admit even to himself his quasi-incestuous love, reports the illegal immigrants to the authorities.",
+    "languages": [
+      "French",
+      "Italian",
+      "English"
+    ],
+    "released": "1962-01-19T00:00:00.000Z",
+    "directors": [
+      "Sidney Lumet"
+    ],
+    "writers": [
+      "Arthur Miller (play)",
+      "Norman Rosten (screenplay)"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 0,
+      "text": "1 win."
+    },
+    "lastupdated": "2015-08-23 00:35:46.657000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 7.1,
+      "votes": 272,
+      "id": 56668
+    },
+    "countries": [
+      "France",
+      "Italy"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.5,
+        "numReviews": 124,
+        "meter": 67
+      },
+      "lastUpdated": "2015-06-12T19:18:26.000Z"
+    }
+  },
+  {
+    "_id": "573a1395f29313caabce1e07",
+    "plot": "The story of Wilhelm and Jacob Grimm, and three of their stories...",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Biography"
+    ],
+    "runtime": 135,
+    "rated": "G",
+    "cast": [
+      "Laurence Harvey",
+      "Karlheinz Bèhm",
+      "Claire Bloom",
+      "Walter Slezak"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTlhMmZlNmMtOWQ5NS00YzNhLWIxMDEtOTA5OGYxYzkwZjhlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_SX677_AL_.jpg",
+    "title": "The Wonderful World of the Brothers Grimm",
+    "fullplot": "The fictionalized lives of the story-telling Grimm brothers are brought to life in this all-star fantasy film. In the early nineteenth century, the brothers Wilhelm and Jacob Grimm are commissioned to write a family history for a local Duke. Reenactments of three of their stories including \"The Dancing Princess\", \"The Cobbler and the Elves\" and \"The Singing Bone\".",
+    "languages": [
+      "English"
+    ],
+    "released": "1963-08-21T00:00:00.000Z",
+    "directors": [
+      "Henry Levin",
+      "George Pal"
+    ],
+    "writers": [
+      "David P. Harmon (screenplay)",
+      "Charles Beaumont (screenplay)",
+      "William Roberts (screenplay)",
+      "David P. Harmon (story)",
+      "Hermann Gerstner (based on \"Die Bruder Grimm\")"
+    ],
+    "awards": {
+      "wins": 3,
+      "nominations": 6,
+      "text": "Won 1 Oscar. Another 2 wins & 6 nominations."
+    },
+    "lastupdated": "2015-09-17 04:48:53.250000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 6.4,
+      "votes": 1057,
+      "id": 56700
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.3,
+        "numReviews": 1710,
+        "meter": 62
+      },
+      "production": "MGM",
+      "lastUpdated": "2015-09-10T19:16:19.000Z"
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": "573a1395f29313caabce1f3b",
+    "plot": "Hilarity ensues when a casino manager spends a day at Disneyland with a cute but troublesome little girl.",
+    "genres": [
+      "Comedy"
+    ],
+    "runtime": 106,
+    "cast": [
+      "Tony Curtis",
+      "Suzanne Pleshette",
+      "Larry Storch",
+      "Howard Morris"
+    ],
+    "num_mflix_comments": 2,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDgyMjk0NjgzOV5BMl5BanBnXkFtZTYwODI1Mzk5._V1_SY1000_SX677_AL_.jpg",
+    "title": "40 Pounds of Trouble",
+    "fullplot": "Hilarity ensues when a casino manager spends a day at Disneyland with a cute but troublesome little girl.",
+    "languages": [
+      "English"
+    ],
+    "released": "1962-12-31T00:00:00.000Z",
+    "directors": [
+      "Norman Jewison"
+    ],
+    "writers": [
+      "Marion Hargrove"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 1,
+      "text": "1 win & 1 nomination."
+    },
+    "lastupdated": "2015-07-26 00:40:37.117000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 6.5,
+      "votes": 462,
+      "id": 57069
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4,
+        "numReviews": 167,
+        "meter": 100
+      },
+      "dvd": "1994-10-26T00:00:00.000Z",
+      "lastUpdated": "2015-08-06T18:03:17.000Z"
+    }
+  },
+  {
+    "_id": "573a1395f29313caabce1fee",
+    "plot": "Jane, a young French woman, pregnant and unmarried, takes a room in a seedy London boarding house, which is inhabited by an assortment of misfits. She considers getting an abortion, but is ...",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": 126,
+    "cast": [
+      "Leslie Caron",
+      "Anthony Booth",
+      "Avis Bunnage",
+      "Patricia Phoenix"
+    ],
+    "num_mflix_comments": 1,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDFlZGZjYjAtMTI2ZC00OWM2LWE3NmYtODg2YjczMjE2N2I3XkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SY1000_SX677_AL_.jpg",
+    "title": "The L-Shaped Room",
+    "fullplot": "Jane, a young French woman, pregnant and unmarried, takes a room in a seedy London boarding house, which is inhabited by an assortment of misfits. She considers getting an abortion, but is unhappy with this solution. She falls into a relationship with Toby, a struggling young writer who lives on the first floor. Eventually she comes to like her odd room, and makes friends with all the strange people in the house. But she still faces two problems: what to do with her baby, and what to do with Toby.",
+    "languages": [
+      "English"
+    ],
+    "released": "1962-11-20T00:00:00.000Z",
+    "directors": [
+      "Bryan Forbes"
+    ],
+    "writers": [
+      "Lynne Reid Banks (novel)",
+      "Bryan Forbes (written for the screen by)"
+    ],
+    "awards": {
+      "wins": 6,
+      "nominations": 3,
+      "text": "Nominated for 1 Oscar. Another 5 wins & 3 nominations."
+    },
+    "lastupdated": "2015-09-10 17:36:12.790000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 7.5,
+      "votes": 994,
+      "id": 57239
+    },
+    "countries": [
+      "UK"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4,
+        "numReviews": 302,
+        "meter": 90
+      },
+      "production": "Columbia Pictures",
+      "lastUpdated": "2015-09-10T17:36:14.000Z"
+    }
+  },
+  {
+    "_id": "573a1395f29313caabce2047",
+    "plot": "A \"shockumentary\" consisting of a collection of mostly real archive footage displaying mankind at its most depraved and perverse, displaying bizarre rites, cruel behavior and bestial violence.",
+    "genres": [
+      "Documentary"
+    ],
+    "runtime": 108,
+    "rated": "R",
+    "cast": [
+      "Rossano Brazzi",
+      "Yves Klein",
+      "Stefano Sibaldi",
+      "Henning Skaarup"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmM5Njc1MDAtZGJmMC00MjRiLThmNzktYTk1ODk3MWE3NzU4XkEyXkFqcGdeQXVyMzIwNDY4NDI@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Mondo cane",
+    "fullplot": "Nominally a documentary, this film combines a number of unrelated sequences (both real and staged) -- including a South Pacific \"cargo cult\", the ritual slaughter of a bull, tribal dances and rituals, and a visit to an ornate pet cemetery -- all focused on the lurid, sensational, and eccentric.",
+    "languages": [
+      "Italian"
+    ],
+    "released": "1962-03-30T00:00:00.000Z",
+    "directors": [
+      "Paolo Cavara",
+      "Gualtiero Jacopetti",
+      "Franco Prosperi"
+    ],
+    "writers": [
+      "Paolo Cavara",
+      "Gualtiero Jacopetti"
+    ],
+    "awards": {
+      "wins": 2,
+      "nominations": 3,
+      "text": "Nominated for 1 Oscar. Another 1 win & 3 nominations."
+    },
+    "lastupdated": "2015-08-29 01:06:01.233000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 6.4,
+      "votes": 2416,
+      "id": 57318
+    },
+    "countries": [
+      "Italy"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "website": "http://www.blue-underground.com/",
+      "viewer": {
+        "rating": 3.3,
+        "numReviews": 1181,
+        "meter": 54
+      },
+      "dvd": "2004-01-06T00:00:00.000Z",
+      "critic": {
+        "rating": 6,
+        "numReviews": 8,
+        "meter": 50
+      },
+      "lastUpdated": "2015-09-02T19:45:07.000Z",
+      "rotten": 4,
+      "production": "Cinerez",
+      "fresh": 4
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": "573a1395f29313caabce209e",
+    "plot": "An unassuming office worker is arrested and stands trial, but he is never made aware of his charges.",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "runtime": 119,
+    "cast": [
+      "Anthony Perkins",
+      "Arnoldo Foè",
+      "Jess Hahn",
+      "Billy Kearns"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTA5NDM4YzAtZmE2NC00NzY5LTliODMtM2Q3MzIyOGEzN2QxXkEyXkFqcGdeQXVyMjgyNjk3MzE@._V1_SY1000_SX677_AL_.jpg",
+    "title": "The Trial",
+    "fullplot": "Josef K wakes up in the morning and finds the police in his room. They tell him that he is on trial but nobody tells him what he is accused of. In order to find out about the reason of this accusation and to protest his innocence, he tries to look behind the facade of the judicial system. But since this remains fruitless, there seems to be no chance for him to escape from this Kafkaesque nightmare.",
+    "languages": [
+      "English"
+    ],
+    "released": "1963-03-30T00:00:00.000Z",
+    "directors": [
+      "Orson Welles"
+    ],
+    "writers": [
+      "Pierre Cholot (adaptation)",
+      "Franz Kafka (based on the novel by)",
+      "Orson Welles"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 1,
+      "text": "1 win & 1 nomination."
+    },
+    "lastupdated": "2015-09-07 00:23:56.460000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 7.9,
+      "votes": 12549,
+      "id": 57427
+    },
+    "countries": [
+      "France",
+      "West Germany",
+      "Italy"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4,
+        "numReviews": 6617,
+        "meter": 87
+      },
+      "dvd": "2006-02-07T00:00:00.000Z",
+      "critic": {
+        "rating": 7.4,
+        "numReviews": 28,
+        "meter": 89
+      },
+      "lastUpdated": "2015-08-25T19:10:47.000Z",
+      "rotten": 3,
+      "production": "Gibraltar Films",
+      "fresh": 25
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": "573a1395f29313caabce273a",
+    "plot": "A raw Welsh novelist in Venice is humiliated by a money-loving Frenchwoman who erotically ensnares him.",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": 107,
+    "cast": [
+      "Jeanne Moreau",
+      "Stanley Baker",
+      "Virna Lisi",
+      "James Villiers"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWVlMjVhOGEtNjk3Zi00OTgyLWE5M2ItNGZhOGNhNmNkNWM5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Eva",
+    "fullplot": "A raw Welsh novelist in Venice is humiliated by a money-loving Frenchwoman who erotically ensnares him.",
+    "languages": [
+      "English",
+      "Italian"
+    ],
+    "released": "1965-06-04T00:00:00.000Z",
+    "directors": [
+      "Joseph Losey"
+    ],
+    "writers": [
+      "James Hadley Chase (novel)",
+      "Hugo Butler",
+      "Evan Jones"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 1,
+      "text": "1 nomination."
+    },
+    "lastupdated": "2015-09-13 00:00:30.153000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 6.6,
+      "votes": 734,
+      "id": 59160
+    },
+    "countries": [
+      "France",
+      "Italy"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.8,
+        "numReviews": 359,
+        "meter": 64
+      },
+      "dvd": "2000-09-26T00:00:00.000Z",
+      "critic": {
+        "rating": 5.9,
+        "numReviews": 11,
+        "meter": 64
+      },
+      "lastUpdated": "2015-08-09T18:45:24.000Z",
+      "rotten": 4,
+      "production": "Kino on Video",
+      "fresh": 7
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": "573a1395f29313caabce28ec",
+    "plot": "A reconstruction of the trial of Joan of Arc (based entirely on the transcripts of the real-life trial), concerning Joan's imprisonment, interrogation and final execution at the hands of ...",
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "runtime": 65,
+    "cast": [
+      "Florence Delay",
+      "Jean-Claude Fourneau",
+      "Roger Honorat",
+      "Marc Jacquier"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI3NTAwMzg4MV5BMl5BanBnXkFtZTcwNzkxMjA0MQ@@._V1._CR1,37,347,416_SY132_CR10,0,89,132_AL_.jpg",
+    "title": "The Trial of Joan of Arc",
+    "fullplot": "A reconstruction of the trial of Joan of Arc (based entirely on the transcripts of the real-life trial), concerning Joan's imprisonment, interrogation and final execution at the hands of the English, filmed in a spare, low-key fashion.",
+    "languages": [
+      "French",
+      "English"
+    ],
+    "released": "1963-03-15T00:00:00.000Z",
+    "directors": [
+      "Robert Bresson"
+    ],
+    "writers": [
+      "Robert Bresson"
+    ],
+    "awards": {
+      "wins": 2,
+      "nominations": 1,
+      "text": "2 wins & 1 nomination."
+    },
+    "lastupdated": "2015-09-02 00:26:20.100000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 7.6,
+      "votes": 2736,
+      "id": 59616
+    },
+    "countries": [
+      "France"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.9,
+        "numReviews": 883,
+        "meter": 84
+      },
+      "critic": {
+        "rating": 8.2,
+        "numReviews": 13,
+        "meter": 100
+      },
+      "lastUpdated": "2015-08-09T18:40:20.000Z",
+      "rotten": 0,
+      "production": "Criterion Collection",
+      "fresh": 13
+    }
+  },
+  {
+    "_id": "573a139bf29313caabcf48ed",
+    "plot": "A middle-aged plumber quits his job and questions his life after seeing somebody his own age suddenly die from a heart attack on his way to work.",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": 93,
+    "cast": [
+      "Salvo Randone",
+      "Franco Sportelli",
+      "Regina Bianchi",
+      "Marcella Valeri"
+    ],
+    "title": "His Days Are Numbered",
+    "fullplot": "A middle-aged plumber quits his job and questions his life after seeing somebody his own age suddenly die from a heart attack on his way to work.",
+    "languages": [
+      "Italian"
+    ],
+    "released": "1962-04-05T00:00:00.000Z",
+    "directors": [
+      "Elio Petri"
+    ],
+    "writers": [
+      "Tonino Guerra (story)",
+      "Elio Petri (story)",
+      "Elio Petri (screenplay)",
+      "Carlo Romano (screenplay)",
+      "Tonino Guerra (screenplay)"
+    ],
+    "awards": {
+      "wins": 3,
+      "nominations": 1,
+      "text": "3 wins & 1 nomination."
+    },
+    "lastupdated": "2015-09-17 00:00:10.110000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 7.4,
+      "votes": 200,
+      "id": 136225
+    },
+    "countries": [
+      "Italy"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.8,
+        "numReviews": 22,
+        "meter": 100
+      },
+      "lastUpdated": "2015-07-16T18:55:33.000Z"
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": "573a139df29313caabcfb4b7",
+    "plot": "Ishikawa Goemon (Ichikawa Raizo), a talented young ninja, becomes ensnared in a twisted scheme to assassinate Oda Nobunaga, an evil warlord bent on ruling feudal Japan with an iron fist. ...",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "runtime": 104,
+    "cast": [
+      "Raizè Ichikawa",
+      "Shiho Fujimura",
+      "Yènosuke Itè",
+      "Katsuhiko Kobayashi"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGJmNzYzYWYtOWNiZS00ZTJlLTkxNTYtZWI0ZTNmYjZlZjVmXkEyXkFqcGdeQXVyMTIyNzY1NzM@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Ninja, a Band of Assassins",
+    "fullplot": "Ishikawa Goemon (Ichikawa Raizo), a talented young ninja, becomes ensnared in a twisted scheme to assassinate Oda Nobunaga, an evil warlord bent on ruling feudal Japan with an iron fist. Deceit, treachery, and entire gangs of enemy ninja lurk around every corner as Goemon travels the countryside to complete his task, win back his honor, and save his skin!",
+    "languages": [
+      "Japanese"
+    ],
+    "released": "1962-12-01T00:00:00.000Z",
+    "directors": [
+      "Satsuo Yamamoto"
+    ],
+    "writers": [
+      "Tomoyoshi Murayama (novel)",
+      "Hajime Takaiwa"
+    ],
+    "awards": {
+      "wins": 2,
+      "nominations": 0,
+      "text": "2 wins."
+    },
+    "lastupdated": "2015-09-04 00:18:47.180000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 7.2,
+      "votes": 382,
+      "id": 164882
+    },
+    "countries": [
+      "Japan"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.7,
+        "numReviews": 282,
+        "meter": 69
+      },
+      "dvd": "2007-10-09T00:00:00.000Z",
+      "lastUpdated": "2015-08-21T18:05:14.000Z"
+    }
+  },
+  {
+    "_id": "573a13aff29313caabd30c7b",
+    "plot": "This film follows the hunting of a giraffe by four members of the Ju/'hoansi (a !Kung Bushmen tribe) over a 13-day period in the Kalahari desert. The film consists of footage shot in 1952-53 on a Smithsonian-Harvard Peabody expedition.",
+    "genres": [
+      "Documentary"
+    ],
+    "runtime": 72,
+    "cast": [
+      "John Marshall"
+    ],
+    "num_mflix_comments": 0,
+    "title": "The Hunters",
+    "fullplot": "This film follows the hunting of a giraffe by four members of the Ju/'hoansi (a !Kung Bushmen tribe) over a 13-day period in the Kalahari desert. The film consists of footage shot in 1952-53 on a Smithsonian-Harvard Peabody expedition.",
+    "languages": [
+      "English"
+    ],
+    "released": "1962-05-26T00:00:00.000Z",
+    "directors": [
+      "Robert Gardner",
+      "John Marshall"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 0,
+      "text": "1 win."
+    },
+    "lastupdated": "2015-06-03 00:00:36.417000000",
+    "year": 1962,
+    "imdb": {
+      "rating": 6.8,
+      "votes": 50,
+      "id": 392137
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie"
+  },
+  {
+    "_id": "573a13e6f29313caabdc6a9a",
+    "plot": "The journey of a professional wrestler who becomes a small town pastor and moonlights as a masked vigilante fighting injustice. While facing crises at home and at the church, the Pastor ...",
+    "genres": [
+      "Action",
+      "Biography",
+      "Crime"
+    ],
+    "runtime": 111,
+    "title": "The Masked Saint",
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI0NzU4MjkxNl5BMl5BanBnXkFtZTgwMTYxMTA1NzE@._V1_SY1000_SX677_AL_.jpg",
+    "countries": [
+      "Canada"
+    ],
+    "fullplot": "The journey of a professional wrestler who becomes a small town pastor and moonlights as a masked vigilante fighting injustice. While facing crises at home and at the church, the Pastor must evade the police and somehow reconcile his violent secret identity with his calling as a pastor.",
+    "languages": [
+      "English"
+    ],
+    "cast": [
+      "Brett Granstaff",
+      "Lara Jean Chorostecki",
+      "T.J. McGibbon",
+      "Diahann Carroll"
+    ],
+    "directors": [
+      "Warren P. Sonoda"
+    ],
+    "writers": [
+      "Scott Crowell",
+      "Scott Crowell",
+      "Brett Granstaff"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 3,
+      "text": "1 win & 3 nominations."
+    },
+    "lastupdated": "2015-09-01 01:13:10.960000000",
+    "year": 2016,
+    "imdb": {
+      "rating": "",
+      "votes": "",
+      "id": 3103166
+    },
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 0,
+        "numReviews": 0
+      },
+      "lastUpdated": "2014-12-08T03:07:09.000Z"
+    }
+  }
+]

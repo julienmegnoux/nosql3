@@ -1,1 +1,2285 @@
-[]
+[
+  {
+    "_id": "573a1390f29313caabcd6377",
+    "plot": "A rich young Easterner who has always wanted to live in \"the Wild West\" plans to move to a Western town. Unknown to him, the town's \"wild\" days are long gone, and it is an orderly, ...",
+    "genres": [
+      "Comedy",
+      "Western",
+      "Romance"
+    ],
+    "runtime": 72,
+    "cast": [
+      "Douglas Fairbanks",
+      "Eileen Percy",
+      "Calvert Carter",
+      "Charles Stevens"
+    ],
+    "title": "Wild and Woolly",
+    "fullplot": "A rich young Easterner who has always wanted to live in \"the Wild West\" plans to move to a Western town. Unknown to him, the town's \"wild\" days are long gone, and it is an orderly, civilized place now. The townsmen, not wanting to lose a rich potential resident, contrive to make over the town to suit the young man's fantasy.",
+    "languages": [
+      "English"
+    ],
+    "released": "1917-06-24T00:00:00.000Z",
+    "directors": [
+      "John Emerson"
+    ],
+    "writers": [
+      "Horace B. Carpenter (story)",
+      "John Emerson",
+      "Anita Loos"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 0,
+      "text": "1 win."
+    },
+    "lastupdated": "2015-06-05 00:40:35.137000000",
+    "year": 1917,
+    "imdb": {
+      "rating": 6.9,
+      "votes": 388,
+      "id": 8775
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": "573a1392f29313caabcdbaef",
+    "plot": "Kent, the unscrupulous boss of Bottleneck has Sheriff Keogh killed when he asks one too many questions about a rigged poker game that gives Kent a stranglehold over the local cattle rangers...",
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "runtime": 94,
+    "rated": "APPROVED",
+    "cast": [
+      "Marlene Dietrich",
+      "James Stewart",
+      "Mischa Auer",
+      "Charles Winninger"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjlhOTRlMTctMmNkYy00NDFiLTg5NzItZjcyMTA5ZDYyMDBlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Destry Rides Again",
+    "fullplot": "Kent, the unscrupulous boss of Bottleneck has Sheriff Keogh killed when he asks one too many questions about a rigged poker game that gives Kent a stranglehold over the local cattle rangers. The mayor, who is in cahoots with Kent appoints the town drunk, Washington Dimsdale, as the new sheriff assuming that he'll be easy to control. But what the mayor doesn't know is that Dimsdale was a deputy under famous lawman, Tom Destry, and is able to call upon the equally formidable Tom Destry Jr to be his deputy. Featuring a career reviving performance from Marlene Dietrich as bar singer Frenchie, which could well have been the inspiration for Madeline Kahn's \"Blazing Saddles\" character, Lili Von Schtupp.",
+    "languages": [
+      "English",
+      "Russian"
+    ],
+    "released": "1939-12-29T00:00:00.000Z",
+    "directors": [
+      "George Marshall"
+    ],
+    "writers": [
+      "Felix Jackson (screen play)",
+      "Gertrude Purcell (screen play)",
+      "Henry Myers (screen play)",
+      "Felix Jackson (original story)",
+      "Max Brand (suggested by novel \"Destry Rides Again\")"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 0,
+      "text": "1 win."
+    },
+    "lastupdated": "2015-09-10 17:38:43.810000000",
+    "year": 1939,
+    "imdb": {
+      "rating": 7.8,
+      "votes": 7309,
+      "id": 31225
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.7,
+        "numReviews": 4806,
+        "meter": 81
+      },
+      "dvd": "2003-05-06T00:00:00.000Z",
+      "critic": {
+        "rating": 7.7,
+        "numReviews": 17,
+        "meter": 100
+      },
+      "lastUpdated": "2015-09-10T17:38:45.000Z",
+      "rotten": 0,
+      "production": "MCA Universal Home Video",
+      "fresh": 17
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": "573a1393f29313caabcdda18",
+    "plot": "The Bowery Boys head west to clear Louie of an old murder charge that he had killed his gold-mine partner. Sach has the map to the gold mine painted on his back, and Blackjack McCoy has him...",
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "runtime": 66,
+    "rated": "APPROVED",
+    "cast": [
+      "Leo Gorcey",
+      "Huntz Hall",
+      "Bobby Jordan",
+      "Gabriel Dell"
+    ],
+    "num_mflix_comments": 1,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI0NzE5ODQ2OV5BMl5BanBnXkFtZTcwODQyODEyMQ@@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Bowery Buckaroos",
+    "fullplot": "The Bowery Boys head west to clear Louie of an old murder charge that he had killed his gold-mine partner. Sach has the map to the gold mine painted on his back, and Blackjack McCoy has him kidnapped by Indian Joe. Gabe poses as a dangerous gunman, the Klondike Kid, while Slip is in charge of all the remaining loose ends.",
+    "languages": [
+      "English"
+    ],
+    "released": "1947-11-22T00:00:00.000Z",
+    "directors": [
+      "William Beaudine"
+    ],
+    "writers": [
+      "Edmond Seward (original screenplay)",
+      "Tim Ryan (original screenplay)",
+      "Jerry Warner (original screenplay)"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 1,
+      "text": "1 nomination."
+    },
+    "lastupdated": "2015-05-02 01:01:08.587000000",
+    "year": 1947,
+    "imdb": {
+      "rating": 6.7,
+      "votes": 205,
+      "id": 39216
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.3,
+        "numReviews": 199,
+        "meter": 55
+      },
+      "production": "MGM",
+      "lastUpdated": "2015-08-26T18:55:46.000Z"
+    }
+  },
+  {
+    "_id": "573a1393f29313caabcddfcf",
+    "plot": "Calamity Jane is despatched to find out who's smuggling rifles to the Indians, and winds up married to a hapless correspondence school dentist as part of her cover.",
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "runtime": 91,
+    "cast": [
+      "Bob Hope",
+      "Jane Russell",
+      "Robert Armstrong",
+      "Iris Adrian"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGZhMGEwZjYtNjJlNC00YjY0LTg2YjQtNGU4MmM1OTNjYmMyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjQ1MTUzODc@._V1_SY1000_SX677_AL_.jpg",
+    "title": "The Paleface",
+    "fullplot": "Someone is selling guns to the Indians and in order to find the culprit Calamity Jane and a secret agent go undercover posing as man and wife. When the agent is killed Jane recruits a new husband -- none other than innocent dupe \"Painless\" Peter Potter, a totally inept dentist and confirmed coward who's main goal is to leave the barbaric west far behind. When their wagon train is attacked by the Indians it's Jane's sharpshooting that saves the day, but she gives the credit to Potter making him an instant hero to the townspeople and instant target to both the Indians and the gunrunners.",
+    "languages": [
+      "English"
+    ],
+    "released": "1948-12-24T00:00:00.000Z",
+    "directors": [
+      "Norman Z. McLeod"
+    ],
+    "writers": [
+      "Edmund L. Hartmann (original screenplay)",
+      "Frank Tashlin (original screenplay)",
+      "Jack Rose (additional dialogue)"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 3,
+      "text": "Won 1 Oscar. Another 2 nominations."
+    },
+    "lastupdated": "2015-08-21 00:11:40.140000000",
+    "year": 1948,
+    "imdb": {
+      "rating": 7,
+      "votes": 2608,
+      "id": 40679
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.5,
+        "numReviews": 2640,
+        "meter": 66
+      },
+      "dvd": "2002-03-05T00:00:00.000Z",
+      "critic": {
+        "rating": 6.8,
+        "numReviews": 8,
+        "meter": 100
+      },
+      "lastUpdated": "2015-08-31T18:11:17.000Z",
+      "rotten": 0,
+      "production": "Paramount Pictures",
+      "fresh": 8
+    }
+  },
+  {
+    "_id": "573a1394f29313caabcdf2ee",
+    "plot": "The story of Calamity Jane, her saloon, and her romance with Wild Bill Hickok.",
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Western"
+    ],
+    "runtime": 101,
+    "rated": "APPROVED",
+    "cast": [
+      "Doris Day",
+      "Howard Keel",
+      "Allyn Ann McLerie",
+      "Philip Carey"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIwMjI1OTY1NF5BMl5BanBnXkFtZTcwNjc0NTA0OQ@@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Calamity Jane",
+    "fullplot": "Deadwood, Dakota Territory, is largely the abode of men, where Indian scout Calamity Jane is as hard-riding, boastful, and handy with a gun as any; quite an overpowering personality. But the army lieutenant she favors doesn't really appreciate her finer qualities. One of Jane's boasts brings her to Chicago to recruit an actress for the Golden Garter stage. Arrived, the lady in question appears (at first) to be a more feminine rival for the favors of Jane's male friends...including her friendly enemy Wild Bill Hickock.",
+    "languages": [
+      "English"
+    ],
+    "released": "1953-11-04T00:00:00.000Z",
+    "directors": [
+      "David Butler"
+    ],
+    "writers": [
+      "James O'Hanlon"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 3,
+      "text": "Won 1 Oscar. Another 2 nominations."
+    },
+    "lastupdated": "2015-08-19 00:29:17.080000000",
+    "year": 1953,
+    "imdb": {
+      "rating": 7.3,
+      "votes": 5668,
+      "id": 45591
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.7,
+        "numReviews": 20612,
+        "meter": 88
+      },
+      "dvd": "2002-04-30T00:00:00.000Z",
+      "critic": {
+        "rating": 5.7,
+        "numReviews": 9,
+        "meter": 67
+      },
+      "lastUpdated": "2015-09-17T17:41:09.000Z",
+      "rotten": 3,
+      "production": "WARNER BROTHERS PICTURES",
+      "fresh": 6
+    }
+  },
+  {
+    "_id": "573a1394f29313caabcdf61c",
+    "plot": "John Ford weaves three \"Judge Priest\" stories together to form a good- natured exploration of honour and small-town politics in the South around the turn of the century. Judge William ...",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Western"
+    ],
+    "runtime": 90,
+    "rated": "APPROVED",
+    "cast": [
+      "Charles Winninger",
+      "Arleen Whelan",
+      "John Russell",
+      "Stepin Fetchit"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjk3YmM0NjktM2M2Yy00YjVkLThlOGYtMTlmODQ2ZjU3ZDNlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_SX677_AL_.jpg",
+    "title": "The Sun Shines Bright",
+    "fullplot": "John Ford weaves three \"Judge Priest\" stories together to form a good- natured exploration of honour and small-town politics in the South around the turn of the century. Judge William Priest is involved variously in revealing the real identity of Lucy Lake, reliving his Civil War memories, preventing the lynching of a youth and contesting the elections with Yankee Horace K. Maydew.",
+    "languages": [
+      "English",
+      "German"
+    ],
+    "released": "1953-05-02T00:00:00.000Z",
+    "directors": [
+      "John Ford"
+    ],
+    "writers": [
+      "Laurence Stallings (screenplay)",
+      "Irvin S. Cobb (short stories \"The Sun Shines Bright\"",
+      " \"The Mob from Massac\" and \"The Lord Provides\")"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 2,
+      "text": "Nominated for 1 BAFTA Film Award. Another 1 nomination."
+    },
+    "lastupdated": "2015-07-26 00:53:36.773000000",
+    "year": 1953,
+    "imdb": {
+      "rating": 7.2,
+      "votes": 744,
+      "id": 46384
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.8,
+        "numReviews": 475,
+        "meter": 71
+      },
+      "dvd": "2013-03-26T00:00:00.000Z",
+      "production": "Republic Pictures Corporation",
+      "lastUpdated": "2015-08-09T18:29:42.000Z"
+    }
+  },
+  {
+    "_id": "573a1394f29313caabce0c83",
+    "plot": "A proper English gentleman, traveling in the American West, inadvertently stops an Indian attack on the stagecoach in which he is a passenger. When the stage gets to the nearest town, the ...",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Western"
+    ],
+    "runtime": 103,
+    "cast": [
+      "Kenneth More",
+      "Jayne Mansfield",
+      "Henry Hull",
+      "Bruce Cabot"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWQ3NTI0M2QtODRjNy00OWI2LTgzODYtMWJhMzYzMjkyMTgxXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_SY1000_SX677_AL_.jpg",
+    "title": "The Sheriff of Fractured Jaw",
+    "fullplot": "A proper English gentleman, traveling in the American West, inadvertently stops an Indian attack on the stagecoach in which he is a passenger. When the stage gets to the nearest town, the raucous Fractured Jaw--which is being plagued by unruly cowbys, bandits and marauding Indians--the story spreads, and he is appointed sheriff.",
+    "languages": [
+      "English"
+    ],
+    "released": "1959-03-13T00:00:00.000Z",
+    "directors": [
+      "Raoul Walsh"
+    ],
+    "writers": [
+      "Howard Dimsdale (screenplay)",
+      "Jacob Hay (short story)"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 1,
+      "text": "1 nomination."
+    },
+    "lastupdated": "2015-08-26 01:07:04.680000000",
+    "year": 1958,
+    "imdb": {
+      "rating": 6,
+      "votes": 639,
+      "id": 52191
+    },
+    "countries": [
+      "UK",
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.3,
+        "numReviews": 302,
+        "meter": 45
+      },
+      "production": "Twentieth Century Fox",
+      "lastUpdated": "2015-08-20T19:38:20.000Z"
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": "573a1395f29313caabce13fe",
+    "plot": "Sam and George strike gold in Alaska. George sends Sam to Seattle to bring George's fiancèe back to Alaska. Sam finds she is already married, and returns instead with Angel. Sam, after ...",
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "runtime": 122,
+    "rated": "APPROVED",
+    "cast": [
+      "John Wayne",
+      "Stewart Granger",
+      "Ernie Kovacs",
+      "Fabian"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2QyYjQ3YmYtODkxYi00Njc3LTg2ODItNjM5MjdjMzhiYmFkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_SY1000_SX677_AL_.jpg",
+    "title": "North to Alaska",
+    "fullplot": "Sam and George strike gold in Alaska. George sends Sam to Seattle to bring George's fiancèe back to Alaska. Sam finds she is already married, and returns instead with Angel. Sam, after trying to get George and Angel together, finally romances Angel, who, in the meantime, is busy fighting off the advances of George's younger brother, Billy. Frankie is a con man trying to steal the partner's gold claim.",
+    "languages": [
+      "English"
+    ],
+    "released": "1960-11-07T00:00:00.000Z",
+    "directors": [
+      "Henry Hathaway"
+    ],
+    "writers": [
+      "John Lee Mahin (screenplay)",
+      "Martin Rackin (screenplay)",
+      "Claude Binyon (screenplay)",
+      "Ladislas Fodor (play)",
+      "John H. Kafka (idea)"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 1,
+      "text": "1 win & 1 nomination."
+    },
+    "lastupdated": "2015-08-18 00:31:24",
+    "year": 1960,
+    "imdb": {
+      "rating": 7,
+      "votes": 4724,
+      "id": 54127
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.7,
+        "numReviews": 7516,
+        "meter": 78
+      },
+      "dvd": "2003-05-20T00:00:00.000Z",
+      "critic": {
+        "rating": 5,
+        "numReviews": 7,
+        "meter": 43
+      },
+      "lastUpdated": "2015-08-24T18:39:48.000Z",
+      "rotten": 4,
+      "production": "20th Century Fox",
+      "fresh": 3
+    }
+  },
+  {
+    "_id": "573a1395f29313caabce1cf0",
+    "plot": "Mike, Chip, and Larry are three lusty, brawling U. S. Cavalry sergeants stationed in Indian Territory in 1870...",
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "runtime": 112,
+    "rated": "APPROVED",
+    "cast": [
+      "Frank Sinatra",
+      "Dean Martin",
+      "Sammy Davis Jr.",
+      "Peter Lawford"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDY4YzJmNTMtN2M0NC00YjUyLTkzZDItMmU4MGMxMTFhN2Y5XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Sergeants 3",
+    "lastupdated": "2015-08-09 01:10:15.160000000",
+    "languages": [
+      "English"
+    ],
+    "released": "1962-02-10T00:00:00.000Z",
+    "directors": [
+      "John Sturges"
+    ],
+    "writers": [
+      "W.R. Burnett"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 0,
+      "text": "1 win."
+    },
+    "year": 1962,
+    "imdb": {
+      "rating": 6.2,
+      "votes": 748,
+      "id": 56470
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 2.9,
+        "numReviews": 163,
+        "meter": 30
+      },
+      "dvd": "2008-05-13T00:00:00.000Z",
+      "lastUpdated": "2015-08-09T18:20:42.000Z"
+    }
+  },
+  {
+    "_id": "573a1395f29313caabce1f52",
+    "plot": "Frank Sinatra plays a tough guy who hooks up with fellow rat packer Dean Martin to open a casino in this western.",
+    "genres": [
+      "Western",
+      "Comedy"
+    ],
+    "runtime": 124,
+    "rated": "APPROVED",
+    "cast": [
+      "Frank Sinatra",
+      "Dean Martin",
+      "Anita Ekberg",
+      "Ursula Andress"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmY1YmIwMGMtMDY3NS00Yjc5LWE4YmUtMWUzZThmNjE4ODg3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_SX677_AL_.jpg",
+    "title": "4 for Texas",
+    "fullplot": "Sharpshooters Zack Thomas and Joe Jarrett are in a Texan stage-coach and manage to fight off Matson's robber gang, so afterward they can fight over the $100,000 cash carried by a railroad official. Both make it to Galveston, where each, including vexed Matson, meets up with respective accomplices in various dirty schemes. The money keeps changing hands and the scene shifts to a river boat, which should multiply the winnings as a casino, but the crooks and bullets follow.",
+    "languages": [
+      "English"
+    ],
+    "released": "1963-12-25T00:00:00.000Z",
+    "directors": [
+      "Robert Aldrich"
+    ],
+    "writers": [
+      "Teddi Sherman",
+      "Robert Aldrich"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 1,
+      "text": "1 nomination."
+    },
+    "lastupdated": "2015-09-02 00:05:26.460000000",
+    "year": 1963,
+    "imdb": {
+      "rating": 5.6,
+      "votes": 2065,
+      "id": 57071
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 2.9,
+        "numReviews": 3066,
+        "meter": 41
+      },
+      "dvd": "2002-01-08T00:00:00.000Z",
+      "critic": {
+        "rating": 4.1,
+        "numReviews": 9,
+        "meter": 11
+      },
+      "lastUpdated": "2015-09-13T18:00:05.000Z",
+      "rotten": 8,
+      "production": "Warner Bros. Pictures",
+      "fresh": 1
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": "573a1395f29313caabce201c",
+    "plot": "George Washington McLintock, \"GW\" to friends and foes alike, is a cattle baron and the richest man in the territory. He anxiously awaits the return of his daughter Becky who has been away ...",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Western"
+    ],
+    "runtime": 127,
+    "rated": "APPROVED",
+    "cast": [
+      "John Wayne",
+      "Maureen O'Hara",
+      "Patrick Wayne",
+      "Stefanie Powers"
+    ],
+    "num_mflix_comments": 1,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjAwOTc4ODA2MV5BMl5BanBnXkFtZTcwMjk3NTM1NQ@@._V1._CR47,48,252,390_SX89_AL_.jpg",
+    "title": "McLintock!",
+    "fullplot": "George Washington McLintock, \"GW\" to friends and foes alike, is a cattle baron and the richest man in the territory. He anxiously awaits the return of his daughter Becky who has been away at school for the last two years. He's also surprised to see that his wife Katherine has also returned. She had left him some years before without really explaining what he done but she does make the point of saying that she's returned to take their daughter back to the State Capitol with her. GW is highly respected by everyone around him including the farmers who are pouring into the territories with free grants of land and the Indians who are under threat of being relocated to another reservation. Between his wife, his headstrong daughter, the crooked land agent and the thieving government Indian agent, GW tries to keep the peace and do what is best for everyone.",
+    "languages": [
+      "English"
+    ],
+    "released": "1963-11-13T00:00:00.000Z",
+    "directors": [
+      "Andrew V. McLaglen"
+    ],
+    "writers": [
+      "James Edward Grant (original screenplay)"
+    ],
+    "awards": {
+      "wins": 2,
+      "nominations": 0,
+      "text": "2 wins."
+    },
+    "lastupdated": "2015-09-16 11:50:02.897000000",
+    "year": 1963,
+    "imdb": {
+      "rating": 7.3,
+      "votes": 8473,
+      "id": 57298
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.9,
+        "numReviews": 16535,
+        "meter": 85
+      },
+      "dvd": "1997-07-08T00:00:00.000Z",
+      "critic": {
+        "rating": 5.1,
+        "numReviews": 5,
+        "meter": 60
+      },
+      "lastUpdated": "2015-09-16T17:51:11.000Z",
+      "rotten": 2,
+      "production": "United Artists",
+      "fresh": 3
+    }
+  },
+  {
+    "_id": "573a1395f29313caabce26b3",
+    "plot": "A woman seeking revenge for her murdered father hires a famous gunman, but he's very different from what she expects.",
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "runtime": 97,
+    "rated": "APPROVED",
+    "cast": [
+      "Jane Fonda",
+      "Lee Marvin",
+      "Michael Callan",
+      "Dwayne Hickman"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWEyYzczOWQtODlhNi00ZmE0LTgzZTYtOTcxNjU3MDAwM2YzXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Cat Ballou",
+    "fullplot": "Cat(herine) Ballou's family farm is being threatened by the Rail Road. She sends for Kid Shelleen, finding him to be the drunkest gunfighter in the west. When her father is killed by the rail road magnate's gunman, she vowes to fight on. Shelleen manages to ride sideways in several scenes, while minstrels sing the ballad of Cat Ballou in between scenes.",
+    "languages": [
+      "English"
+    ],
+    "released": "1965-06-24T00:00:00.000Z",
+    "directors": [
+      "Elliot Silverstein"
+    ],
+    "writers": [
+      "Walter Newman (screenplay)",
+      "Frank Pierson (screenplay)",
+      "Roy Chanslor (based on a novel by)"
+    ],
+    "awards": {
+      "wins": 12,
+      "nominations": 12,
+      "text": "Won 1 Oscar. Another 11 wins & 12 nominations."
+    },
+    "lastupdated": "2015-09-15 05:02:31.747000000",
+    "year": 1965,
+    "imdb": {
+      "rating": 6.9,
+      "votes": 9846,
+      "id": 59017
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.5,
+        "numReviews": 9030,
+        "meter": 75
+      },
+      "dvd": "2000-08-08T00:00:00.000Z",
+      "critic": {
+        "rating": 7.4,
+        "numReviews": 20,
+        "meter": 100
+      },
+      "lastUpdated": "2015-08-19T19:14:24.000Z",
+      "rotten": 0,
+      "production": "Columbia Pictures",
+      "fresh": 20
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": "573a1395f29313caabce2799",
+    "plot": "A wagon train heads for Denver with a cargo of whisky for the miners. Chaos ensues as the Temperance League, the US cavalry, the miners and the local Indians all try to take control of the ...",
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "runtime": 165,
+    "rated": "APPROVED",
+    "cast": [
+      "Burt Lancaster",
+      "Lee Remick",
+      "Jim Hutton",
+      "Pamela Tiffin"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTExMTgyMDUwNDdeQTJeQWpwZ15BbWU3MDAwOTI5MzQ@._V1_SY1000_SX677_AL_.jpg",
+    "title": "The Hallelujah Trail",
+    "fullplot": "A wagon train heads for Denver with a cargo of whisky for the miners. Chaos ensues as the Temperance League, the US cavalry, the miners and the local Indians all try to take control of the valuable cargo.",
+    "languages": [
+      "English"
+    ],
+    "released": "1965-06-23T00:00:00.000Z",
+    "directors": [
+      "John Sturges"
+    ],
+    "writers": [
+      "William Gulick (novel)",
+      "John Gay (screenplay)"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 0,
+      "text": "1 win."
+    },
+    "lastupdated": "2015-09-11 00:10:16.447000000",
+    "year": 1965,
+    "imdb": {
+      "rating": 6.6,
+      "votes": 2449,
+      "id": 59250
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.5,
+        "numReviews": 1546,
+        "meter": 72
+      },
+      "dvd": "2001-03-20T00:00:00.000Z",
+      "lastUpdated": "2015-07-29T18:53:52.000Z"
+    }
+  },
+  {
+    "_id": "573a1396f29313caabce37ad",
+    "plot": "Forced to trade his valuable furs for a well-educated escaped slave, a rugged trapper vows to recover the pelts from the Indians and later the renegades that killed them.",
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "runtime": 102,
+    "cast": [
+      "Burt Lancaster",
+      "Shelley Winters",
+      "Telly Savalas",
+      "Ossie Davis"
+    ],
+    "num_mflix_comments": 1,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM1MTNlOWEtMjFhZi00MDRmLWJmYmEtNGUzNzdkYmExODNlXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SY1000_SX677_AL_.jpg",
+    "title": "The Scalphunters",
+    "fullplot": "Trapper Joe is on his way to the town with all of his gain of hides of the last winter. However a group of Indians stops him and takes all of his hides, leaving him the escaped slave Joseph instead. But Joe has no use for Joseph and is determined to get his property back and follows them. Before he can do anything, the Indians are raided themselves by a group of scalphunters under the greedy Howie. Not only the hides, but also Joseph falls into their hands. Now Joe follows them alone and tries to trick the numerical superior group out of his hides.",
+    "languages": [
+      "English"
+    ],
+    "released": "1968-04-02T00:00:00.000Z",
+    "directors": [
+      "Sydney Pollack"
+    ],
+    "writers": [
+      "William W. Norton"
+    ],
+    "awards": {
+      "wins": 2,
+      "nominations": 1,
+      "text": "Nominated for 1 Golden Globe. Another 1 win & 1 nomination."
+    },
+    "lastupdated": "2015-08-28 01:08:51.300000000",
+    "year": 1968,
+    "imdb": {
+      "rating": 6.9,
+      "votes": 2113,
+      "id": 63557
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.3,
+        "numReviews": 563,
+        "meter": 56
+      },
+      "dvd": "2005-05-17T00:00:00.000Z",
+      "critic": {
+        "rating": 6.2,
+        "numReviews": 10,
+        "meter": 70
+      },
+      "lastUpdated": "2015-08-20T18:57:33.000Z",
+      "rotten": 3,
+      "production": "United Artists",
+      "fresh": 7
+    }
+  },
+  {
+    "_id": "573a1396f29313caabce3f23",
+    "plot": "An aging cowboy finds to his embarrassment that the successful business he has inherited from his brother is actually a house of prostitution.",
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "runtime": 103,
+    "rated": "GP",
+    "cast": [
+      "James Stewart",
+      "Henry Fonda",
+      "Shirley Jones",
+      "Sue Ane Langdon"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGJhYjBhMTctYzUxOC00ZGEyLThjNWQtYmRjMDg3YTllNmJiXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_SY1000_SX677_AL_.jpg",
+    "title": "The Cheyenne Social Club",
+    "fullplot": "John is working as a cow poke for very little money with his friend Harley when he gets word his brother, DJ, has left him The Cheyenne Social Club. He and Harley ride for nearly a thousand miles to his inheritance only to find he is now the owner of a first class brothel.",
+    "languages": [
+      "English"
+    ],
+    "released": "1970-06-12T00:00:00.000Z",
+    "directors": [
+      "Gene Kelly"
+    ],
+    "writers": [
+      "James Lee Barrett",
+      "Davis Grubb (novel)"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 1,
+      "text": "1 nomination."
+    },
+    "lastupdated": "2015-08-18 00:57:23.330000000",
+    "year": 1970,
+    "imdb": {
+      "rating": 6.9,
+      "votes": 2904,
+      "id": 65542
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.6,
+        "numReviews": 2500,
+        "meter": 69
+      },
+      "dvd": "2006-08-15T00:00:00.000Z",
+      "production": "National General Pictures",
+      "lastUpdated": "2015-09-03T19:49:44.000Z"
+    }
+  },
+  {
+    "_id": "573a1396f29313caabce40c0",
+    "fullplot": "Jack Crabb is 121 years old as the film begins. A collector of oral histories asks him about his past. He recounts being captured and raised by indians, becoming a gunslinger, marrying an indian, watching her killed by General George Armstrong Custer, and becoming a scout for him at Little Big Horn.",
+    "imdb": {
+      "rating": 7.7,
+      "votes": 25181,
+      "id": 65988
+    },
+    "year": 1970,
+    "plot": "Jack Crabb, looking back from extreme old age, tells of his life being raised by Indians and fighting with General Custer.",
+    "genres": [
+      "Comedy",
+      "History",
+      "Western"
+    ],
+    "rated": "PG-13",
+    "metacritic": 63,
+    "title": "Little Big Man",
+    "lastupdated": "2015-08-16 00:52:25.510000000",
+    "languages": [
+      "English"
+    ],
+    "writers": [
+      "Thomas Berger (novel)",
+      "Calder Willingham (screenplay)"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.8,
+        "numReviews": 17172,
+        "meter": 87
+      },
+      "dvd": "2003-04-29T00:00:00.000Z",
+      "critic": {
+        "rating": 7.9,
+        "numReviews": 25,
+        "meter": 96
+      },
+      "lastUpdated": "2015-08-20T18:53:44.000Z",
+      "rotten": 1,
+      "production": "Twentieth Century Fox Home Entertainment",
+      "fresh": 24
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWQwNTZjNTgtMGQyMS00ZTI3LWFkNzEtYzIxM2EwZGYxMDU4XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SY1000_SX677_AL_.jpg",
+    "num_mflix_comments": 0,
+    "released": "1970-12-23T00:00:00.000Z",
+    "awards": {
+      "wins": 7,
+      "nominations": 6,
+      "text": "Nominated for 1 Oscar. Another 6 wins & 6 nominations."
+    },
+    "countries": [
+      "USA"
+    ],
+    "cast": [
+      "Dustin Hoffman",
+      "Faye Dunaway",
+      "Chief Dan George",
+      "Martin Balsam"
+    ],
+    "directors": [
+      "Arthur Penn"
+    ],
+    "runtime": 139
+  },
+  {
+    "_id": "573a1396f29313caabce5074",
+    "plot": "A young, easygoing gunman (Hill) worships and competes with an old gunfighter (Fonda) who only wants to retire.",
+    "genres": [
+      "Western",
+      "Comedy"
+    ],
+    "runtime": 116,
+    "rated": "PG",
+    "cast": [
+      "Terence Hill",
+      "Henry Fonda",
+      "Jean Martin",
+      "R.G. Armstrong"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2QyYTg2NDMtYmU3NS00YjVhLWFkZWItMzU1MTEyMTUxMzAyXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_SX677_AL_.jpg",
+    "title": "My Name Is Nobody",
+    "fullplot": "Jack Beauregard, once the greatest gunslinger of the Old West, only wants to move to Europe and retire in peace. But a young gunfighter, known only as \"Nobody\", idolizes him and wants to see him go out in a blaze of glory. He arranges for Jack to face the 150-man gang known as The Wild Bunch and earn his place in history.",
+    "languages": [
+      "Italian"
+    ],
+    "released": "1974-07-17T00:00:00.000Z",
+    "directors": [
+      "Tonino Valerii"
+    ],
+    "writers": [
+      "Sergio Leone (idea)",
+      "Fulvio Morsella (story)",
+      "Ernesto Gastaldi (story)",
+      "Ernesto Gastaldi (screenplay)"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 0,
+      "text": "1 win."
+    },
+    "lastupdated": "2015-08-30 00:43:43.210000000",
+    "year": 1973,
+    "imdb": {
+      "rating": 7.5,
+      "votes": 16211,
+      "id": 70215
+    },
+    "countries": [
+      "Italy",
+      "France",
+      "West Germany"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.8,
+        "numReviews": 8942,
+        "meter": 83
+      },
+      "dvd": "2002-01-08T00:00:00.000Z",
+      "production": "Universal Pictures",
+      "lastUpdated": "2015-08-30T18:59:39.000Z"
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": "573a1396f29313caabce516d",
+    "plot": "In 1913, in Oklahoma, oil derrick owner Lena Doyle, aided by her father and a hobo, is stubbornly drilling for oil despite the pressure from major oil companies to sell her land.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Western"
+    ],
+    "runtime": 108,
+    "rated": "PG",
+    "cast": [
+      "George C. Scott",
+      "Faye Dunaway",
+      "John Mills",
+      "Jack Palance"
+    ],
+    "num_mflix_comments": 2,
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2NmYmI2MWQtMzQ3OS00ZjNlLWFjODAtZjhiNzliMzYyZDRlXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Oklahoma Crude",
+    "fullplot": "It's oil boom time in Oklahoma and Lena Doyle, a hard-bitten, cyncial feminist has a fight on her hands: the big oil companies don't like the fact that she's working a potentially profitable wildcat rig. Reluctantly, Lena must accept the aid of her estranged father Cleon, and Mason, the man he hires to help. The three form an unlikely team: Lena hates men, Mason is out for himself, and Lena's father is trying to make up for a lifetime of neglecting his daughter. But together they take on the big guys and put up a terrific fight.",
+    "languages": [
+      "English"
+    ],
+    "released": "1973-08-24T00:00:00.000Z",
+    "directors": [
+      "Stanley Kramer"
+    ],
+    "writers": [
+      "Marc Norman"
+    ],
+    "awards": {
+      "wins": 2,
+      "nominations": 0,
+      "text": "Nominated for 1 Golden Globe. Another 1 win."
+    },
+    "lastupdated": "2015-09-12 00:03:08.247000000",
+    "year": 1973,
+    "imdb": {
+      "rating": 6.3,
+      "votes": 674,
+      "id": 70472
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 2.9,
+        "numReviews": 44,
+        "meter": 20
+      },
+      "production": "Sony Pictures Entertainment",
+      "lastUpdated": "2015-08-21T18:00:58.000Z"
+    }
+  },
+  {
+    "_id": "573a1396f29313caabce5445",
+    "plot": "To ruin a western town, a corrupt political boss appoints a black sheriff, who promptly becomes his most formidable adversary.",
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "runtime": 93,
+    "rated": "R",
+    "cast": [
+      "Cleavon Little",
+      "Gene Wilder",
+      "Slim Pickens",
+      "Harvey Korman"
+    ],
+    "num_mflix_comments": 1,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGZmMWE1MDYtNzAyNC00MDMzLTgzZjQtNTQ5NjYzN2E4MzkzXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Blazing Saddles",
+    "fullplot": "The Ultimate Western Spoof. A town where everyone seems to be named Johnson is in the way of the railroad. In order to grab their land, Hedley Lemar, a politically connected nasty person, sends in his henchmen to make the town unlivable. After the sheriff is killed, the town demands a new sheriff from the Governor. Hedley convinces him to send the town the first Black sheriff in the west. Bart is a sophisticated urbanite who will have some difficulty winning over the townspeople.",
+    "languages": [
+      "English",
+      "Yiddish",
+      "German"
+    ],
+    "released": "1974-02-07T00:00:00.000Z",
+    "directors": [
+      "Mel Brooks"
+    ],
+    "writers": [
+      "Mel Brooks (screenplay)",
+      "Norman Steinberg (screenplay)",
+      "Andrew Bergman (screenplay)",
+      "Richard Pryor (screenplay)",
+      "Alan Uger (screenplay)",
+      "Andrew Bergman (story)"
+    ],
+    "awards": {
+      "wins": 5,
+      "nominations": 2,
+      "text": "Nominated for 3 Oscars. Another 2 wins & 2 nominations."
+    },
+    "lastupdated": "2015-08-14 00:00:12.303000000",
+    "year": 1974,
+    "imdb": {
+      "rating": 7.8,
+      "votes": 87456,
+      "id": 71230
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.9,
+        "numReviews": 216577,
+        "meter": 91
+      },
+      "dvd": "1997-08-27T00:00:00.000Z",
+      "critic": {
+        "rating": 8.1,
+        "numReviews": 49,
+        "meter": 90
+      },
+      "lastUpdated": "2015-09-13T17:38:25.000Z",
+      "consensus": "Daring, provocative, and laugh-out-loud funny, Blazing Saddles is a gleefully vulgar spoof of Westerns that marks a high point in Mel Brooks' storied career.",
+      "rotten": 5,
+      "production": "Warner Bros. Pictures",
+      "fresh": 44
+    }
+  },
+  {
+    "_id": "573a1396f29313caabce5b00",
+    "plot": "Three rogues set out to rob $300,000 from an Indian-hating cavalry major.",
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "runtime": 126,
+    "cast": [
+      "Terence Hill",
+      "Miou-Miou",
+      "Robert Charlebois",
+      "Patrick McGoohan"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTNkNWEyY2QtNGMwZS00YjA2LWFkYjktNjhkYmNhYmQ1MTQ5XkEyXkFqcGdeQXVyMjU5OTg5NDc@._V1_SY1000_SX677_AL_.jpg",
+    "title": "A Genius, Two Friends, and an Idiot",
+    "fullplot": "Expert conman Joe Thanks teams up with half-breed Bill and naive Lucy to steal $300,000 from the Indian-hating Major Cabot. Their elaborate plan is full of disguises, double-crosses, and chases, but Joe always seems to know what he's doing.",
+    "languages": [
+      "Italian"
+    ],
+    "released": "1975-12-19T00:00:00.000Z",
+    "directors": [
+      "Damiano Damiani",
+      "Sergio Leone"
+    ],
+    "writers": [
+      "Damiano Damiani (screenplay)",
+      "Ernesto Gastaldi (screenplay)",
+      "Ernesto Gastaldi (story)",
+      "Fulvio Morsella (screenplay)",
+      "Fulvio Morsella (story)"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 0,
+      "text": "1 win."
+    },
+    "lastupdated": "2015-08-22 01:13:04.483000000",
+    "year": 1975,
+    "imdb": {
+      "rating": 6.4,
+      "votes": 3473,
+      "id": 73036
+    },
+    "countries": [
+      "Italy",
+      "France",
+      "West Germany"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 2.9,
+        "numReviews": 144,
+        "meter": 32
+      },
+      "dvd": "2003-08-26T00:00:00.000Z",
+      "lastUpdated": "2015-08-25T19:05:28.000Z"
+    }
+  },
+  {
+    "_id": "573a1396f29313caabce5b41",
+    "plot": "Lewis Tater writes Wild West dime novels and dreams of actually becoming a cowboy. When he goes west to find his dream he finds himself in possession of the loot box of two crooks who tried...",
+    "genres": [
+      "Western",
+      "Comedy"
+    ],
+    "runtime": 102,
+    "rated": "PG",
+    "cast": [
+      "Jeff Bridges",
+      "Andy Griffith",
+      "Donald Pleasence",
+      "Blythe Danner"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTk3MTI2NzYtZTcxNS00ZDBkLWIwYmQtN2JkODQ2MTc0NzMwXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Hearts of the West",
+    "fullplot": "Lewis Tater writes Wild West dime novels and dreams of actually becoming a cowboy. When he goes west to find his dream he finds himself in possession of the loot box of two crooks who tried to rob him. During his escape, Lewis stumbles on to the set of a Wild West movie and through mishap and chance becomes a star of Hollywood Westerns.",
+    "languages": [
+      "English"
+    ],
+    "released": "1975-10-08T00:00:00.000Z",
+    "directors": [
+      "Howard Zieff"
+    ],
+    "writers": [
+      "Rob Thompson"
+    ],
+    "awards": {
+      "wins": 2,
+      "nominations": 1,
+      "text": "2 wins & 1 nomination."
+    },
+    "lastupdated": "2015-08-02 00:40:48.073000000",
+    "year": 1975,
+    "imdb": {
+      "rating": 6.4,
+      "votes": 934,
+      "id": 73096
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.1,
+        "numReviews": 135,
+        "meter": 47
+      },
+      "dvd": "2011-07-22T00:00:00.000Z",
+      "critic": {
+        "rating": 6.6,
+        "numReviews": 5,
+        "meter": 80
+      },
+      "lastUpdated": "2015-09-12T18:46:34.000Z",
+      "rotten": 1,
+      "production": "MGM",
+      "fresh": 4
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": "573a1397f29313caabce5f9e",
+    "plot": "A cynical Buffalo Bill hires Sitting Bull to exploit him and add his credibility to the distorted view of history presented in his Wild West Show.",
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "runtime": 123,
+    "rated": "PG",
+    "cast": [
+      "Paul Newman",
+      "Joel Grey",
+      "Kevin McCarthy",
+      "Harvey Keitel"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTNjNjZkNzctYjlmZS00NzQ5LTk3MzAtMWI4NjQxZjFkMzRmXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Buffalo Bill and the Indians, or Sitting Bull's History Lesson",
+    "fullplot": "Buffalo Bill plans to put on his own Wild West sideshow, and Chief Sitting Bull has agreed to appear in it. However, Sitting Bull has his own hidden agenda, involving the President and General Custer.",
+    "languages": [
+      "English"
+    ],
+    "released": "1976-06-24T00:00:00.000Z",
+    "directors": [
+      "Robert Altman"
+    ],
+    "writers": [
+      "Arthur Kopit (play)",
+      "Alan Rudolph (screen story and screenplay)",
+      "Robert Altman (screen story and screenplay)"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 0,
+      "text": "1 win."
+    },
+    "lastupdated": "2015-08-31 00:54:44.403000000",
+    "year": 1976,
+    "imdb": {
+      "rating": 6.2,
+      "votes": 2863,
+      "id": 74254
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.2,
+        "numReviews": 2069,
+        "meter": 50
+      },
+      "dvd": "2014-12-09T00:00:00.000Z",
+      "critic": {
+        "rating": 6.5,
+        "numReviews": 11,
+        "meter": 82
+      },
+      "lastUpdated": "2015-09-02T18:42:45.000Z",
+      "rotten": 2,
+      "production": "United Artists",
+      "fresh": 9
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": "573a1397f29313caabce71cd",
+    "plot": "Sonny Steele used to be a rodeo star, but his next appearance is to be on a Las Vegas stage, wearing a suit covered in lights, advertising a breakfast cereal. When he finds out they are ...",
+    "genres": [
+      "Comedy",
+      "Western",
+      "Drama"
+    ],
+    "runtime": 121,
+    "rated": "PG",
+    "cast": [
+      "Robert Redford",
+      "Jane Fonda",
+      "Valerie Perrine",
+      "Willie Nelson"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI5MTQ4NzY2OV5BMl5BanBnXkFtZTgwNzQxNTkyMTE@._V1_SY1000_SX677_AL_.jpg",
+    "title": "The Electric Horseman",
+    "fullplot": "Sonny Steele used to be a rodeo star, but his next appearance is to be on a Las Vegas stage, wearing a suit covered in lights, advertising a breakfast cereal. When he finds out they are going drug the horse in case its too frisky, he rides off into the desert...",
+    "languages": [
+      "English"
+    ],
+    "released": "1979-12-21T00:00:00.000Z",
+    "directors": [
+      "Sydney Pollack"
+    ],
+    "writers": [
+      "Robert Garland (screenplay)",
+      "Paul Gaer (screen story)",
+      "Robert Garland (screen story)",
+      "Shelly Burton (story)"
+    ],
+    "awards": {
+      "wins": 2,
+      "nominations": 0,
+      "text": "Nominated for 1 Oscar. Another 1 win."
+    },
+    "lastupdated": "2015-09-15 05:02:04.433000000",
+    "year": 1979,
+    "imdb": {
+      "rating": 6.2,
+      "votes": 5181,
+      "id": 79100
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.2,
+        "numReviews": 3816,
+        "meter": 58
+      },
+      "dvd": "2000-10-10T00:00:00.000Z",
+      "critic": {
+        "rating": 5.8,
+        "numReviews": 19,
+        "meter": 68
+      },
+      "lastUpdated": "2015-08-14T18:36:26.000Z",
+      "rotten": 6,
+      "production": "MCA Universal Home Video",
+      "fresh": 13
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": "573a1397f29313caabce8014",
+    "plot": "Two outlaws: \"The doctor\" (Bud Spencer) and the Indian Girolamo (Amidou) are helping villagers to fight a gang and a corrupt sheriff who has discover gold under the village.",
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "runtime": 90,
+    "cast": [
+      "Bud Spencer",
+      "Amidou",
+      "Joe Bugner",
+      "Piero Trombetta"
+    ],
+    "num_mflix_comments": 1,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM3NjI1NjI4OF5BMl5BanBnXkFtZTcwMTA0MzMzMQ@@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Buddy Goes West",
+    "fullplot": "Two outlaws: \"The doctor\" (Bud Spencer) and the Indian Girolamo (Amidou) are helping villagers to fight a gang and a corrupt sheriff who has discover gold under the village.",
+    "languages": [
+      "Italian"
+    ],
+    "released": "1981-03-06T00:00:00.000Z",
+    "directors": [
+      "Michele Lupo"
+    ],
+    "writers": [
+      "Sergio Donati (screenplay)",
+      "Sergio Donati (story)",
+      "Gene Luotto (dialogue)"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 0,
+      "text": "1 win."
+    },
+    "lastupdated": "2015-08-12 00:37:56.393000000",
+    "year": 1981,
+    "imdb": {
+      "rating": 6.6,
+      "votes": 1750,
+      "id": 82835
+    },
+    "countries": [
+      "Italy"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.7,
+        "numReviews": 436,
+        "meter": 76
+      },
+      "dvd": "1989-06-07T00:00:00.000Z",
+      "lastUpdated": "2015-05-01T18:26:52.000Z"
+    }
+  },
+  {
+    "_id": "573a1398f29313caabce9aff",
+    "plot": "While the audience watches a black and white horse opera, a narrator's voice wonders what such a movie would be like today. Rex O'Herlihan, The Singing Cowboy, finds himself in color and ...",
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "runtime": 88,
+    "rated": "PG",
+    "cast": [
+      "Tom Berenger",
+      "G.W. Bailey",
+      "Marilu Henner",
+      "Andy Griffith"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjY0ZDIzNjktMTVkNS00ODVmLWE4MGMtMDVlOGI1MzYzNTNhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Rustlers' Rhapsody",
+    "fullplot": "While the audience watches a black and white horse opera, a narrator's voice wonders what such a movie would be like today. Rex O'Herlihan, The Singing Cowboy, finds himself in color and enters a clichè-ridden town, in which the evil cattle baron (Andy Griffith) and the new Italian cowboys (who always wear raincoats no matter how hot it gets) join forces to get him and the sheep ranchers to leave the valley.",
+    "languages": [
+      "English"
+    ],
+    "released": "1985-05-10T00:00:00.000Z",
+    "directors": [
+      "Hugh Wilson"
+    ],
+    "writers": [
+      "Hugh Wilson"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 1,
+      "text": "1 nomination."
+    },
+    "lastupdated": "2015-09-03 00:33:31.727000000",
+    "year": 1985,
+    "imdb": {
+      "rating": 6.4,
+      "votes": 1508,
+      "id": 89945
+    },
+    "countries": [
+      "USA",
+      "Spain"
+    ],
+    "type": "movie",
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": "573a1398f29313caabce9f6e",
+    "plot": "Multi-genre flick (western, martial arts, comedy, adventure, etc.) with an all-star cast about a man who returns to his home town, buys everything in sight, and tries to improve its ...",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Western"
+    ],
+    "runtime": 98,
+    "rated": "PG-13",
+    "cast": [
+      "Sammo Kam-Bo Hung",
+      "Biao Yuen",
+      "Olivia Cheng",
+      "Rosamund Kwan"
+    ],
+    "num_mflix_comments": 1,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjg3M2YzYzMtOTQxZC00ODIzLWJmMzAtYTZlZWI2NjE2OWZlXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Shanghai Express",
+    "fullplot": "Multi-genre flick (western, martial arts, comedy, adventure, etc.) with an all-star cast about a man who returns to his home town, buys everything in sight, and tries to improve its municipal (and his personal) profits by sabotaging a train so the passengers all have to stop in his town and spend lots o' money! Throw in various subplots involving some Japanese swordsmen, some bungling bankrobbers (one of whom is the head of security), and a gang of no-goods who try to mess up the town.",
+    "languages": [
+      "Cantonese"
+    ],
+    "released": "1986-01-30T00:00:00.000Z",
+    "directors": [
+      "Sammo Kam-Bo Hung"
+    ],
+    "writers": [
+      "Sammo Kam-Bo Hung"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 1,
+      "text": "1 nomination."
+    },
+    "lastupdated": "2015-08-14 01:06:37.803000000",
+    "year": 1986,
+    "imdb": {
+      "rating": 7.2,
+      "votes": 944,
+      "id": 91091
+    },
+    "countries": [
+      "Hong Kong"
+    ],
+    "type": "movie"
+  },
+  {
+    "_id": "573a1398f29313caabcea2ed",
+    "plot": "A truck driver stops at a small family-run noodle shop and decides to help its fledgling business. The story is intertwined with various vignettes about the relationship of love and food.",
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "runtime": 114,
+    "cast": [
+      "Tsutomu Yamazaki",
+      "Nobuko Miyamoto",
+      "Kèji Yakusho",
+      "Ken Watanabe"
+    ],
+    "num_mflix_comments": 1,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTE5ZWY2MGEtYjA5ZS00YjdkLTk1MmMtNGFhMDRlNTkzNTRiXkEyXkFqcGdeQXVyMTIyNzY1NzM@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Tampopo",
+    "fullplot": "In this humorous paean to the joys of food, the main story is about trucker Goro, who rides into town like a modern Shane to help Tampopo set up the perfect noodle soup restaurant. Woven into this main story are a number of smaller stories about the importance of food, ranging from a gangster who mixes hot sex with food, to an old woman who terrorizes a shopkeeper by compulsively squeezing his wares.",
+    "languages": [
+      "Japanese"
+    ],
+    "released": "1987-09-01T00:00:00.000Z",
+    "directors": [
+      "Jèzè Itami"
+    ],
+    "writers": [
+      "Jèzè Itami"
+    ],
+    "awards": {
+      "wins": 8,
+      "nominations": 1,
+      "text": "8 wins & 1 nomination."
+    },
+    "lastupdated": "2015-08-08 00:03:38.477000000",
+    "year": 1985,
+    "imdb": {
+      "rating": 7.9,
+      "votes": 8810,
+      "id": 92048
+    },
+    "countries": [
+      "Japan"
+    ],
+    "type": "movie"
+  },
+  {
+    "_id": "573a1399f29313caabcec999",
+    "plot": "Lucky Luke becomes the Sheriff of Daisy Town and runs out all the criminals. Then the Dalton brothers arrive and try to get the Indians to break the peace treaty and attack the town.",
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "runtime": 92,
+    "rated": "PG",
+    "cast": [
+      "Terence Hill",
+      "Nancy Morgan",
+      "Roger Miller",
+      "Ron Carey"
+    ],
+    "num_mflix_comments": 2,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjBlYjRlMTQtYjM1MC00Yzk1LWEyNTQtZmYzMjljYjdlMDdiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Lucky Luke",
+    "fullplot": "Lucky Luke becomes the Sheriff of Daisy Town and runs out all the criminals. Then the Dalton brothers arrive and try to get the Indians to break the peace treaty and attack the town.",
+    "languages": [
+      "English"
+    ],
+    "released": "1991-07-04T00:00:00.000Z",
+    "directors": [
+      "Terence Hill"
+    ],
+    "writers": [
+      "Morris (comic \"Daisy Town\")",
+      "Renè Goscinny (comic \"Daisy Town\")",
+      "Lori Hill (creator)",
+      "Carl Sautter (creator)",
+      "Lori Hill (screenplay)"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 1,
+      "text": "1 nomination."
+    },
+    "lastupdated": "2015-08-21 00:39:14.627000000",
+    "year": 1991,
+    "imdb": {
+      "rating": 5,
+      "votes": 2496,
+      "id": 102351
+    },
+    "countries": [
+      "Italy",
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.5,
+        "numReviews": 278,
+        "meter": 65
+      },
+      "dvd": "1992-07-29T00:00:00.000Z",
+      "lastUpdated": "2015-08-15T18:27:10.000Z"
+    }
+  },
+  {
+    "_id": "573a1399f29313caabced0fc",
+    "plot": "Ernest decides to go to Tombstone for opening a eyeglasses store,but soon discovers that nobody trusts him. After helping Wyatt rid the town of Doom Brothers via the shooting,Albright's eyeglasses is really successful.",
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "runtime": 92,
+    "cast": [
+      "Judge Reinhold",
+      "Patricia Clarkson",
+      "Dan Hedaya",
+      "M. Emmet Walsh"
+    ],
+    "num_mflix_comments": 1,
+    "title": "Four Eyes and Six-Guns",
+    "fullplot": "Ernest decides to go to Tombstone for opening a eyeglasses store,but soon discovers that nobody trusts him. After helping Wyatt rid the town of Doom Brothers via the shooting,Albright's eyeglasses is really successful.",
+    "languages": [
+      "English"
+    ],
+    "released": "1992-12-07T00:00:00.000Z",
+    "directors": [
+      "Piers Haggard"
+    ],
+    "writers": [
+      "Leon Prochnik"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 1,
+      "text": "1 nomination."
+    },
+    "lastupdated": "2015-08-11 00:22:51.983000000",
+    "year": 1992,
+    "imdb": {
+      "rating": 5.7,
+      "votes": 154,
+      "id": 104293
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.2,
+        "numReviews": 241,
+        "meter": 51
+      },
+      "production": "MCA Universal Home Video",
+      "lastUpdated": "2015-09-15T17:09:53.000Z"
+    }
+  },
+  {
+    "_id": "573a139af29313caabcf0f48",
+    "fullplot": "Jim West is a guns-a-blazing former Civil War hero. Artemus Gordon is an inventive U.S. Marshal who excels in disguise. When the United States is threatened by psychotic Confederate Arliss Loveless, President Ulysses Grant teams the duo up to bring him to justice. On a hazard-packed train journey from Washington D.C. to Utah, West and Gordon must combine their skills to best Loveless and his diabolical machines.",
+    "imdb": {
+      "rating": 4.8,
+      "votes": 122655,
+      "id": 120891
+    },
+    "year": 1999,
+    "plot": "The two best hired guns in the West must save President Grant from the clutches of a nineteenth-century inventor-villain.",
+    "genres": [
+      "Action",
+      "Western",
+      "Comedy"
+    ],
+    "rated": "PG-13",
+    "metacritic": 38,
+    "title": "Wild Wild West",
+    "lastupdated": "2015-09-10 17:48:40.287000000",
+    "languages": [
+      "English"
+    ],
+    "writers": [
+      "Jim Thomas (story)",
+      "John Thomas (story)",
+      "S.S. Wilson (screenplay)",
+      "Brent Maddock (screenplay)",
+      "Jeffrey Price (screenplay)",
+      "Peter S. Seaman (screenplay)"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "website": "http://wildwildwest.warnerbros.com",
+      "viewer": {
+        "rating": 2.7,
+        "numReviews": 463636,
+        "meter": 28
+      },
+      "dvd": "1999-11-30T00:00:00.000Z",
+      "critic": {
+        "rating": 4.1,
+        "numReviews": 130,
+        "meter": 17
+      },
+      "lastUpdated": "2015-09-12T18:14:42.000Z",
+      "consensus": "Bombastic, manic, and largely laugh-free, Wild Wild West is a bizarre misfire in which greater care was lavished upon the special effects than on the script.",
+      "rotten": 108,
+      "production": "Warner Bros. Pictures",
+      "fresh": 22
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmYyMTc4YjItMGNhNC00OWQwLWJhMWUtNTdjZDgxMDI5MjE2L2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_SX677_AL_.jpg",
+    "num_mflix_comments": 1,
+    "released": "1999-06-30T00:00:00.000Z",
+    "awards": {
+      "wins": 10,
+      "nominations": 11,
+      "text": "10 wins & 11 nominations."
+    },
+    "countries": [
+      "USA"
+    ],
+    "cast": [
+      "Will Smith",
+      "Kevin Kline",
+      "Kenneth Branagh",
+      "Salma Hayek"
+    ],
+    "directors": [
+      "Barry Sonnenfeld"
+    ],
+    "runtime": 106
+  },
+  {
+    "_id": "573a139df29313caabcfaa8e",
+    "plot": "To ruin a western town, a corrupt political boss appoints a black sheriff, who promptly becomes his most formidable adversary.",
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "runtime": 93,
+    "rated": "R",
+    "cast": [
+      "Cleavon Little",
+      "Gene Wilder",
+      "Slim Pickens",
+      "Harvey Korman"
+    ],
+    "num_mflix_comments": 2,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGZmMWE1MDYtNzAyNC00MDMzLTgzZjQtNTQ5NjYzN2E4MzkzXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Blazing Saddles",
+    "fullplot": "The Ultimate Western Spoof. A town where everyone seems to be named Johnson is in the way of the railroad. In order to grab their land, Hedley Lemar, a politically connected nasty person, sends in his henchmen to make the town unlivable. After the sheriff is killed, the town demands a new sheriff from the Governor. Hedley convinces him to send the town the first Black sheriff in the west. Bart is a sophisticated urbanite who will have some difficulty winning over the townspeople.",
+    "languages": [
+      "English",
+      "Yiddish",
+      "German"
+    ],
+    "released": "1974-02-07T00:00:00.000Z",
+    "directors": [
+      "Mel Brooks"
+    ],
+    "writers": [
+      "Mel Brooks (screenplay)",
+      "Norman Steinberg (screenplay)",
+      "Andrew Bergman (screenplay)",
+      "Richard Pryor (screenplay)",
+      "Alan Uger (screenplay)",
+      "Andrew Bergman (story)"
+    ],
+    "awards": {
+      "wins": 5,
+      "nominations": 2,
+      "text": "Nominated for 3 Oscars. Another 2 wins & 2 nominations."
+    },
+    "lastupdated": "2015-08-30 02:00:50.660000000",
+    "year": 1974,
+    "imdb": {
+      "rating": 7.8,
+      "votes": 87891,
+      "id": 71230
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.9,
+        "numReviews": 216577,
+        "meter": 91
+      },
+      "dvd": "1997-08-27T00:00:00.000Z",
+      "critic": {
+        "rating": 8.1,
+        "numReviews": 49,
+        "meter": 90
+      },
+      "lastUpdated": "2015-09-13T17:38:25.000Z",
+      "consensus": "Daring, provocative, and laugh-out-loud funny, Blazing Saddles is a gleefully vulgar spoof of Westerns that marks a high point in Mel Brooks' storied career.",
+      "rotten": 5,
+      "production": "Warner Bros. Pictures",
+      "fresh": 44
+    }
+  },
+  {
+    "_id": "573a13a3f29313caabd0eea3",
+    "plot": "Abahachi, Chief of the Apache Indians, and his blood brother Ranger maintain peace and justice in the Wild West. One day, Abahachi needs to take up a credit from the Shoshone Indians to ...",
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "runtime": 87,
+    "cast": [
+      "Michael Herbig",
+      "Christian Tramitz",
+      "Sky du Mont",
+      "Marie Bèumer"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzgxZThkMTItZDg0Ni00MjkyLWEyNTYtZDRlNjliMmM3NDgzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzA3Njg4MzY@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Manitou's Shoe",
+    "fullplot": "Abahachi, Chief of the Apache Indians, and his blood brother Ranger maintain peace and justice in the Wild West. One day, Abahachi needs to take up a credit from the Shoshone Indians to finance his tribe's new saloon. Unfortunately Santa Maria, who sold the saloon, betrays Abahachi, takes the money and leaves. Soon, the Shoshones are on the warpath to get their money back, and Abahachi is forced to organize it quickly. Luckily, he, his twin brother Winnetouch, beautiful dancer Uschi and the Greek Dimitri each own a quarter of a treasure map that leads them to 'the shoe of Manitu'. There, Santa Maria already awaits them to take their new treasure away as well. But he did not think about the determination of Abahachi's team.",
+    "languages": [
+      "German"
+    ],
+    "released": "2001-07-19T00:00:00.000Z",
+    "directors": [
+      "Michael Herbig"
+    ],
+    "writers": [
+      "Michael Herbig",
+      "Alfons Biedermann",
+      "Rick Kavanian",
+      "Murmel Clausen"
+    ],
+    "awards": {
+      "wins": 12,
+      "nominations": 0,
+      "text": "12 wins."
+    },
+    "lastupdated": "2015-09-07 00:45:23.240000000",
+    "year": 2001,
+    "imdb": {
+      "rating": 6.6,
+      "votes": 12124,
+      "id": 248408
+    },
+    "countries": [
+      "Germany"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4,
+        "numReviews": 2161,
+        "meter": 84
+      },
+      "lastUpdated": "2015-09-03T18:15:15.000Z"
+    }
+  },
+  {
+    "_id": "573a13adf29313caabd2b3f6",
+    "plot": "Joe and Averell are the eldest and youngest of the four Dalton brothers, the worst outlaws in Wild West history...",
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "runtime": 86,
+    "cast": [
+      "Eric Judor",
+      "Ramzy Bedia",
+      "Saèd Serrari",
+      "Romain Berger"
+    ],
+    "num_mflix_comments": 2,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjUyMzBlNWQtMzg0My00ZmNhLWEwYWMtYTIzYzhjYmM4OWVjXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Lucky Luke and the Daltons",
+    "lastupdated": "2015-09-11 00:31:42.637000000",
+    "languages": [
+      "French"
+    ],
+    "released": "2004-12-08T00:00:00.000Z",
+    "directors": [
+      "Philippe Haèm"
+    ],
+    "writers": [
+      "Ramzy Bedia",
+      "Michel Hazanavicius",
+      "Eric Judor",
+      "Morris (characters)"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 1,
+      "text": "1 nomination."
+    },
+    "year": 2004,
+    "imdb": {
+      "rating": 3.1,
+      "votes": 2511,
+      "id": 368668
+    },
+    "countries": [
+      "France",
+      "Germany",
+      "Spain"
+    ],
+    "type": "movie"
+  },
+  {
+    "_id": "573a13c5f29313caabd7002b",
+    "plot": "Jacob van Oppen, the former strongest man on earth, and his manager Orsini, who calls himself \"the Prince\", make a good living by traveling around small South American towns and organizing ...",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Western"
+    ],
+    "runtime": 110,
+    "cast": [
+      "Gary Piquer",
+      "Jouko Ahola",
+      "Antonella Costa",
+      "Cèsar Troncoso"
+    ],
+    "num_mflix_comments": 1,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg1NzUyNDUzNl5BMl5BanBnXkFtZTcwNjEwNjQ5Mg@@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Bad Day to Go Fishing",
+    "fullplot": "Jacob van Oppen, the former strongest man on earth, and his manager Orsini, who calls himself \"the Prince\", make a good living by traveling around small South American towns and organizing wrestling exhibitions. Arriving in Santa Maria, they are met with uncommon enthusiasm, the local newspaper wants to sponsor the fight, helping hands placard the town with posters, and an open call is made for a worthy adversary. Ever so resourceful, Orsini knows how to find the right combatant, but fishing in Santa Maria could lead to a bigger catch than he'd hoped for.",
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "released": "2009-07-31T00:00:00.000Z",
+    "directors": [
+      "èlvaro Brechner"
+    ],
+    "writers": [
+      "èlvaro Brechner",
+      "Juan Carlos Onetti (short story)",
+      "Gary Piquer"
+    ],
+    "awards": {
+      "wins": 20,
+      "nominations": 10,
+      "text": "20 wins & 10 nominations."
+    },
+    "lastupdated": "2015-08-29 00:17:59.280000000",
+    "year": 2009,
+    "imdb": {
+      "rating": 7,
+      "votes": 881,
+      "id": 1388402
+    },
+    "countries": [
+      "Uruguay",
+      "Spain"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.6,
+        "numReviews": 224,
+        "meter": 74
+      },
+      "dvd": "2011-02-08T00:00:00.000Z",
+      "production": "Manga Films",
+      "lastUpdated": "2015-08-26T18:59:51.000Z"
+    }
+  },
+  {
+    "_id": "573a13cef29313caabd8708e",
+    "fullplot": "Armando Alvarez (Will Ferrell) has lived and worked on his father's ranch in Mexico his entire life. As the ranch encounters financial difficulties, Armando's younger brother Raul (Diego Luna), shows up with his new fiancè, Sonia (Genesis Rodriguez). It seems that Raul's success as an international businessman means the ranch's troubles are over as he pledges to settle all debts his father has incurred. But when Armando falls for Sonia, and Raul's business dealings turn out to be less than legit, all hell breaks loose as they find themselves in a war with Mexico's most feared drug lord, the mighty Onza (Gael Garcia Bernal).",
+    "imdb": {
+      "rating": 5.5,
+      "votes": 16277,
+      "id": 1702425
+    },
+    "year": 2012,
+    "plot": "Scheming on a way to save their father's ranch, the Alvarez brothers find themselves in a war with Mexico's most feared drug lord.",
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "rated": "R",
+    "metacritic": 52,
+    "title": "Casa de mi Padre",
+    "lastupdated": "2015-09-17 04:13:09.870000000",
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "writers": [
+      "Andrew Steele",
+      "Eva Maria Peters (dubbing dialogue)"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "website": "http://www.casademipadremovie.com/",
+      "viewer": {
+        "rating": 2.8,
+        "numReviews": 51794,
+        "meter": 36
+      },
+      "dvd": "2012-07-17T00:00:00.000Z",
+      "critic": {
+        "rating": 5.3,
+        "numReviews": 103,
+        "meter": 42
+      },
+      "boxOffice": "$5.9M",
+      "consensus": "Thinly written and not as funny as it needs to be, Casa de mi Padre would have worked better as a fake trailer or short film; stretched to feature length, it wears out its welcome far too quickly.",
+      "rotten": 60,
+      "production": "Pantelion Films",
+      "lastUpdated": "2015-08-20T19:33:31.000Z",
+      "fresh": 43
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BODE1MDYzNjA0NF5BMl5BanBnXkFtZTcwNjY2MTgyNw@@._V1_SY1000_SX677_AL_.jpg",
+    "num_mflix_comments": 0,
+    "released": "2012-05-11T00:00:00.000Z",
+    "awards": {
+      "wins": 2,
+      "nominations": 5,
+      "text": "2 wins & 5 nominations."
+    },
+    "countries": [
+      "USA"
+    ],
+    "cast": [
+      "Will Ferrell",
+      "Diego Luna",
+      "Pedro Armendèriz Jr.",
+      "Genesis Rodriguez"
+    ],
+    "directors": [
+      "Matt Piedmont"
+    ],
+    "runtime": 84
+  },
+  {
+    "_id": "573a13d0f29313caabd8cdab",
+    "plot": "A young English woman is immigrating to her uncle's ranch - but is kidnapped on the way by a rugged outlaw who discovers a problem he never knew he had - leading them on a wild ride across the West.",
+    "genres": [
+      "Comedy",
+      "Thriller",
+      "Western"
+    ],
+    "runtime": 92,
+    "metacritic": 56,
+    "rated": "R",
+    "cast": [
+      "Cohen Holloway",
+      "Inge Rademeyer",
+      "Jon Pheloung",
+      "Richard Thompson"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk1MTkzMjAyOF5BMl5BanBnXkFtZTcwMDczNTEzOQ@@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Good for Nothing",
+    "fullplot": "A young English woman is immigrating to her uncle's ranch - but is kidnapped on the way by a rugged outlaw who discovers a problem he never knew he had - leading them on a wild ride across the West.",
+    "languages": [
+      "English"
+    ],
+    "released": "2012-05-01T00:00:00.000Z",
+    "directors": [
+      "Mike Wallis"
+    ],
+    "writers": [
+      "Mike Wallis"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 5,
+      "text": "5 nominations."
+    },
+    "lastupdated": "2015-08-21 00:59:01.610000000",
+    "year": 2011,
+    "imdb": {
+      "rating": 5.9,
+      "votes": 600,
+      "id": 1783285
+    },
+    "countries": [
+      "New Zealand"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "website": "http://www.goodfornothingmovie.com/",
+      "viewer": {
+        "rating": 3.3,
+        "numReviews": 154,
+        "meter": 51
+      },
+      "dvd": "2012-04-24T00:00:00.000Z",
+      "critic": {
+        "rating": 5,
+        "numReviews": 16,
+        "meter": 50
+      },
+      "lastUpdated": "2015-08-31T18:12:35.000Z",
+      "rotten": 8,
+      "production": "Screen Media Ventures",
+      "fresh": 8
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": "573a13dff29313caabdb786c",
+    "plot": "As a cowardly farmer begins to fall for the mysterious new woman in town, he must put his new-found courage to the test when her husband, a notorious gun-slinger, announces his arrival.",
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "runtime": 116,
+    "metacritic": 44,
+    "rated": "R",
+    "cast": [
+      "Seth MacFarlane",
+      "Charlize Theron",
+      "Amanda Seyfried",
+      "Liam Neeson"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ0NDcyNjg0MV5BMl5BanBnXkFtZTgwMzk4NTA4MTE@._V1_SY1000_SX677_AL_.jpg",
+    "title": "A Million Ways to Die in the West",
+    "fullplot": "Set in 1882 in the American west, Albert is a lowly farmer with a nice girlfriend. But when she leaves him for the more successful and handsome owner of a moustachery store, Albert returns to his lonely daily life of trying to avoid death. Then the mysterious Anna rides into town and captures Albert's interest and heart, but with her deadly husband in town, Albert is going to have to become the western gun-slinging hero he never was. It won't be easy because there are a million ways to die in the west.",
+    "languages": [
+      "English",
+      "Navajo",
+      "Mandarin"
+    ],
+    "released": "2014-05-30T00:00:00.000Z",
+    "directors": [
+      "Seth MacFarlane"
+    ],
+    "writers": [
+      "Seth MacFarlane",
+      "Alec Sulkin",
+      "Wellesley Wild"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 6,
+      "text": "6 nominations."
+    },
+    "lastupdated": "2015-09-02 00:04:58.523000000",
+    "year": 2014,
+    "imdb": {
+      "rating": 6.1,
+      "votes": 119185,
+      "id": 2557490
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3,
+        "numReviews": 62742,
+        "meter": 40
+      },
+      "dvd": "2014-10-07T00:00:00.000Z",
+      "critic": {
+        "rating": 4.9,
+        "numReviews": 188,
+        "meter": 33
+      },
+      "boxOffice": "$42.6M",
+      "consensus": "While it offers a few laughs and boasts a talented cast, Seth MacFarlane's overlong, aimless A Million Ways to Die in the West is a disappointingly scattershot affair.",
+      "rotten": 126,
+      "production": "Universal Pictures",
+      "lastUpdated": "2015-09-10T17:25:07.000Z",
+      "fresh": 62
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": "573a13eaf29313caabdcef61",
+    "plot": "In the tradition of classic westerns, a narrator sets up the story of a lone gunslinger who walks into a saloon. However, the people in this saloon can hear the narrator and the narrator may just be a little bit bloodthirsty.",
+    "genres": [
+      "Short",
+      "Comedy",
+      "Western"
+    ],
+    "runtime": 9,
+    "cast": [
+      "Shawn Parsons",
+      "Scott Beehner",
+      "Brace Harris",
+      "Eileen O'Connell"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDc5OTA4NDctZTdjMi00MmI3LWJiYzMtM2ZiOTRjNTM2MzZmXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_SY1000_SX677_AL_.jpg",
+    "title": "The Gunfighter",
+    "fullplot": "In the tradition of classic westerns, a narrator sets up the story of a lone gunslinger who walks into a saloon. However, the people in this saloon can hear the narrator and the narrator may just be a little bit bloodthirsty.",
+    "languages": [
+      "English"
+    ],
+    "released": "2014-03-21T00:00:00.000Z",
+    "directors": [
+      "Eric Kissack"
+    ],
+    "writers": [
+      "Kevin Tenglin"
+    ],
+    "awards": {
+      "wins": 2,
+      "nominations": 5,
+      "text": "2 wins & 5 nominations."
+    },
+    "lastupdated": "2015-09-15 05:14:52.130000000",
+    "year": 2014,
+    "imdb": {
+      "rating": 8.1,
+      "votes": 633,
+      "id": 3375370
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "num_mflix_comments": 0
+  }
+]
